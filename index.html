@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Fútbol al Día</title>
   <style>
+    * {
+      box-sizing: border-box;
+    }
     body {
       margin: 0;
       font-family: Arial, sans-serif;
@@ -14,62 +17,90 @@
     header {
       background: #0b1f3a;
       color: white;
-      padding: 20px;
+      padding: 25px 15px;
       text-align: center;
     }
     header h1 {
       margin: 0;
-      font-size: 30px;
+      font-size: 32px;
     }
     header p {
-      margin: 6px 0 0;
-      opacity: 0.8;
+      margin: 7px 0 0;
+      opacity: 0.85;
     }
     nav {
       background: white;
-      padding: 12px;
+      padding: 14px 10px;
       text-align: center;
-      border-bottom: 1px solid #ddd;
       overflow-x: auto;
       white-space: nowrap;
+      border-bottom: 1px solid #ddd;
     }
-    nav a {
+    nav button {
+      border: none;
+      background: none;
       color: #0b1f3a;
-      text-decoration: none;
       font-weight: bold;
-      margin: 0 10px;
+      font-size: 15px;
+      margin: 0 8px;
+      cursor: pointer;
     }
     .contenedor {
       max-width: 1000px;
       margin: 25px auto;
       padding: 0 15px;
     }
-    .titulo {
-      font-size: 24px;
-      margin-bottom: 15px;
+    .barra {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 18px;
+    }
+    .barra h2 {
+      margin: 0;
+    }
+    #actualizado {
+      color: #777;
+      font-size: 13px;
     }
     .noticia {
       background: white;
-      border-radius: 12px;
+      border-radius: 14px;
       padding: 18px;
       margin-bottom: 15px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     }
-    .noticia h2 {
-      margin-top: 0;
+    .categoria {
+      color: #1769aa;
+      font-size: 13px;
+      font-weight: bold;
+      margin-bottom: 8px;
     }
-    .hora {
+    .noticia h3 {
+      margin: 0 0 10px;
+      font-size: 20px;
+      line-height: 1.3;
+    }
+    .fecha {
       color: #777;
-      font-size: 14px;
+      font-size: 13px;
+      margin-bottom: 12px;
     }
     .leer {
       display: inline-block;
-      margin-top: 10px;
       background: #0b1f3a;
       color: white;
       padding: 9px 14px;
       border-radius: 8px;
       text-decoration: none;
+      font-weight: bold;
+    }
+    .estado {
+      background: white;
+      padding: 20px;
+      border-radius: 14px;
+      text-align: center;
     }
     footer {
       text-align: center;
@@ -79,37 +110,80 @@
   </style>
 </head>
 <body>
-  <header>
-    <h1>⚽ Fútbol al Día</h1>
-    <p>Las últimas noticias del fútbol</p>
-  </header>
-  <nav>
-    <a href="#">Inicio</a>
-    <a href="#">🇦🇷 Argentina</a>
-    <a href="#">🌎 Internacional</a>
-    <a href="#">🔵⚪ Gimnasia</a>
-    <a href="#">🏆 Selección</a>
-  </nav>
-  <main class="contenedor">
-    <h2 class="titulo">🔥 Últimas noticias</h2>
-    <article class="noticia">
-      <div class="hora">Hace unos minutos</div>
-      <h2>Bienvenidos a Fútbol al Día</h2>
-      <p>
-        Acá vas a encontrar las últimas noticias del mundo del fútbol.
-      </p>
-      <a class="leer" href="#">Leer noticia</a>
-    </article>
-    <article class="noticia">
-      <div class="hora">Hoy</div>
-      <h2>Próximamente más noticias ⚽</h2>
-      <p>
-        Estamos preparando el sistema para actualizar las noticias automáticamente.
-      </p>
-    </article>
-  </main>
-  <footer>
-    Fútbol al Día © 2026
-  </footer>
+<header>
+  <h1>⚽ Fútbol al Día</h1>
+  <p>Las últimas noticias del fútbol</p>
+</header>
+<nav>
+  <button onclick="mostrarNoticias('Todas')">Inicio</button>
+  <button onclick="mostrarNoticias('Fútbol argentino')">🇦🇷 Argentina</button>
+  <button onclick="mostrarNoticias('Gimnasia')">🔵⚪ Gimnasia</button>
+  <button onclick="mostrarNoticias('River')">🔴⚪ River</button>
+  <button onclick="mostrarNoticias('Boca')">🔵🟡 Boca</button>
+  <button onclick="mostrarNoticias('Selección Argentina')">🇦🇷 Selección</button>
+</nav>
+<main class="contenedor">
+  <div class="barra">
+    <h2>🔥 Últimas noticias</h2>
+    <span id="actualizado"></span>
+  </div>
+  <div id="noticias">
+    <div class="estado">
+      ⏳ Cargando noticias...
+    </div>
+  </div>
+</main>
+<footer>
+  Fútbol al Día © 2026
+</footer>
+<script>
+  let todasLasNoticias = [];
+  async function cargarNoticias() {
+    try {
+      const respuesta = await fetch("noticias.json?" + Date.now());
+      const datos = await respuesta.json();
+      todasLasNoticias = datos.noticias || [];
+      const fecha = new Date(datos.actualizado);
+      document.getElementById("actualizado").textContent =
+        "Actualizado: " + fecha.toLocaleString("es-AR");
+      mostrarNoticias("Todas");
+    } catch (error) {
+      document.getElementById("noticias").innerHTML =
+        '<div class="estado">❌ No se pudieron cargar las noticias.</div>';
+    }
+  }
+  function mostrarNoticias(categoria) {
+    const contenedor = document.getElementById("noticias");
+    let noticias = todasLasNoticias;
+    if (categoria !== "Todas") {
+      noticias = todasLasNoticias.filter(
+        noticia => noticia.categoria === categoria
+      );
+    }
+    if (noticias.length === 0) {
+      contenedor.innerHTML =
+        '<div class="estado">No hay noticias disponibles.</div>';
+      return;
+    }
+    contenedor.innerHTML = noticias.map(noticia => `
+      <article class="noticia">
+        <div class="categoria">${noticia.categoria}</div>
+        <h3>${noticia.titulo}</h3>
+        <div class="fecha">
+          ${noticia.fecha || "Fecha no disponible"}
+        </div>
+        <a class="leer"
+           href="${noticia.link}"
+           target="_blank"
+           rel="noopener">
+           Leer noticia →
+        </a>
+      </article>
+    `).join("");
+  }
+  cargarNoticias();
+  // Comprueba si hay noticias nuevas cada 5 minutos
+  setInterval(cargarNoticias, 5 * 60 * 1000);
+</script>
 </body>
 </html>
