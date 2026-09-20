@@ -1,1 +1,72 @@
+name: Actualizar noticias
 
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Instalar dependencias
+        run: pip install feedparser
+
+      - name: Obtener noticias
+        run: |
+          python - <<'PY'
+          import feedparser
+          import json
+          from datetime import datetime, timezone
+
+          fuentes = [
+              ("Fútbol argentino", "https://news.google.com/rss/search?q=futbol+argentino&hl=es-419&gl=AR&ceid=AR:es-419"),
+              ("Gimnasia", "https://news.google.com/rss/search?q=Gimnasia+La+Plata+futbol&hl=es-419&gl=AR&ceid=AR:es-419"),
+              ("River", "https://news.google.com/rss/search?q=River+Plate+futbol&hl=es-419&gl=AR&ceid=AR:es-419"),
+              ("Boca", "https://news.google.com/rss/search?q=Boca+Juniors+futbol&hl=es-419&gl=AR&ceid=AR:es-419"),
+              ("Selección Argentina", "https://news.google.com/rss/search?q=Seleccion+Argentina+futbol&hl=es-419&gl=AR&ceid=AR:es-419")
+          ]
+
+          noticias = []
+
+          for categoria, url in fuentes:
+              feed = feedparser.parse(url)
+
+              for item in feed.entries[:10]:
+                  noticias.append({
+                      "titulo": item.get("title", ""),
+                      "link": item.get("link", ""),
+                      "categoria": categoria,
+                      "fecha": item.get("published", "")
+                  })
+
+          noticias = noticias[:50]
+
+          datos = {
+              "actualizado": datetime.now(timezone.utc).isoformat(),
+              "noticias": noticias
+          }
+
+          with open("noticias.json", "w", encoding="utf-8") as archivo:
+              json.dump(datos, archivo, ensure_ascii=False, indent=2)
+          PY
+
+      - name: Guardar noticias
+        run: |
+          git config user.name "Noticias Bot"
+          git config user.email "actions@github.com"
+          git add noticias.json
+          git diff --cached --quiet || git commit -m "Actualizar noticias"
+          git push
