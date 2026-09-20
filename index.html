@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fútbol al Día</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f2f4f7;
+      color: #111;
+    }
+    header {
+      background: #0b1f3a;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 30px;
+    }
+    header p {
+      margin: 6px 0 0;
+      opacity: 0.8;
+    }
+    nav {
+      background: white;
+      padding: 12px;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+    nav a {
+      color: #0b1f3a;
+      text-decoration: none;
+      font-weight: bold;
+      margin: 0 10px;
+    }
+    .contenedor {
+      max-width: 1000px;
+      margin: 25px auto;
+      padding: 0 15px;
+    }
+    .titulo {
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
+    .noticia {
+      background: white;
+      border-radius: 12px;
+      padding: 18px;
+      margin-bottom: 15px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .noticia h2 {
+      margin-top: 0;
+    }
+    .hora {
+      color: #777;
+      font-size: 14px;
+    }
+    .leer {
+      display: inline-block;
+      margin-top: 10px;
+      background: #0b1f3a;
+      color: white;
+      padding: 9px 14px;
+      border-radius: 8px;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      padding: 25px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>⚽ Fútbol al Día</h1>
+    <p>Las últimas noticias del fútbol</p>
+  </header>
+  <nav>
+    <a href="#">Inicio</a>
+    <a href="#">🇦🇷 Argentina</a>
+    <a href="#">🌎 Internacional</a>
+    <a href="#">🔵⚪ Gimnasia</a>
+    <a href="#">🏆 Selección</a>
+  </nav>
+  <main class="contenedor">
+    <h2 class="titulo">🔥 Últimas noticias</h2>
+    <article class="noticia">
+      <div class="hora">Hace unos minutos</div>
+      <h2>Bienvenidos a Fútbol al Día</h2>
+      <p>
+        Acá vas a encontrar las últimas noticias del mundo del fútbol.
+      </p>
+      <a class="leer" href="#">Leer noticia</a>
+    </article>
+    <article class="noticia">
+      <div class="hora">Hoy</div>
+      <h2>Próximamente más noticias ⚽</h2>
+      <p>
+        Estamos preparando el sistema para actualizar las noticias automáticamente.
+      </p>
+    </article>
+  </main>
+  <footer>
+    Fútbol al Día © 2026
+  </footer>
+</body>
+</html>
