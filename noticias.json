@@ -1,4 +1,305 @@
 {
-  "actualizado": "2026-10-01T02:14:48.587949+00:00",
-  "noticias": []
+  "actualizado": "2026-10-01T08:55:51.580160+00:00",
+  "noticias": [
+    {
+      "titulo": "Un famoso influencer blanqueó su romance con la hija de un DT campeón del fútbol argentino: “Mi refugio y mi verdad” - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTllUY0oyQ202YV9wUENxUFpkNS1vR25SRlZpSEdtaG5wazFmU2xvTmp1X0wxbTFYNC1mWTRRUEJYal9YY1VXTVZPd0tlM3E3VnAzYTdqN0dweHVXOTNhWkpaNzNIMXpyWDFvdG13al80R2tOYnlscmhmZnRWa2YyVHJoOEt1NklfYVppdkpDNlUtVHFVVjBtd0d5Qnc3ZEZ3LXVyRjVCY0Z3UVZJNXViMjdGLVhVQnpiWHExSlVISmxLdllWOU03WU5FWHFNOHFiRldZTnlkLUtSLWNzeGdUR0dia0VkUVdLU05qeXEwUdIBigJBVV95cUxOTEhsVHR2YVV3VWt5Um1ESmZaS25KVjZhRmVIUjktNVUzR1hnSWd0T0htX21LelhuVFFMb2tuQkhXbjItaXN6RmJPU1laV0oya0JoRTh6WkQzemlMVHJURXJLdVBtYnBOa2puYkFfVUlhTndmUFd3Rk1GQ3JscEVGdlRTZ21SbzdWU0FMVWVrYW5YbEFFTDFvWWVGd3dTcndqeUJZbTdRek9tZWFzWG1zZHQxbFlEUGg0WkJ5OFJqR2dyUGNDdENTWExxcUpsX2hIZG1sOUZUc05NcTNBYUwzNFd4ekt6eHY4aUp6b2duYlNZSkZiZllkaUpsczBFTVRQTVFOTnRhTzdEZw?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Wed, 30 Sep 2026 00:18:00 GMT"
+    },
+    {
+      "titulo": "Madelón ve a Boca como un equipo \"imbatible\" y comparó a Paredes con una leyenda del fútbol argentino - Crónica",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON0lmUnJRV0hkWVVQVV8wSkRVRDY2dTdpYl9RYkJ5aTVZMmJXTlY2NFRFTHBMYUZQNlBINDJ0bGdZUGJITlg1V0lfejJmWWVjeEtWaVRvNG43ckEyeGFNQW8wWWx5WGFrbkUtRkp5OWk3ejFlS0dlQXpzc1ZEQV94VUR6WnN5MS1pX3M4YzhGaWRJOFc5X1pmOUw1WmxhXzlPcUdUcVlCenRKUUlISzZsamlpT1FOZE5UYkZCTzEwV05heGRocXM4ekZRU0NXUVVqMlVmb0NiUzdtV0RTbTBpUnBR?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Wed, 30 Sep 2026 21:55:00 GMT"
+    },
+    {
+      "titulo": "Qué canal transmite el Superclásico entre River vs. Boca femenino: hora, TV y cómo verlo en vivo - DeporTV",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2RjUjlBN1ZiOVFnVGg1RXVDaWhlUHFoNWh5YmFURXBVNEg4X1ljM2gxLUFUVzd0SDRWUEdNNUNCNzVyeTFpcktKWUQyeEc5VWJ2ZlhVMUxEZVpRVnFaMWZRZmJQczM4X3hNOXY5dXdYNnk4RDgyNUFhNXpfNVhpS1ZhSk43a3ZEZVZFQXFuYkVVekFnVXF0WEhKQVZtanYxZkxON1UxTkdxMlVnSy1V?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Wed, 30 Sep 2026 12:19:00 GMT"
+    },
+    {
+      "titulo": "Las inconsistencias de un fútbol argentino hecho pelota - MDZ Online",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXMtdHdNZ1lCMTlBN1lLMHFkSUhidndCaDRYOWktVENJWDRkaDRoNUdtSHphand6dE9vNWRONGN4U0ZLUndPVEpJaVpLNEp4TTJXNnNxbkktZnJFOElxMmxmcDVyV2xpU2tMejBZR0VpVHdYT0FhOWpyME44ZkZrSnZuUnpaam5YdmVUVmY4anVDcTdzMm1RSVhfY25HUmE0SzdCdDdkQmd3Zw?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Wed, 30 Sep 2026 10:00:00 GMT"
+    },
+    {
+      "titulo": "Confirmado: cuánto dinero pagó River por el 100% de la ficha de Mauro Arambarri en el último mercado de pases - La Página Millonaria",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSjFVNV9HXzQweXMyY0x6UWtGNXhObXdLR1NHSzFoaU1lM2V0Y252Z0hJZVRHdUx0eGlST3lJQzlVeG5hbmRMSTRFVUtST3RWWHFTaEdILXQ3RHR5amh4eFZfY0NzRHU4bGJfQXlNdlhfMUk5bEY2LVRoNC1JcG9ySFFJUlEyUWlidEJaa2VmNUZwa1hSbzB3b2dYVWlIWmlYbmJIM2RDWHZkdkVwQ0NyZ05tdjlkYVgwLXZwYUJTanI5YkJBU3ZMRThSZXNVOHY2V2JIX0RWaGtoYlBZellscUNqdkFIOG9MMXhZ0gHwAUFVX3lxTE9VLV9taGc0Z3F6WVI1S014SFpyT3ZxdEFCZk9Yczd3UV9wNzh6dXlzeDc5Uko0c2JWMExLcHctZ2ZHbWR4ZzlHVWFtZ0ZiVGg4OUFiLU1yeDNVMHZNRDZOZFUzblZOTWhUVVNaSzJ2NUsteXBlMUVHVjRvNWZ0OVc2TElrYXBSb1JaaEg3TDAtTjZpMEJrYnZXOHNDdEk1eXlsYmFnN092WjZheXJlRVRtX1JqNWJULXJSYThHZG1PX2R5cG1tano5MXlPT1lCNXZGNzZZNGo3Z3VoeE1tUkl5N3FJZmY2M3BuUmhraVpCaA?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Wed, 30 Sep 2026 15:57:31 GMT"
+    },
+    {
+      "titulo": "Dieron a conocer los árbitros para Unión y Colón - El Litoral",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWJYdHN4VVcyMUI3d2FxSTN4X0kyR2dNbm5SUWVkaDcybzl5aVpMb1lYbUpvUXdLTWRfSUVFYW00R185b0NXOFlsUk03ZFFPRFlNcEcwZFdUX2xlb0xtTFBZTUF1cGR2MGRya0ZONEJRc0NWSkt2cGdHOVgxQTlDOFk4ZldCbEVHb19za2tXZmhnak41UjVjMjdHZnl6TDY2anhhMDVPQlhfNG94ZWJHY2hyNUV3anZpWmJWMVFoSnrSAcYBQVVfeXFMTi1qOWZKMFBjajNybmVsZFBjWjFDQnZ5cHNxRVZhWC1Pc184UkJxMGp5TUpnVEtYaDNsb0kycS1ZcjlpQUVmNERRdjJYbm5KZzFOVUdvdzdPM3UxTm5tdFB1YmNvUjZWSGVJZDUtcFZZS2VKTDBjbHozaTZoSEFTYXNubGduZm5vWXVra1R0YUotTWVuRXl4T2pIZHNQS0Q4V2dkcXJwX0xDRzBhbkswWjBmVmFQWFAxNVlPbUh4aXFiMkRZSGlR?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Tue, 29 Sep 2026 23:03:11 GMT"
+    },
+    {
+      "titulo": "Chiqui Tapia y Belloso, la dupla que abrió una nueva grieta en el fútbol argentino - Letra P",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjIwTVMxOE1iN1UtaFRDSE9Sd3pSZUZSc0Jad1ZfUG9yRThaZk01RGdncWZ2dXp1UzNwWUNCVnN5YnU1NTNyeTB4NWFqRk9pU0JlS09INnVqSlVEMTdfMmF2bkRpbjFRd1pIamhHNG9PaEFGNk5yejNjOTNWYjlxRlV3YzVfTWlfWjI2cHd6RW5ueHk3em00NzhCc1VscmJHQ0NPdHpDQTQ0eDR6WXAwWjFUVEVzRWUxX2ZJalZDengzOFluaS1FM1Bua9IB0AFBVV95cUxQSUx0ZVhjM0JFZ2EyOFhPRlJYdVdXdDk0aWxmc0NtVGU3TWZFX05DdFRSbVBrbDZHbHhkUzUxQW52NHVMZlJ0bUFtZGRWRDdCZEFVYmpNUU5iN2t5Z3Ftc3p6b2pQdG1FaGJ6enlwLXVSS2Z0OXRfMERxREd4a3dwRmtCdWZDVzJHUzFrRzBFc0ExdU95Vm5vM3AwUHJCbE1tejAzNXUzRU1fUE9OeFhxTFM5ejAtamN5cTZmbzZPLXdJY3dJSDQtRlcxZVpHdHJQ?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Tue, 29 Sep 2026 22:10:00 GMT"
+    },
+    {
+      "titulo": "Pese a la suspensión de Aprevide, Platense afrontará el clásico ante Argentinos con público - tycsports.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSkZnVEVFcTVPUUphcDdhZkZTSE01QWpWUS1FTzdRel9HVDFDN1NMSkQtX2FfcEp0YzVNQTU4Z2JsOEF1a3JKX19DcWwxNHlHWTQxb0t2ZnZCdHZuZk5uZi00SHFYbEo4X1ZyMWFnZmh4T1JSVEg0WHhMM3l4S0ozTXFfa0VVMnNBZXFhV0J5RF9NcFRlby1lVC1NZnZCZmpVUXRic0U4Tkx1cl9XMnBacXRoZzMtLUlFd3phTWkwUnRqODBxLUV4OURHR2dFelB6cmE3WEEzejVucXNYV19lZl9NVQ?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Thu, 01 Oct 2026 00:27:43 GMT"
+    },
+    {
+      "titulo": "Sebastián Villa encendió las alarmas en Boca - El Gráfico",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRzVJN292T0hscnd3MFhnR2gxVGFwLVA4UzJjcUpnMXVzYmNCcVJzMDRyVTd3SjJ1MGloRklQNW9TRnBRdDl2djdzMFp5aEgzZVlUVWJ4YkZJTDB2Um5tMzR5WkNBYTBUdExFUkpNRDROZ3FOQ0ZTdi1zWm9SSlI1TU9mUi1KLTVyN2dYM3BSSWRvTVNpOXQwRFI5dU5rMlU1U1Q1RG5XZ0huenM?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Wed, 30 Sep 2026 16:59:43 GMT"
+    },
+    {
+      "titulo": "Independiente vs. Instituto, por el Torneo Clausura 2026: día, hora y cómo ver online - La Nación",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcFhOdUdFUHJ5bXFRUkMzenY4azBpU0dDbU1NbVJ3OTZnTW1wUkVDWUVIdDFMUV9CWHlxcUVLb00tU3UwOVRCcmV3d01QSDZDSUo3Tm13MDBiQVBhRWtxRVBZVTRSNnJHMW1iT0VTLXJyMFpxSWVLLU5kX0xzclQ5MUMtNm8xSDktVXVRY2xmWDhtTmNsU01GQkJ0RmlXTFY2bTJwaHVaZVM3SFBqV1F0S09IRGNVN21HUnBWUjB5VEp2d0RENXpNYnltZm1sVnp5ME1Tbg?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Thu, 01 Oct 2026 05:00:00 GMT"
+    },
+    {
+      "titulo": "Independiente Rivadavia vs. Gimnasia La Plata, por el Torneo Clausura 2026: día, hora y cómo ver online - La Nación",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORkNhaEY2WE5RM01lTUdxS1lmczlRNDBJU3VLSkdleUlick9FWFN3MGJ6Zm12WTRlMzdTWkRjNlNrbmN2aDgzT2pyNkFLX21FekFBaFpRcmlaMXFIc3lfelJGVDh2YWhoWURBN20yeENaY1JfeDg4V0dXTW0ycWJvQ1JUalJBUDRCeDZEQ2Y5dG4xRFpNdzVERlN5T3VmUUdRdnZBUjhqQk9fNEgtT2FMckZZcWhhQVFTVHdzaXFHeUJ3Mzl5V0dza09uOXd0NlBtcUZxZUVfa1VmQmF4UVZ2akxtcm41dmtEMFZRTQ?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Thu, 01 Oct 2026 05:01:00 GMT"
+    },
+    {
+      "titulo": "Independiente Riv. (M) vs. Gimnasia en vivo: cómo llegan al partido - tycsports.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb1NwUEQ3RUpnRng5SUV0UDBiOG9QcHo1Y1FFeU5CU1B0TGNZckNXSS02VE5GeUp1Z3FLWFlMdllhcFNyMzktVmdFSHBmd2Q3N00wVVhOa0tDakUycGNIWVY3OGlOMnprTmNCSl9OUjFWcGc1cVhFTlIwVWNOS1JSQVJyaDFkeC1oZVpMeHFSTnNtQ1lFVUV4UUVWRUk3TFJiSUJUY3VHVUQ5cTdsVHdoaVhRT3BiVjc1NzdGMHhXa2RXWDVuSTNnQjdxaG1ialNrUGJFcg?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Thu, 01 Oct 2026 00:30:18 GMT"
+    },
+    {
+      "titulo": "Mateo Seoane renovó su vínculo con Gimnasia – Club de Gimnasia y Esgrima La Plata - gimnasia.org.ar",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPMlBmbVZuOFdQdGdZbG53QTRTbkdLTVZMaFR5TkhkOHgyRENIWjFKNHZuSjVDQlQ1MUZWX19iUWhhQ0RKQ2NkMU90YUhZWHdFeVl0enNGT1lvYXdtZU1iMGl3WVhBUXZ6VDM5OWk5ck9VbkhBRU9Eb0VXdGs?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Tue, 29 Sep 2026 23:02:14 GMT"
+    },
+    {
+      "titulo": "Enfocado en Independiente Rivadavia - gimnasia.org.ar",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pblVvRGF2aTA5c0Q3dkM5NW9aRHctZm84d1VQdEZZaVZjQktrVTAxVEpSdmtkLWxSN2hIU1N6dTh6alVoNGgtYnpSM3QxS1FtTUZvOUp4eG1MeURzWGxzWm1uaHBxVkE2SzhVYmdwdWVVZw?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Mon, 28 Sep 2026 16:17:03 GMT"
+    },
+    {
+      "titulo": "Dos ex Gimnasia que ahora visten la camiseta de la Lepra mendocina - Diario El Día de La Plata",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY050VVMyLTRQXzU2Nk9pb0otSkJ2dUVOYU9Hd3JsTXAxdFZ1cThMc1VUVFQyejkySzRPZFRmOUFoZHpldjZRZE5USnJESDFuWk9wME9BOWZUcFQ3VFZoMHBtOHF1b0l6ZWIwT0RkWmhSNDJrcXRKQ19wOXNWcFgwazdjOExqNkhndVh5YUZ1WWRpZDlTd09KNzRfc0JaenhHNEJJb3pCVFBEVmxBU0ZCR19MRk5Kc0ps?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Thu, 01 Oct 2026 07:35:33 GMT"
+    },
+    {
+      "titulo": "El fixture del Torneo Clausura 2026: fecha, hora y resultados de los partidos - ESPN Argentina",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMFVrVEM5LVBxXzhPTGwtVjBnRFd5Um9KTWlnV3RkbmxpT3d6a0I1SU1Mam5HeTYteXoxRmhOQ1Z3S0swV1ZmUXE3UEt4X0plRjc1VUxHeHJNazhMQ2tSR0M1eVZDc094alFReWhSaXdaZndPZGM3aFYwcWZQZDhrQV9mMEdLQ1NQSkh2M0p1UjZjRVowTmNHZTMzQnJpYngxUzlreGJteFBYSlZwR1U5ekQtaVZodUtZYnAySWdsVUZHVVU4c0JDbXNvbkV2V0k?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Tue, 29 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "El jugador de Gimnasia que se destaca en los duelos defensivos en la temporada 2026 - Infocielo",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUFdOeEo1SmlMX1NaYW5laDN4LXV1TGlVSWhLLTVPTnhwN2ZMeXA5eXJPTVVNRGUtOTl3UjZONFA5YTVIYW1acXVYR21hNUh2RVBiMXJqNFdrWUpNQ016eGJMV1FZOUVnNEU0QzdKVHNiVi1NTmh4bERtYWN3Q1M0UGNIOUYzN1F1RzQ1Qlc0R0VCZjJGd2g5bmxOVXd5WlFaYm0wVU1DMU1LTlJYQ3NkdFY1RnNyZUh0cXc?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Wed, 30 Sep 2026 23:39:55 GMT"
+    },
+    {
+      "titulo": "Scatturice no le paga a Gimnasia y los jugadores llevan dos meses sin cobrar - lapoliticaonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOFlxNDUtZ3dMRzBrcTRHcS1NRXU5SDl1bUJHa19aYVZFWml1NzgxVXRJdWtjTEdpdkUxRmZQdHBVWG41dWkwTlpVQmh6cUdieFhhY1RXNENhUFJXc0ZELS1oZjFSM2kyTHVndVJSR0g3LU9KdGhmekFKeWFCX3dpUnN0aGNjSklON3hBSlBBcTVjU0pLdU1LRDZLZ0VHMTNFcmloRUdtc3d1Zy1YVlk4NG1lTU5iVVQ20gG-AUFVX3lxTE1FcnFodUl0dE45b2FyQWdYM2J1eWhjUVE5SDhwM0xyYkJVTWw3SWgzc01ta25pMTcyb1dLc2FrTmRFWjNXNGs3a2plVTNodFhjeGFvQUpSeWJJakRJU21ybFZtU3JwTy1nb1ZVa3VPeF83VG1vbUUtdE4xVTktNmc3NlJpSlNfNzRGOTE2TDQwY2t3eGtaZWctVlA0dUFLNlJsVVcwejZWV1NpUjRjS0VVTmNodUh4WDg4SWNqc3c?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Thu, 24 Sep 2026 23:13:07 GMT"
+    },
+    {
+      "titulo": "Gimnasia LP 1-0 River Plate (29 de Jul., 2026) Resultado Final - ESPN Argentina",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGdJR2pDZlM2aHVVSEx4QVFEbTY1eXFtakNxczZYNm1ZbjQ0OC03UExwNThzTHZkS1lOaU1Bbk1oMDg2ZXF0NWJpamd1SVR5WEVFTEFJeDluemMwSUdjRTFBLUpXQ3lRVEtVUnVFOXlwVUxZWVlDdUNzVHdaaFRYUld2OFJJdjg0X3VITE0zSmFBdw?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Mon, 21 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Gómez y Bonifacio, los laterales que no funcionaron en Gimnasia y encontraron en Independiente Rivadavia un nivel superlativo - Infocielo",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNURiQmdBRlhSUDVxRFpwMkRwQ0lULWxYLXdwTTBoU1QtdThsMnlsWnlTdTNyeGx6MGpITHNTZlVJakpTX0U5X2NwdkMxQ0ZlUUdwNHJyTWo1MGZMQURFREdjVlF0aWthOUh2eVdST21McnRBbXZ6cGVIT2RaNDRvWlJqSGZLQW45dTZIZUJpRXdFQnpiajFHMFZpWHljVTdhQlNhRWxJczJoT3QydDVzeVNCaG1YcmhZYnFsN1Fmc0l0V0VxaUJhU244RTVzWm12ZGYxSHQ2MHZ3TkNaTVJrbTh6UDdwUjRDYmgtek9HWm8?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Wed, 30 Sep 2026 20:29:46 GMT"
+    },
+    {
+      "titulo": "A un mes de salir de River: cómo es la situación de Eduardo Coudet y su decisión con el fútbol argentino - La Página Millonaria",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQU1MYUdrYzJRSVY0R05ZUUREWmFxeXF2TXE4aERDQ2dHaUtXcEVDWVRIU2dzQV9TMWR6ZG5CNm0xbnZ3MGRWLUZzOTRFYlR3YlM3N1JwZVVZSVJfS1hoN3d6Qy1scU5Wc0ZKd3pOMUFwUXl1Q0tIQkdKTld1bU8xLVJJOWZGdmtQdXRoaVhkX2xNWU11eWo1TTBFMkV0akdXQWkwQ2Ywd0ZXcHd1YzdNUjE1R1JISHBPT1VYTm1salRCY1ZIY3g0U1hBWWFWVDc5aWJpQzNVWWN6NEY1SHBV0gHkAUFVX3lxTE5sdThLY2s3VVg0alM3bUlEbkJ2ODZ0c2t2NS1nT0tadHk5N05fUUdJTEJyLUVGRmtnM3pZc1gyc2NvTXVadEd0WnY1LWRZb01OcmNGTktvTVlzdDJsOWhURWZfa0Y5aHl6WnZieEVGVmRYWXVxVElqWXZDWWVNX1NsaUpkYjJSNEVLeDJFdkViUmRyWHVCdWpIXy1MZ3ZRamtqSU9CVUV0dUw3ZVZzTmpFdlZJbGM5OFYtNEVQV3NObG5RMUpqNERuV0M0Vi1FZlhfR2pfaTF2RG01TTRNUk9VYlJjRg?oc=5",
+      "categoria": "River",
+      "fecha": "Mon, 28 Sep 2026 22:56:29 GMT"
+    },
+    {
+      "titulo": "Qué canal transmite el Superclásico entre River vs. Boca femenino: hora, TV y cómo verlo en vivo - DeporTV",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2RjUjlBN1ZiOVFnVGg1RXVDaWhlUHFoNWh5YmFURXBVNEg4X1ljM2gxLUFUVzd0SDRWUEdNNUNCNzVyeTFpcktKWUQyeEc5VWJ2ZlhVMUxEZVpRVnFaMWZRZmJQczM4X3hNOXY5dXdYNnk4RDgyNUFhNXpfNVhpS1ZhSk43a3ZEZVZFQXFuYkVVekFnVXF0WEhKQVZtanYxZkxON1UxTkdxMlVnSy1V?oc=5",
+      "categoria": "River",
+      "fecha": "Wed, 30 Sep 2026 12:19:00 GMT"
+    },
+    {
+      "titulo": "River, con la Manu torcida: del 2-0 al 2-2 y lamento Monumental - Olé",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRHI5NjVyS3FZcW5HNEZhOTYyVm5oWHlqTnJkWlRWMmljd000blJPYjE3b3Q0NWtQQXlxWmFrQWhONUFnS0R5TXliVlp6dWYwZzhxSkZOeW1jb0RYVE5lR0xDQnA4bG13OFQySmdHdkNwbFdiaFRUbVI4Z2tocXpVSUdnNFBqMjN5YzZ0T3p4eG9yTXpkU2pSUGM0QkxRVW1oRVRUZllISnRwRVlKZHlBZUg0YUk4SmYyaGYxWmpYMUhjaTBqQUFFONIBzgFBVV95cUxQUjU2M09wTlREOHc5QWtUQXhFWDh3c1NBdTU5T041TG56WE5jd0JDQmt6MF9tOEFNcTU5eGNQNHBIY25oM29QeVNGTlFGbnhHX1JubFZlWUxUVVo0V2liTUR2TVpGcXNwUGRFLXBZakw3b1RVdGlzX1hvWTh1RWt5aXJuWHdYSzFkU0tsLXpkRDFoeDNJQ3RxZ0ttRUIwRGlIQ194MGloN1dGVXhpTDV4c0d5bzVtQ09wMndBMERXcUNDeVlPVXBBb19qNHhhQQ?oc=5",
+      "categoria": "River",
+      "fecha": "Sun, 23 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "River Plate vs. Boca Juniors en vivo: seguí el partido minuto a minuto - tycsports.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZnlfVlQ4cHhET1R0WmhZSVgyNGtuVnRwMWRFVzNkdGoyaERTMklDd3N4dEhDZVphUWVBWWJfZXZ1TFBvc1hmNXVETVlTZG9tYTNZUGkybHJtelVZVGlvNzZCNVcwTnZiQmZXa1B2WERxbFdUUGlQa0VTYVNjdjlmMWJVQW95WjBuRTFHd256V2JCVHZLSTROeFk0Y2Z1WFRtd0FqMk5CRHRWOGlTdTlNM212LUFPRGF2REJGUnZzZk5qOUMySW9PcW5nbw?oc=5",
+      "categoria": "River",
+      "fecha": "Wed, 30 Sep 2026 20:05:34 GMT"
+    },
+    {
+      "titulo": "Independiente Santa Fe y River empataron 0-0 por la Copa Sudamericana - La Nación",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFVuX3A0VnEyWUpQd1d4MDZkZnRnaXBLN2VEU2pOUFI5aEh0b0ZGc3dHeHJaT0VuQzM1VmpsWUpSZ1FjTU56anRrcjh1amg2N3V4bzJOS3JTWVdPdm9WeUhGdzU3N2tBOS1pbTczYlNKMThhVFo1ejZ3SVBReDNkTE1LVWFiUkFZN3RPNlAybDdPZm1RM2IxU3Q4RmZQeDFNT18xMDdXTzZHSjZYYWlWMDEtVmdSTXprR2k3VkxB?oc=5",
+      "categoria": "River",
+      "fecha": "Wed, 19 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Alerta en River: Atlético Madrid tiene en carpeta a Santiago Beltrán - Diario Río Negro",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajRVTHoxSnp5Q21MRmFOMHIyLXEwdUVqcnN0UXRneTd2Vkh6N0VBUm5oRDdZZHpWZnlxMHNzMlNWOGhPR2tfTWo4azRXT29nVEUtS0E4N09LQkpFRUY5RTJMZ040OWxOd0N0MWhPaWtfYm00cDc1S05OX0l6WHhHdGswSkFjZ0ZpVXZuM0VuSWU5VzhKS3haUzlWbUNUV3o0STZ4eWhQWnNCaTdkUFZ6VHc4NNIBuwFBVV95cUxQZ0hpVEZYT04xVXZmcG5walV1cy1xbzNtamtELXZFSUdnM1ZJam9BeDZEZzlYNXhPMnhMdVd1X2NoaXZ3UnVYUTFCeUpDUER4VmFmZHRIV3Q0SnFVbWNRQ1hNTWVCdlZZWVEwcVJPSDFlb3VNenFEalZCOC1ET29HZTJ4dFZMWVpGZmNQY25YOHBqd1hlWWVoR3I3X3JobkJjdFVFa09jYmJsSVZVbDVMdkJZZExDYTNsRjB3?oc=5",
+      "categoria": "River",
+      "fecha": "Wed, 30 Sep 2026 16:39:13 GMT"
+    },
+    {
+      "titulo": "River hoy: los 5 que deben volver en diciembre, la revelación de Sosa sobre Colidio y la renovación de Cent... - bolavip.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWVTUDJHZlZnS2RlcjVVWHRjUkdwNWNNN3dCYUNJTllqNDB0QnA0N0xZRnh5RThQS3BhNVR5aGxPanZIYTRlZTZMdU01UnIxY2RWZkRwSWt5Tzc5bV9sOGkybk1uN2QxcTR3Ui1ibWdBc2cyaXZ1ZDhrM0c3dC1YZFplZTNpWFUtLUFobHZOSmo0MG5vYjE0ZjZ1QXpQNndyR3dPVWVpQ3ZEUEhGSTN0aUxR0gG3AUFVX3lxTE9SQ1ZBVWlZX2F5aEtKeTlzbFlsb1B5RTlhWUEyU0JMRWNCdHpPS2w3YkdOTEIyZzdxZHAtSkJJeGgxOEhSaEdnT0tFUlFhTFBKclZwdDZZVHVHQzVUbkhZanhrWHFRcG1vSnJjTU1rMGYtQ3RnZGc2c09SMmpwTksyUmRsazV6aUk2RFNZQ0x4bVo5TDQ1eGRwMkdNSi1VeDAwYnp0S3VleUdMcXM1NmFnTDhYRDlBRQ?oc=5",
+      "categoria": "River",
+      "fecha": "Wed, 30 Sep 2026 13:55:51 GMT"
+    },
+    {
+      "titulo": "La agenda de River en el Clausura: podrá llevar visitantes a Junín, Córdoba y Mar del Plata - Perfil",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbjF6dW5FcERYa2hnaEVYclkzUG1BOHJ6clhOSU0zUlkyVXBDLUJmRF81VUxuYnFRSjNQV2lXRmdZekt4SXhMZWE2SXN5MDJPLVExTkFlWGNOQUhZN2lMMzFwZDh6eVI5bjNKaXZIblloUTZrNmtyQmVvQzRvNDVLOEJGVGhGYUxFSTc0TUdPX2x4S0JrdlhDd2doVy1mZllQZVJ6TGRWTV9OZ3VqYjZOOTRWaEwyUHlsNng2cHdmR0tndEFtRzZKWVBTSHRFSGPSAdQBQVVfeXFMUHFpUHZlZ2ZKRUhSa0VFUWFjR2RRUkNtdkNLYzZ5NVhiRkFFbUljN0NpX05VTm9EZ3Y2TG1La0FZNFo2ZXJNVy1ZRVdjakllYXRNdm5hU20taGZOR3pDQ3hoV3NVZGJCcWFGa09HZUxfUzYwbVdBdU54MVJ1a2FYa2V2SUMta2RFYmViWVU2Ql9mMFpIaVhFZEtRQTZRc1pzS0FIclpoZ1hXNVgyUUZqZjd4X2YxTWl6RFFxdEVHZDh5MnZLblV3TDNTTjc0VUF5dXhIS3Q?oc=5",
+      "categoria": "River",
+      "fecha": "Tue, 29 Sep 2026 01:06:45 GMT"
+    },
+    {
+      "titulo": "Santa Fe conmovió a influencer argentino con camiseta firmada - Futbolred",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTE85N1FsV00wcDBiQzBvc05iWERza2pub1lXcC0zOXRXVU80YUlrNnd3TlQ0bTN5YzQwbjk4S1Jyc1Qta2NIaUd6R2NfaFBZVlRfcmQzdEx1YUQxVVZuOHVuRUxzb1NkOUhNYUwzQ1pEWmV0SVk5Q18wRUlCLU5kNGZZVUpXWEhyaXN6QlhPVGZhU0xHMmxzbmxXOG4tdlFBYV9BT3Jtb3g0eEhlbFhiRm43NmgtaEY3R1hwRzN0bmY1QVJFaWRNbldvMzlzWnZ2WW42ZmdZWFhxZVpLbWxfd2xHSm5pM0XSAewBQVVfeXFMTTdrbEdGV2ctTjFLWU9HVzl4b0ZsN3p1S0xDWUsxcnhzcWFoaWxaMHFhd2RuMTlheURxTTVoQjgtOFdfTjdsR0pOUVNMWTdad3V3ZjN5bS1uOTg1Y0k3R0l1MVh5TmkxeGdhWFUxYVMzVldCR3l5NUE4ejlMQmxVMVNnb1ZDSFJ0Z1hZOHpnc2U4cUVlVTRYdGstMFVBZ0ZQemJwb3pKbFl3MnRoMDNod0FIV3Vla3h6eUF3S3R4a29lazdCdTFMSzNNcjNKWkNNZjJILXlLS1RTaWVRdlRveEtUaXJIWFZRcThwUWg?oc=5",
+      "categoria": "River",
+      "fecha": "Wed, 30 Sep 2026 22:46:46 GMT"
+    },
+    {
+      "titulo": "River Plate podría quedarse sin una de sus figuras en el próximo mercado de pases - Futbolargentino.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUjRuQzdNREVLcDVVclY1NmNGYlR1cUFNVE03OV9jb2hmb05iTzlSOENBU3V6VlNQdlhnZzg0TXJmQ29IQzJRcjJHV2FZZEliMFhDWmdGZ2MwLWtsay13bFZ0djN5WnlaZEJSNWV6SmdfZy1RUFB6NW1rSnpQa0lXN2kyalItd25iQXhVWW9leWtXVFJPVVhub0dLNWFVck5WSWxJ?oc=5",
+      "categoria": "River",
+      "fecha": "Wed, 30 Sep 2026 20:33:26 GMT"
+    },
+    {
+      "titulo": "Qué canal transmite el Superclásico entre River vs. Boca femenino: hora, TV y cómo verlo en vivo - DeporTV",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2RjUjlBN1ZiOVFnVGg1RXVDaWhlUHFoNWh5YmFURXBVNEg4X1ljM2gxLUFUVzd0SDRWUEdNNUNCNzVyeTFpcktKWUQyeEc5VWJ2ZlhVMUxEZVpRVnFaMWZRZmJQczM4X3hNOXY5dXdYNnk4RDgyNUFhNXpfNVhpS1ZhSk43a3ZEZVZFQXFuYkVVekFnVXF0WEhKQVZtanYxZkxON1UxTkdxMlVnSy1V?oc=5",
+      "categoria": "Boca",
+      "fecha": "Wed, 30 Sep 2026 12:19:00 GMT"
+    },
+    {
+      "titulo": "Boca debió golear, ganó 3-1 y va tranquilo a Paraguay - Olé",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPM1lNd1IxZUZpQ001bXE1UlJIWU1KVUIwOWtTRzRscWUxZUs3empEQlBwekZaNllfc25DTHpySllDOTVYQm5zMjNlVWVSUEQ2bzdGNnE2d1NQNkVWcExOZ1Zwb1BqRExFS3J3eFdtMDk2Q05qUl94d2RwbUt5WndlN2VySGZUbGV0SFM5Vm1janpZekhjWnd6RVk2eWhISk9uZjFMSXU3VHdWaURTeWExMHUwcEZFbmJXWWdlaVNMN2RaX2g1ZUJVdHloSzVtNXhLM2lUU0NNampqdW52N0pYTjlLeGpDazk4aG5LODBsUjNzNmRacTM3TlBlcEZ0WkRhWHhCU3VZWkU?oc=5",
+      "categoria": "Boca",
+      "fecha": "Tue, 11 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "River Plate vs. Boca Juniors en vivo: seguí el partido minuto a minuto - tycsports.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZnlfVlQ4cHhET1R0WmhZSVgyNGtuVnRwMWRFVzNkdGoyaERTMklDd3N4dEhDZVphUWVBWWJfZXZ1TFBvc1hmNXVETVlTZG9tYTNZUGkybHJtelVZVGlvNzZCNVcwTnZiQmZXa1B2WERxbFdUUGlQa0VTYVNjdjlmMWJVQW95WjBuRTFHd256V2JCVHZLSTROeFk0Y2Z1WFRtd0FqMk5CRHRWOGlTdTlNM212LUFPRGF2REJGUnZzZk5qOUMySW9PcW5nbw?oc=5",
+      "categoria": "Boca",
+      "fecha": "Wed, 30 Sep 2026 20:05:34 GMT"
+    },
+    {
+      "titulo": "Boca Juniors vs. Unión Santa Fe, por el Torneo Clausura 2026: día, hora y cómo ver online - La Nación",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdWNaNEdwVlBwcm5ZUFpDeU1ZMFdEb1p2RmRTNndtZE5nZTZXRzNoc1hpR3lEZ3RwMF9KR0UwSnA5UldlTDJjcGlZcU1iYVVsR3dhSnZxdEtldmNfNWFHX21wUF8yQUlEYWd2c3hRNy0yWWRmYzlLQzcyWXBPWGdVdUNwcUhnODhwY29FS1J1SmFHUWRJcC03U1p4VFZ2eDJHRHZ2UHg3LXE5emhCQWZ3eVJSSktlNGhOci1RVG9zRHFuWmNCeU9NdDVSMGdYMjUtMjBPYk9ya1NRdw?oc=5",
+      "categoria": "Boca",
+      "fecha": "Thu, 01 Oct 2026 05:01:00 GMT"
+    },
+    {
+      "titulo": "Boca remontó un partido increíble: le ganó a Racing con tres goles de Enner Valencia y jugará las semifinales de la Copa Argentina ante Banfield - TN",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT1ZvZ3c3QTRDbVZfUF94MU44ZC1YcjNGUV9JMTlSQ2hvOW5SanRMZXg2LW4xLTYtMFIxUjJwMGE0TlE4a2FvSUJUUEZyZmJ6eXNsTjFnV1JxalkxdGd6NzR3LW9XeHRyanhIQkVEVkVURkJ0LWQ4RGN1S3F4SkZpYVBld19MMmRoMjZwYU5iQVpoM2pKTEZuZk5SeDhzN1Y1N2lGOHF1X3BlSE9ORGlPZktEUkd1TEhrMlZvSk5RaEhmcndxaDBGdnlpZ2ozM210RUlRWWdwQjB2eWd0WTdhSTJoOGtLQdIB-gFBVV95cUxPTi1GUzhlUFo4V2diOUotREJveks5Zm5oNE94MWQySmtJcDd6SVI3RjkwcHkzQTRQdm1Cb0UzN1hxTGtfN0ZVWVY3MlVQTllUZ3hPUmROWTdILXU1bkxVUVdTUUJWZ0xySUoyX2ZZRGpIYWItSmwxVGxhRFJtbjJ2UEotYUNjTVZuM2UxbGh4a0JiYjZBSWlCS193aFRTeGFVOFBIQnZOSVppQll4X2NSd0xKU0tQYXl0Nk1fWjVONGpGSFRSM0FrWWZadDJEQzZNNVlFb0R4cG9aT1U4dmRlWjZ0dGloS3E4dWdXT2VCVHRJZUNLa09HQjBB?oc=5",
+      "categoria": "Boca",
+      "fecha": "Sun, 27 Sep 2026 23:58:59 GMT"
+    },
+    {
+      "titulo": "Báez le dio un codazo a Flores y se fue expulsado en Boca vs. Recoleta - ESPN Argentina",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeE5SYnlseklfXzlvdUxKS2YtRnRybjA2WjNqdV95MG1hMTR2ZTFwWFBVeldGTm5xbHdFY0t4cnpub1BfdFZKMFJVbzNXUXg3OXNmY1NaTjJYTFozQlZQWjRtQkF6REJieHZNVm1NUVJaN0I0c01CVUNTUXplbUNjYko4S3FnQm9KNUYxUnZyLWtnMzRNcGp6TzhSekRDUC1rWlFURFBfZmo4cFBxbV9EMlNQRlc4SHpkVnpUQXN6VC1rTGR5Q2ZmT1RGRzV0UFJTRmlfVlB1eXhtelBsb3dBak5MTHBUb2M5V1dPMVhrOA?oc=5",
+      "categoria": "Boca",
+      "fecha": "Tue, 11 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "Copa Argentina preguntó si Boca - Banfield puede jugarse en Córdoba - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUF9mRFdRb1VFWjkwb0RUMGZKMng3VVZWdEFRbW1fMVBhLWVEUVBJNE85Ry1SM2REal9MalpGNzJ2SkluOHNGdHFVekNuV2lXdUpRcE1jOTJ1ZUFFQl9PaFF2bXZEYVZtcHlabGZmYWV3OWc1cW9QUHdhMGhCcUgxd0cyR0dzVk9qX01HZjhvS3oyam1UbDJiZm5PSW12RWtOUWFJZHNMZXhFNXZBMkM1aTYwc9IBuAFBVV95cUxPNWtBWEF5Y1hmOFNBRFV2aXRaRkVIT293TkxnN1FZaktXanVtZHRnVEdza3p2TGphWXBCaGVoVzN0bktRdlpIWG1WTElrelVDOExORnVSU3Z4UlI1YWxBSjZnMzVTN2N2Z2FRaWIydkdJMkRpUFJJck1mbFJfTG5uX1NBYzlLUmdqOVJXb2NiSFhQZ0pfekwydVhEV1lRbXpHeHExTHpNbklGaC0yOUVfYlFtWnAxM2dk?oc=5",
+      "categoria": "Boca",
+      "fecha": "Tue, 29 Sep 2026 21:50:37 GMT"
+    },
+    {
+      "titulo": "La plantilla de Boca Juniors presenta las nuevas redes sociales del club en inglés y el vídeo se viraliza por - Diario AS",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQT2w0RndTb2ktakxqOUF5dWRwc0lCRll1YmhhbGs5VmtNZUhjZWRTdVliTDcyTUEwMktwV2hHNWw1b1RjSmZrZW9KRUM0LUtTUDFUWThtQ09iMjF0cWxjYmFfbVctbGZhdENZM3o2TFVfdkZxbzFFSzVuXzE5VjRtcTVXZ2VZdlBrdElUVDltRWc3N1VyTFhJVEFPd0d6ajZndmlqUFRFQkQ3WWhUNl9yazdDRDdQZUNTWGM3bkRUWnlxTTVQWlVBSlJ0RHdoSWYySUtYY1NrQ3RPVDZuZk8zRmE0UElkNUVkMWlYeFFPTVVkUWdqaVA5WmtVZTJnQdIBkgJBVV95cUxNQ24wUjVEZUpnNXBCNVpmZmRoUjhZblN0YU5qbDN6SXZyLW9JTmZmNktoQkVTVUpNS05rWVE5RnFZMzB2UWNGbEtScnVBN08xNGNXX2lnREdybGJPV1JLdGxWS1pFWUtteXUxQXpwUnJ2NTgzU2g2a1B0NFZ1QnFPd1dia1NPVzlBQWZ6R3ZQMEJqYWdRM1VUUWxzY2NqcWZTdUxGV0ZxZm5YaWRQTXdCSFNLNzhkLVNxc3llRG90T1JMN1VLc1l6dDFRYnctZldqVlZicGFXOTlFSmdITUY5aXBYZXltZDJVeHU1UDFsZGNZZ2pRWTBzeUpHTDk2dzlIQy1lWHlQYVRYUW9lYVZhUmtn?oc=5",
+      "categoria": "Boca",
+      "fecha": "Thu, 01 Oct 2026 06:20:08 GMT"
+    },
+    {
+      "titulo": "Vasco da Gama busca disputar el duelo ante Boca Juniors en su estadio - DSports",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2xCRjJ1VXlGLVNRWG9RbVJ2eFNpWjhXNl9obHVlQi1tMjdvVXJfdlByZkdDS0h4ZjkyalFVTElFaU9Ud3MxSm04QzI0ck9lVjF6SmJHc1hoSkUwN216Y0M3bE9NYVlsbHo5eUZCakNZak5HX0h1anB0emt0bnFGYTNZZlNUQTMwZnczOUVVbjNFY2pwQnBPNXBLMnJSWWgyU2pvN0VXVFlCQVY1bEFwQmhsRUdtZkhBOURXemRfQVl0SVXSAcgBQVVfeXFMT1NGSm5nR1lsT0JQSVhHa0dPLUlDTUJlTjBVbTBZSWluQlRVeFlrY1IwUkY0Z1p6dU0xYlNpM003NDVBWWp4RW5EQlJYRzZpT01xc21xbm5XWDZSbDh5RkZJNWNsa0k3VWVILVlIOHp3TkRUamhtcVY2M3RaOExXdU13b0hab0NaVWRhbGNxTWVLcGc4RE1mTkg3dFN0a3hsaHVMeWhobm54czc3d0VJSUdJblNlUjBId0dLdTdQWG54aVBubEx4YTg?oc=5",
+      "categoria": "Boca",
+      "fecha": "Tue, 29 Sep 2026 14:56:06 GMT"
+    },
+    {
+      "titulo": "Hizo un triplete con Boca Juniors y ahora Marcelo Gallardo le manda este mensaje a Enner Valencia - bolavip.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTnl6emtZWEt3dk9HWTlzWUtOM1E3YzFkVGN6R25QeWRMOHFuc1p0Zm5tMDd6MnFGZVJsM2dNLVpHcEVKTG0xbW95T3g2Qy0xejBrMm5BM3NfR0J5R3NQSG5IZ1lwaGlpby1MS0RVaTd4dVdWZ01pZHV5Q095dkVZR2FnYkhkQUJSNjdfdFZ6SjMtYVVjN1F3eTJESjZ0dGpsYXczeWVCLS1zQ0RtOEZuMjkxYTgxNlpWM3ZzcEoxSjk2Uk16amJpSmE3dnXSAdIBQVVfeXFMTkNxQ3o1TDVGOGZoYzdrTGkyZ2lKRDFEYzRfbjI5eFJYTndhOWZsOUdsQTZBa19RWUVJRnhWRDB1TzZkQkRTRE56X1pyQVUzcFByekFTUkt4VEZ1MnE5Z0VmbTc2aDR3MFlKUjhTX1I2UVFFa3J3ZHh3VGNfazJUeHBIWWVvVm9qRDBBR3pGQ3UyWTcxOTEtUDNRVVdOeENJenVfLXE5cTFJcF95UlpVOXdKaWFXSFg3c1kyYjFrZF90bHBRTF85eHdEOEdvM2Rfb3hR?oc=5",
+      "categoria": "Boca",
+      "fecha": "Wed, 30 Sep 2026 18:12:15 GMT"
+    },
+    {
+      "titulo": "Llega el Fan Fest \"Gracias, Leo\": una experiencia única para despedir a Messi junto a la Selección - afa.com.ar",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFdXU3dxS000ZTh6dmVKZE85Rkp0SkNGRVM5V3NHeXpKMndvckRBeHNLZmxYQmpNNllzdEUzWGF4UXh4OXpYbnpmdHpKOV9nUUhTY0o2YlBwT0FzV1VTbzVlNEpYWG1yZXFNRldIOW1WVXYtTi1jRTk0WGV3VDhVeVdJaHVBTE5UVWdnc2NIanFVVTgzMHg4Yl9TazVaaG55MmY3U2QtOWRROFNJYUo4dlp4NWd4R0JyVWhuMXFkUVl0bk1E?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Tue, 29 Sep 2026 20:48:37 GMT"
+    },
+    {
+      "titulo": "Día y horario confirmado para la despedida de Lionel Messi de la Selección Argentina en el Monumental - La Página Millonaria",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYUcwbmtlU2tzT2xDMzhiWWQ0V1hMSEtxQkJJVDloYjd0N0ZsREVzTEZDOUplNy1idVZKeGUzRUpKTTFsSF8tb0txaVZoT1A2OGlZR3o1bVRWVk05aHE2VEpjLVd1TDYyVTM0aDJ5bEF0R2pQVVdFMFN6T0RWMVpPVktVc3BaeHhSeWJvRDR5N285cXFZSTZTemY2d3B3Vzh3bm56YUM1RURwdmlPUHh2ajZKQTVSaFhsVDNmM1BsZU1Vd2xmUS1lN1V5d01nelhBRkpKZTZXRlF3WVNqVlRlcnh6aEozV1nSAewBQVVfeXFMUG5mQ3p0MTFaQTF5ZW9iYXV0RVBNZkVKRUI5VldZN0hCWm9nbjJWYUhRWHlock9ndFVXYURJUjhiZG1tTHczdFM2SGlzdDFaLWJDQnhyT0JSam50OWpnZllFWDdQM09XZV9jb0JjTExrN0Z0RU9QWXRxYVYwdXlxY2doQ1FiMFk2Z0tOcGtpbzFUZGNlRF9JWE9fTXpVOENKYWZkOVlhSVhGRDRkU2lIenh3S1JLMlUxR1ZpWGtCSHBCX0h6MC1MT2dTRDktV3B0Z0VsNS02VlR4WXZGdG5OYzkzSGQ4V2xVU0VqbXM?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Mon, 28 Sep 2026 15:21:13 GMT"
+    },
+    {
+      "titulo": "Resultado de Argentina vs. Bolivia: quién ganó el amistoso internacional - La Nación",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdV82ZWlBYU05X3ZucGpNTHZUdHU2Z1FLT0k3eTNaMUJqanNBcHJaOElCeHFUaGFKT1pzeV9Bb29pRkxKaUhWNDRWQzMxTk54WDduNk1qZXpSbXI1b3hEVjVQQWc0NWgzSTlyX05QU3M3LTBzZF91LXNUUHNaRGVuWGZSLTlmMGRBczkzVVp1MVdzMU9LalRxSlZrQ2FrZFh2XzN4a0MyVXVjRl9JeXZFcktvYmxGeEQ1LXA1RmtwRUtoWm55SWlTMnoyaw?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Thu, 01 Oct 2026 02:13:00 GMT"
+    },
+    {
+      "titulo": "AFA apeló la sanción a Leandro Paredes por la pelea ante Gavi: buscan reducirla de 10 a 3 partidos de suspe... - bolavip.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUmhrM0gyaWdoSmdFU19Zbl9JSmlpSVBLUEhGU0U0Ri1DM0ZxTXNhcFN0UzRiTnBuOUphQW15cWczU1k1ek0tTjUtNUpxOGctOEs2SDdCeDNDQWVFdkJfalNjVmQ3eURBYW02emFxN3NrY01NOERPZjZfTjlXa2YwM1JqanNocW9Zb09lZGwyRFJWbXRfWGR5Wnh1cXNObnh4dERfSDJfRGZSWU8wUmF4dUtIQi1WM1pzRXlMaXlHUEZFY25ZZEE1WkJkUlNvb1BiRTI3SlFBR3RFejRD0gHiAUFVX3lxTE5yWnJVdnN6ZlFPWkQ3YUtqemJtTk5YaUo4ZkRYaDJVYWpqc1VfLW1NVlQ0RURKcDE4U1FjNmgtZWY0VzM0bFhrbGJHZ0pQVTUtQWpibDdoWFJBZXJSM0VZbUdmaFF0ZUdfeUNRR2VCSGtnWGw3bXZZR01NSjliVENlNTNnY05MZXYxVzVYbGJJOTc0TW5RUGFyZjlKbGRNWlhTS0FkV2UySlF4UjE1NUNCWXdzTU9sZUNwMWdSb2xvdnJGOXBINDdwWFVSOUNIV2s2dmUySE00di0zc0JvLVc4N1E?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Wed, 30 Sep 2026 20:48:29 GMT"
+    },
+    {
+      "titulo": "La AFA busca reducir la sanción a Leandro Paredes para su regreso a la Selección Argentina - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUmNjUk9IYkhIOVI2R2RCRVlkRFpOSWpOa2F6aDBSMVRXTGdHZW11bTBILS1EcVQ2VWlxQXBmNnkwZDJQMko2WHlGSk1JLXZDUXE2ZDhWcUFGV3JvTktMT2YtR1ZYRzZBYWFuc3N1LWhJMEV6VXVza1lBUHktcHhESm5qeGVTZVlfUXBBNnRmQTFLWWtWelhJVzIxR1hWUExLRGwxOG1Bcmx2M1hWdVFGX3I5aVpfMU5Zb0M5RFItV0Y3Q2llMURCeGg1Qk91Vm5HS0diQtIB2gFBVV95cUxOZnlrLVotc0d2b1ZrVmpRS0c0dzRseVBqczZZYWhYUVdxeXNfUWtDWWhRbUNxVUVsaFVzUWhMZHJqcXBZa08zQ1J6ZzRQTEZqandheGFRamFkTkFnTWlvTXZtTHdWREZUT3lENjY1UHdCZ1lMX2ZCMnNmV2o5UFNGWGhKd2NVeldKYXQxeUNqaW91ZnZJZnhMbzFkelo0bmRqWDFjbko0b28tREpFdlYxVTJDc0cyZlMxeUVudU81eHpnb2JPbW5QNUlpd1hTaHZoNkFnMTJGbmsxQQ?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Wed, 30 Sep 2026 22:12:48 GMT"
+    },
+    {
+      "titulo": "Por qué no juega Leandro Paredes hoy en el amistoso de la Selección argentina vs. Bolivia - TN",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaFBvMjNxTWs0a29acUQyTlJIQWpRX3BTN005RzROUC0tMVpwa2lLSjRpeWZiYmpSVE1XZzZpbHRWSzRTLU54aWRxaVI1d1JTWHdLN0FnR0dESmlqMlJTOTdvdEI4ZWs3WXpwVV9FQ3ZqWTZaUUxhNVhOdjRrSF9mVlB3Zmh5S1hzaE1JZ05Bc3JJcjlSWEk2NUhQTG1lSExNVVNqZE0yQW5TQ2NBTkNyLVoya3czV3JST1N3dU53SUstWmJ4c0NoWkp0U1hTSUXSAeMBQVVfeXFMUFowZ1JfSUgyVHF3TDRIWmVpaXZlVEJnckJ5SzYwZ2tCbDhsQzQtQmtZamNyUXJUNnNRTzJNUDllc2RHbEVwUnBxTGxBTnRVSXFUODBWWUJlQW9CeHctbm5CSTk5UmdfZjhjdG1aZDV3bS0wZTNhUDQ4LUp6eEZzZjNYckVwWl9iYkpQaVUyMHJkclFCYWRfVVRscm5tZzNSZm4zVXo4MGo5WVEtNmgweEJkTXRYX3NCRi1kcWJQLXJRaGl6cTMxZ0xvMGtFY050QzNqbUxIWTEyV0tDdUk4OTZwY3M?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Wed, 30 Sep 2026 23:19:49 GMT"
+    },
+    {
+      "titulo": "Marcelo Espina, de ser el primer 10 de la Selección post Maradona al clic para comentar fútbol: “Hay vida después de Messi” - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV2FxdE1CbzVycUFJTUNXNnUwRXZVY3RySjFnZFJBLVFOSW91cktSUl9aWEJDQkNaeF9HcmZHdDFYSnpnaFJzdmMzY2VhUWxuUE9ob0p6UlVLc0Q4MzdtLWpGU1pvazIwSnRHMG1GZi10YWNUclo2eGF4MUMxelBmeDRzcG5Ddy1pWEQ1eXo0RmZQOW5FeTBLNkVOWXZkZFJaLVg3dmtwYjBTSHpZYlhkcVRtS1J5ZGV3MlpMM2hrQlpVRU93Nmp6UENYWGltQkFhWHR2ZTllNVFibTV0WGlUTjg3djZuWm8tU3k0TG5iTTAzb3I4U3BN0gGSAkFVX3lxTE12MkdFdmh4VE13NGQzbGx6eGRnZ3NyNGJKSkYySmJfeW1WeHNKTFFGVHFIR2RtMXY5dlRkMkEyWVNTSkFGeHZKUlZYVFhlYkE4MmwwOUJ0Y3VxNE5OWWQ0YzVjOTRFTFZfMnZNSVpJZ09NM1dxSHBlanhwb2YxLS05RmFjQkpQY0d3TVJDZndZanhyS2wtUU1QU3NLUHEzVVRnNzQyZnNJR2FwMVNMSnl4QXZmU3Rva19MLTVCUGptd1lpSlBvZXBCeEVSdlBXSXVGdVZ0ZnVXTkQxS05PcW9zOWM5Nkp1MktneFREQy1kQkswVTJ5ZWJILTdEY3kyZjRrdkxoVGVWUURaeEtRdjlUOHc?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Wed, 30 Sep 2026 07:16:00 GMT"
+    },
+    {
+      "titulo": "Ver en vivo Argentina vs. Burkina Faso por Fútbol Libre, Pelota Libre o Xuper TV es ilegal: por dónde hacerlo de manera legal - El Destape",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR2hsd1ZFT2d2VjFYQ2tKaVd4MjMxWk8yR1ExQkZNOW85UjNOTnlBZjdpM1Njdzd1OHdzNHJVS2V0ZWVVbU00cFluendpaFBjY0stWkRVOXNVLWxKQmdWcVlocjNNWXBRc3I1VzVzc19XMzl5X085Z2U3Nko1bkQwWnBlYWdQVmFpcWhuam05b1Y1bjhtMDROdHc2NlNRX2NrRnhBTnFHSXJPbTJhbXfSAcIBQVVfeXFMTkk5Nk5nTEFveDF3UGEwYmR3aG5EMVYwMU5CZFlyTUpLZnF6UFRjemZrTDIzXzR0ai01VHlHNU9Ybk5KTzhyQ1VqYnlUdzlMb3ZuNF9wYzI1X2RfN3FDa3BlQzlmQ0tKY3lFbzh3SEEwZkNINGZqNk5adGRvQTh0cURLUlZmenFGQ2N6MFY5bEJianVYMExaaHpqNHcySUw2SmVnZkdPVHJ3SVgwWHhLX2Q3SXJCem5UUUpON3VKeXpWTHc?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Wed, 30 Sep 2026 16:05:18 GMT"
+    },
+    {
+      "titulo": "Lionel Scaloni inicia su segunda renovación en la Selección argentina: quiénes integraron su primera lista y dónde están hoy - Ambito",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQjZXMUZmUzFfZHByQXE0TTJ0OFhxbmpuNjhaSmg1WGdRSm14UWlJX1RqNG9qcGNGTUVsZFJ6LVo2WkpQV3pUa3lCaGxNa0M0X1RQT2Z1cDE0Mm1zNk1oZ2ZKTFB2SUxRc3ZsU3lpNFRvNHR6QndLa2ZjODVSekVVcGhWUWRJTFh2UU5sN0lsQnRZMnJvNDkzUkVYZFBJeFBwc3JXeWtScEFacEVfT3E0Z29odjk5Nmp6dmxGeEVJUE9pcjAtTURlRVJ0V3pOM0FNSUV6TDFXWjdXYVhUYUZuWGU4dHJTVVN6VjlQd0J1cm1Vc1HSAfgBQVVfeXFMT29nMl83QmQyS1RFSV9YdFhsZGhZaE1Yd2JhSDFjaGwtZHYyZmRacDZWanlRbW84Wk1wNXpRbHMya3BKSzFnS2JVSm1aWGJMU3dQQnFheFRiVjljdXhHLXFmWE9sVU13em45ekVtNm8wbTduRGg4Yi12Rjl5V0lCMkVtTG5mbG93ZE9xNWxiZ2RHLVgtWl8tSENqNnlVb2YxdmZncGh5VlpIWG03VFU0cnpGbDBDQ1RCRmFidlQwY3MzY2JCTmZIQVJrV0xvTS00bUxWcVlnTmhPMTBjV2gyYkFtV1JpaGhiM1RQbW5DT2lkRTFPbE5xVHE?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Wed, 30 Sep 2026 12:54:00 GMT"
+    },
+    {
+      "titulo": "La Selección argentina pone primera a puro cuarteto: el video - Diario UNO",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzhRUDRRci1iRkJybmVDcHFma1E2bXFJVjZwcG90eWV0RzFCZXoyQnNfc1V2OERqdUFmbFFSazd2cE9jeFZuUndlc3REdU9zQnllTzFraEtkSjYtR1FUOVIyX21oU2ZIQmdwN0k0cFFpN0g5S09mMGRsXzNuajZJZnQ2akowRUlLOVJhTTB5cXJrRzZNMUdzdmFTSkM4TkNlUWdJRllHQ1l0Qm5KUC1fQ9IBtgFBVV95cUxQcXRkMUU5RndKRzNKSVJMY1dEdWNXOVp4cUpvLTRkX29PWWxBYkhWcTZZcnl5bzZWenhfLUw0Z2tWX2E2TklDTGxqVnJfVzdobm5VdU9DOHFKNHNNVXo0NDVWSnJOcF9SRTV4ck5PZ2EtakQxNEo0NDNYRFZEV1RxdFFDMHBUUGQ4V3VsQjIzdU1nQXJyc2M2YXZqVDE3cHVfMFdiU2w5eGpkWmwwYmVNc25HdGM1UQ?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Wed, 30 Sep 2026 15:29:00 GMT"
+    }
+  ]
 }
