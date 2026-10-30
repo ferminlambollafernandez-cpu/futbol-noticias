@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T23:40:05.439500+00:00",
+  "actualizado": "2026-10-30T02:55:03.059998+00:00",
   "noticias": [
     {
       "titulo": "Con el voto negativo de River, se aprobó el nuevo torneo de Primera División en 2027: ¿cómo se jugará? - Olé",
@@ -14,12 +14,6 @@
       "fecha": "Thu, 29 Oct 2026 23:14:43 GMT"
     },
     {
-      "titulo": "Jugó en Boca, está en Gimnasia y Esgrima y Ander Herrera lo señaló entre las promesas del fútbol argentino - Diario UNO",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOXFUc0hCMjdUSlpZdnVNUHg0eWN3QTI0TDNoRTJXSUFDMWNPU3N5VURpQ3F1M3czU04wQ0JwQnl2cUpCQV9Cbi10WHJYUkRLWEhBQ2p1aGlnaU9NSzQ3c256ZUttRWtUY2RhQkhUUDhzTmhWLTZRQUxoRGU0MnRzWjc2b2JtSXBxbDJ1azVreGJQbWRBWnRhMmhMel83UjA1dWM5SG93YzFyaVNvVVNLTUxPWmJNY0xFbHlQMzZjekxQajZkM1dqU2VhamJodmRiTWdNTWxxanQwTDlLeUhB0gHkAUFVX3lxTE9xRHZSRl9rc3RxQ3RmRGRUYVRXclJUaXRuYi14VjNERi03MkNZaVVGR3pncmxIUlNhTkF4ckllZ2NQS0NUMW05NmJUV0dmem5QRGJwM2RFZVJhQk1uT25FVWkwT3VjZmxiRlNfbE1fTndNUFNQRGVmd3pmOGdmdk1NeDJPY0dHU2FKQkMyeVBQSXhTQ3pMSE5Qak14cGRnUllOSk9yREc1ZnJXbHpGaXRrN1pMandtYXBfZWNSR1BUbWFObHJEMlVIVjJJMkM4M29uV0hQcHlmX3ZZTTZYa0ZBMkpBMQ?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Thu, 29 Oct 2026 19:22:00 GMT"
-    },
-    {
       "titulo": "Con De Felippe, Talleres mejoró el juego pero no los números - Cadena 3 Argentina",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUFEOXhSVmtQUVg2SnZLVkF0NEd3ZnhJRzFULVY2TDhVbnFGN1I4dEppeEI0clVfM01VdW1HejBFS01JbDNNanNHWm1QYWhJR0MtbVZOcDVMUW1MRWlhMGdfZDlIbk5rRFByMV93TUQzWDFKR1BqR2x1aXlRWGVQeHNrSlhlS1h3cXRWanUwWUVhTVRuaU5rVGJtZVVkd2h1REV0VklzY3nSAa4BQVVfeXFMTTFMSVluTUVkeDg4N3JUUmhZV25RZEViU2RaUWdxeldfS1Jma0U2U2JUb1JBZkFlT0liQmw2Uk1MVUs0cXJvWk55QnRScnhLWG9YMnMzUmx3YVZnYUtGVHVwbktDcEFmUFpOcDlLSF9UUEJ0OGktTnZEOUs3eE1DMWlyaFRoMDBCb0Y0d2Z1NnYtd2I2VnIwS0NCMUJmeS0wM3pSRGRhaDY5bnM5QXRB?oc=5",
       "categoria": "Fútbol argentino",
@@ -32,40 +26,40 @@
       "fecha": "Thu, 29 Oct 2026 13:37:16 GMT"
     },
     {
+      "titulo": "Reprograman los partidos del fútbol argentino por la llegada del papa León XIV: la información de Leandro Buonsante - Radio Mitre",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcFR2cVJodzU4Wno1Y29nYVpwMV9Ha041ZFdSX1JCdHBBSXFvZ0RFazBJLS0xZE9LZkxVUWFkSzNOODR4aFBQa0RfZFZtMlRvSFltOG1waHhOSHJxbklZV0kxUE1YMWpzWU1UeVJfN251M3hvNEFiNWdZX1N1cERVenpLaEljd0t1akhLZW1kRFJOX09ibUxrLWhVcExDN1BHVVVVODJJb042ODhnN09zNmNEZ1dlYnkzSXk2UHMyajd5WWJnSlBxdVR3Slp1dDV1WGpNRWtpODVobnJFcDFrYUc2S0F3eG51QWYzTA?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Thu, 29 Oct 2026 14:17:00 GMT"
+    },
+    {
+      "titulo": "La última fecha del Clausura se programará el domingo por la noche - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGIxejRzbm9rVHR0SWJrMGJQRmlaRzg3Z09SYzRKVWVXREhtZ1hVOGZ3bkg3ZmlZVVNXVGxPMHE0NmRnLS1wYTFjVXV6Z290eG5OT21UcGxBeGx2a1I1eEF6dlI3UE91Z0VHdGUtcHpwSDNvcWVQWkVlZlJaZW5jOHZHVGxKcDNBZUNueHE3T2R2UDk0NjIzMHM4cndLcUYzYzhlVnFIZFR2eERRSzE3TFdR0gG3AUFVX3lxTE1Jb0lvX1hKd0tTbWRiaGsxZlJQT2d1dVVqcVZhR3YyUTJ3ZXJ0NGxKaXltS1lPVl9XcTY4LUNjMmptenFiTG5BZ2FpVDVKdnZORjE1SlE1NlQtaUpaOUZaQ2R3TUlCbklCa1JSN3JQcW04YzJXUzlyaVdKa2VtMWh2Z2p6Um91Y0s2ZFQ4eHVCTFdFYVhXaGpHX1hlajVROG96NW0tbS0tbkZGRk54MGJnUUlXakJ2RQ?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Thu, 29 Oct 2026 18:53:29 GMT"
+    },
+    {
       "titulo": "Se viene el VAR semiautomático en el fútbol argentino: cómo funciona y cuándo será su estreno - Crónica",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX3dCd3c0MUduRWlmWjl4Y2NGVXVVNlM1VUI4eGdFd2xLbm94UERLZTVVWE40Q2xUMmotVXNXSS1xdzNpcWFKSUpPejlEcE1zQUZnTmp6RU5vbENTSDZOQzVJSWdlQ3ZfbndJVXRQLVZkSEtSbmYzc0p5M0ZkenJRVU9FaXk0Zk9tWllxRm14dklEckpWWTZ2Tnc5S0pwTWtnTEhDVEQ5cGk1TG40VndTd2RJMGZWX1E2M2hmbVAxdjVfSERBRGNuQ0RyazlyMW5SUFFkZ0k2NWc?oc=5",
       "categoria": "Fútbol argentino",
       "fecha": "Thu, 29 Oct 2026 19:59:18 GMT"
     },
     {
-      "titulo": "El fútbol argentino implementará el VAR semiautomático: qué es y cómo funciona - Cadena 3 Argentina",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUEzYkR2WklNWk1keFVtRHdMRVFEdGJ0QjF6RXBnMHpwYjNIV29CN3lzVEVicDBkOVhJSDNGSU5BUWVORVRtc0tPVE1pZGJVUFk3ekMycE9jQldqUmxiT0dhQVp5QlRpd2o0Z291T1VzODhPVFd2Vm1CMkIyTG1zUG5YWWg3QXpXV1libGRLNGdyYnh4Vkh6d3M5VEJIVWc0c0tjRVlSeUgtd2xPYWJSdV82MEhwY3dKUm5PTWpjRFHSAcYBQVVfeXFMTzJSM0FUTFFXRS1TMzZOYmpPQXVHRnpDRE8xd3pGbG9TYmdibE00UURweFE0d2hHNDhaeFpYUFFqdVhpbFJpQVA5RV9PMThmTV9ycFUxMVk1N2pOUWtfNGRsb0Y4Uk9ZN283dmlUZDBBV2ZOeFFEeDBlVjBBZHVZRGtxMllQS0RwaEFIejlzbHZyQ09RYnBIM3h3QjhaY2o0MnpBZUlDeHRPMWJfWnBXZS1Dek54cG9PR1BUUnNpbGs4WTZZdzdB?oc=5",
+      "titulo": "Gonzalo Bonadeo cuestionó el nuevo torneo del fútbol argentino: \"Es un golpe de efecto\" - Aire de Santa Fe",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2ZOZWs2eHRaOEVwN0xVY0tSSmFHQTBxb1hQQ0RRcTJJZEJ6bnRoa1ZpX05SQWx6QnBNVDZxR0hsMW9Ga3M4REpwN0lQOXBMbUpUN25Ub2pSbjJMcHpBdXRVMkRwOHhSdUN4TUV4XzU5RjlyQkZXYVNlRV9XYVg3T2FWaUNkSnZjODhuSTFSUnFEZ0JNX2Vqb3NEWkhoT1o0X1paR0FpeWI3OGN3RjlxVU5GOXJjX2pPZFBxX1BLa1JvMEY1WGNOdjlPdw?oc=5",
       "categoria": "Fútbol argentino",
-      "fecha": "Thu, 29 Oct 2026 21:00:54 GMT"
+      "fecha": "Thu, 29 Oct 2026 16:35:16 GMT"
     },
     {
-      "titulo": "VAR semiautomático en Argentina: menos demora y sin trazado manual de líneas - La Nación",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYk85a1VZdmIwZUF0YnVEWWI5ZzZHeVZfenlBa1l5aElGdENXSHVZNmozM0JreGNSc1A4UFdwS1ZVNkVERGdhUlNTUDRkVFNHNXd0OVU1UUx3ZGdLN21pOHZqcTM5Z2E3dWptSWNMOTNKS0ZTY0dOZm1tSkx5OWZVX1dfYUYyRjB1cnlWVmhtcVpjUVJ1eWJEb2ctN0p0VmhfeEo0a2sza2c0WWNTay1INHg2Um1oU3JDVE9DYW5lcHY2NU1XT19sN2pNWTY?oc=5",
+      "titulo": "Se reunió el Comité Ejecutivo de la AFA: cuáles son las novedades del fútbol argentino - TN",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdDQ0aVpDLXBhZHlYY3pjRFdqUlhuNkNtbG8ySjFpOHdCeVgwQUpZVkhNYkFKSHN3d2pxb0MxQ1B2R0YtNUJhVmpMTy04UXByR3FiTjlwUjR6dW1TNFd4S2w1anQydU9jSWJLVTZSaTNtaGZ4dmdyMTl3OEk4d0JpLXNIc3AtWUlialhmaENEeGtqcjB1b3gtRWl0UVk1M2NCaGlVa1FFSTNZUUlITXZmTUU5NFlwcU9KblN2TUdSNzd3MGtTeFNnanFfONIB3wFBVV95cUxNRzQtRjdhaEM4am01M0JROE9qbnhhXzc0VEM0SVh2WnBCdHJOVEhxeEVsY1l3ZE9HWkZ4VDl2blRKMG1EV1B5V3RNUEc3QjFHNE9lYkQ5eHd0NW42dEpwVEZaWFFRUW05dUV6c1o3LUdqV25HSzMzWG4wOVowdTJzMFVMR3A0eFh6a0VtRC1UOW9Tc0xHNkx6dVF4RjhtMDhWd1VlRElFWlJGWGxmaGM0S0RrNlJFQTVxRDNPRmJqSEFLdkVwRHBLYUJEdmZlb1ItalMzZjM3NDBPVldXN1lB?oc=5",
       "categoria": "Fútbol argentino",
-      "fecha": "Thu, 29 Oct 2026 21:13:00 GMT"
+      "fecha": "Thu, 29 Oct 2026 19:00:07 GMT"
     },
     {
-      "titulo": "La fuerte predicción del astrólogo de Boca para el Superclásico - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3F0SEtJWDR3RTJmMUt0ZHdBNG16VFdibzZxcV82dkg5TDVQUDNkZ1BfMmk0cUkzbF9kVEJkeHpHTERNTjVFaVEzSDJXM2ZFSkVKaDUta09MREVUWl9KbjExMVBkenFBVlI1SDRQbGNWeHZ0ajBXRUkwN2xzSUFfMG1RTm9MRXFTcFhLZExOaDhRQ0xCeWE0dWxWMURiOVJUMW9WbnFoXzZfbFFON0RfV3RuTHQyUQ?oc=5",
+      "titulo": "La promoción podría volver a la Primera División del fútbol argentino - Corrientes Hoy",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWd4T2JTODktSlVnam9NNVFhOGFadlgwN2VpZUhnWWFySFRQNk1xRUhZM3FacVZsWnppQ3ZlRTJMUUlOOXNQRk5LN2xTdkc3NmUyZW9meWtuRmRFM3UwQjUycjUwZm03UG9SdXVzMlZBMEdFT3d4MlQ4aGhzT3d2T0lJczJnOFNRM3NjdlpIMkUtbE5mMUx4S0xDYmlSVXhGRVl1VHBJR2JEWlNGMGVsY2VR?oc=5",
       "categoria": "Fútbol argentino",
-      "fecha": "Thu, 29 Oct 2026 14:26:03 GMT"
-    },
-    {
-      "titulo": "River no se presta al circo de la AFA y no asistirá a la conferencia de prensa previa al Superclásico: el m... - La Página Millonaria",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMUdramd0UTdmeS1nbUVJc21aRWkzZjBCYzBWbEl1c2Vjcm1GU25GNzdKVVBoTzhlOHhaNzcwdGNBc0Vod295aVNyQU9uNXVYTHFqRENrYVJBalIzVmJyN1BhbmJzMnlfT2NsSW1mWVdaVldKQUd1NkprMlJRdFhTeG15YUIzcTBqaXI1MHZoQzc0VXlnNk9HZEktOGJoam9UUk1FQ1hNVmlDNnY0UVlNOGFfVHVJTFZCX2tpTUhqazZxOFZ4YW1YeGxma1MwYWc2Q04xX0VBVWk3OHNJNVZDQTlSM3BUNE0wUXFNRlJaQdIB9AFBVV95cUxQam10WnNibjhjVTVkQ21uRF9HY3ZWdkUtcWhXTEotTzZlbDFVUzdmbkxTQ09ZLTExd3N1aEktUVlpTExYMklMUlk0RUVWQy1ZUzFoY3dKQ3JqdDlEYmNQSWgwWFdZM08tbTRMcTRmam5iR2EySlllcDRpRTczZHE5SHlvWERVUldFNEM3RURiTDNSM0lDa05xeVpzYVlBZ0JGcGlQcWJ1cFBsNEV5bWMzcGZPalFzZEsyOFNZWlZjWEdITHNEX2FVTnlqMkdIUUtFRmdyUUZhNkRKNDN5eDVXdWVERThFTGRacjZIQmhUNDV5Q01J?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Thu, 29 Oct 2026 20:55:05 GMT"
-    },
-    {
-      "titulo": "Estudiantes (RC) vs. Gimnasia, EN VIVO: dónde ver por TV y ONLINE - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2JsRXpOWjlyUjJ3NTB0SmVkb09pTl9FZFFpaDRYUV9kN1gxOEJHYUFaZlFMaWhQRW1RM0YyX09RYmlKS0pGTWFacnFyTHlRYVJaZ0JPdzRNVkZZejdFbWJoT0FRMGFSUjZnYzVZUjZPWk9PRzZnOVQ0c0phNzJFNVQ2ZkZLcnN5dVpxbkNsM0NWQ3Y5T19QZWEwcVFmT01UbHN6bjlzODg1MjdSeGF0dUFKT3Q2ZXNUcWVQYWY3UXVpQnR0dUE?oc=5",
-      "categoria": "Gimnasia",
-      "fecha": "Thu, 29 Oct 2026 22:00:05 GMT"
+      "fecha": "Thu, 29 Oct 2026 19:56:15 GMT"
     },
     {
       "titulo": "Estudiantes de Río Cuarto vs. Gimnasia de La Plata, por el Torneo Clausura 2026: día, horario y cómo ver en vivo - Olé",
@@ -74,10 +68,16 @@
       "fecha": "Thu, 29 Oct 2026 12:22:54 GMT"
     },
     {
-      "titulo": "TODOS CONTRA TODOS: la AFA prepara un cambio histórico en el fútbol argentino y los clásicos se jugarían dos veces - Los Andes",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeE1qTXNNOGVIRy1aTFozc3hKc0NUaFN3N3dNb0NoaUVHTG1fSEZfeEdfZFgtTDFKRXFkblF4OG43SWZpejlVaXp0aEU1N2lNS2xwaWhLWFJXeG5aRHZyTDBqSkpybVk0MEJ6VUdxOVlKOXhGVjFtWk8zWHc5Sy1IYXlrS0UweG44VExLeGtOZGJ6ZzZXOGx1aUZJYkVBQXYwNlVOQ003OUdxVWVsMGctcFhDVFBfQ3paSXJ3alEzSEJUQi1kdjVWdk9IOFBxbFp0SXdQWWlsVHEydnpVUV9OZ1NtZjVBNlVsZTEwLQ?oc=5",
+      "titulo": "Con River como único club que se manifestó en contra, la AFA aprobó el nuevo formato de la Primera División - La Gaceta",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOejNlbm13U3ZNRmVOd2hQdXRYNHZFQjRIVU40eHMwM3FDWVU5R3Zod0pMMEtXMi0xQk5GUjd1M1NYSUlMcUlhU3hHMFpvT3VmcDQxam0wYlBUTGRtSXlzMkZib1Y4UmJlbGx6b091cFI4SFk0d1ZhVnRnMTJIejRNdFMxNXdRSEY5dFlvTEg4SmxwWUpxWWFpREV6TEQzRmJpOWJHanZYZzJzNW5xSmRZMUdobjNSX1BFTW44M2lJNHVoVmNMRE9JN3ZnQ3UzMjFXbmROYklFUjRDZ9IB3wFBVV95cUxOOGY5eS14TjRPVW5RQmh1cDJVZVRpdURkblh1SHVvVVV4ZHBXbG5fN2JqaDkzWTQ3NlY0QUxYT1haaUQxbkN1VzBYUWRhb0JrWW5uMXJTaDlYcUhiVnQwWDk5d3RFT01MSVpqMGxuTE1MVU9ZSlJLNkdhZ1dXVFl0MS16cTBKZTVJeGVxc0dySE9LTVdFQXFrUnNNa21fQy1tcFNXQVRfMGZCMDg2Y240Z1ctR29qMDJRS2ZRQ3h6UjR0UWxLRkFTMGVGTzdfZlNRSnhST0hTbTN3ajljSFJz?oc=5",
       "categoria": "Gimnasia",
-      "fecha": "Tue, 27 Oct 2026 16:49:00 GMT"
+      "fecha": "Thu, 29 Oct 2026 17:01:51 GMT"
+    },
+    {
+      "titulo": "Pronóstico Estudiantes Río Cuarto - Gimnasia Y Esgrima La Plata - Liga Profesional Argentina - SportyTrader",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlRwR0NXeFZvMUdPeWNHd1cwWWtBaFFDZFNmYmRJZXRaRE1IamdiVzd0ZFJxYVhmNVdkMmpaWUdocGxyeXdLNHZ6dmpnZ0xQZzl6ZGF0T1lNempsWDBQdkFVZFl6N0hiaVBpeGpIb3JPcThBdkYyZVRHdFJZcThibjQwcl92VEdMQ2MwZE1VNENVRE9udG44?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Wed, 28 Oct 2026 22:00:00 GMT"
     },
     {
       "titulo": "Estudiantes Río Cuarto vs. Gimnasia La Plata, por el Torneo Clausura 2026: día, hora y cómo ver online - La Nación",
@@ -92,46 +92,58 @@
       "fecha": "Wed, 28 Oct 2026 05:39:00 GMT"
     },
     {
+      "titulo": "Estudiantes (RC) vs. Gimnasia, EN VIVO: dónde ver por TV y ONLINE - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2JsRXpOWjlyUjJ3NTB0SmVkb09pTl9FZFFpaDRYUV9kN1gxOEJHYUFaZlFMaWhQRW1RM0YyX09RYmlKS0pGTWFacnFyTHlRYVJaZ0JPdzRNVkZZejdFbWJoT0FRMGFSUjZnYzVZUjZPWk9PRzZnOVQ0c0phNzJFNVQ2ZkZLcnN5dVpxbkNsM0NWQ3Y5T19QZWEwcVFmT01UbHN6bjlzODg1MjdSeGF0dUFKT3Q2ZXNUcWVQYWY3UXVpQnR0dUE?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Thu, 29 Oct 2026 22:00:05 GMT"
+    },
+    {
       "titulo": "Estudiantes (RC) vs. Gimnasia en vivo: cómo llegan al partido - TyC Sports",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN1Ixa3lMZWNTVkNmeV9lNWpfa2Rvb1FEVWZYcE1zN3FFQjlpQVhOVnh3eDlZd2JpNUFGNTRhNFh3cVV0UU9NYjZGMWhyOGIzRHNIX3ludG1vMTNURGl0eDZnSE15djNJaG9pMUE4Y2F5aVFueEpHVVVaYmczQVVoeTlXZElTcjF1VE9QQ3hkTmFjU241R0w0VlpEUFRsWEdMQndCQU9BZ3pVc21xNmR0YkstVWZqdU0yUGNFWWZEMTBKcHB4dmh4M1JzQ3V6Zw?oc=5",
       "categoria": "Gimnasia",
       "fecha": "Wed, 28 Oct 2026 22:00:24 GMT"
     },
     {
-      "titulo": "¿Adiós Independiente? Fue clave, perdió terreno y se iría a otro equipo del fútbol argentino en 2027 - El Destape",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbWJsTjBkMlo5MjN5TVBzSzZUWWw4ZEhPUEN5Vm1CZW1UaGd5STY4RGhYSXBERkpIVUVKYTlnak9hWG96dmZ4TkNFWUlZVXBIcDZjLXVIT1hrNXRsLWx6cFZScldQSHpaVnBDU1BtOU95Z0FrcjJOb1FzVXBJOUEzM2RZTXByZkFGckdQUThqUDJFYWZlZTJrQmRfT080U3RwTGNUQXFCRmE2OEZkN3cxQXVrMzRoajRFdExfVTBueGw4M3Y5a2pTX3VZODhpN0Nv0gHkAUFVX3lxTE5wWDVKVjZyOFVib2M1Q2VaUXVzb3NQY3JmZjVhLThacVgxNkhXWjZ0SWV5WlFZNVRXLWxrQ1ZkZ0hWbkdxbTYzU2V1YWJUTDh0dXRsamZ6WDI4VU9OUmdOS1MyVGt1em01Y1ZKUDFWSXVNVU1pMTZXV1JDcmljZE9CeXJsSlYzR0lGSjdWeThZb1B3c3pEdGhNM0NUQ0FOQ2FtS0VnbXRsVUxSU3Bra3plRVJReDR2MHB1aUV5eTdKMFpSdE84RnNVUXpRZkxNbi1zUEhJVEZuSFgwa3pKZW1WRWJoNA?oc=5",
+      "titulo": "El Lobo visita Río Cuarto - Club de Gimnasia y Esgrima La Plata",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54WTVCU0EyelE0SndsemFfQ0M3OFUxXzA5Q0s3ZzZ2WDMyTUFua2l1SEN3MkJJMThOSjI2Qi15bERnX2lyQUNOV0dRNURJbFhOXzAyTzBxOHhiSzNleElXbndmdkk?oc=5",
       "categoria": "Gimnasia",
-      "fecha": "Mon, 26 Oct 2026 16:19:36 GMT"
+      "fecha": "Fri, 30 Oct 2026 00:19:33 GMT"
     },
     {
-      "titulo": "El fútbol argentino tendría un nuevo formato en 2027 - El Primer Grande",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFlCZnhhLThocVhYY1dTbDlYVjFMa0dTQzJucUZoS1d5UnlWYTExSE9MTHlCNEJNZThrLVB4VjZjOWdqbXozS2h1N0F3a2NZUGU4STd4OWhNdTRRN1kwZVNJOVhPV3Q5cDJUdVZSM0JpcW5OUHFiRjhLUTYzVm1VU2NhdGlRZHEyYXBRMzRLQURCcllSLXRVVQ?oc=5",
-      "categoria": "Gimnasia",
-      "fecha": "Mon, 26 Oct 2026 18:48:04 GMT"
-    },
-    {
-      "titulo": "No pudo con el Guapo - www.gimnasia.org.ar",
+      "titulo": "No pudo con el Guapo - Club de Gimnasia y Esgrima La Plata",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yQmtkb3ZqaTFvMEdXVk8wMmJ6U0RjZXZuTVk5czEyOFFCMklpai1HMTd5MXhSVXdTZGdQRGtnVVRSaFE1cXJvUC00N3R2bmZORTVfSEdrdFhQYTBVdkE?oc=5",
       "categoria": "Gimnasia",
-      "fecha": "Thu, 29 Oct 2026 20:23:55 GMT"
+      "fecha": "Fri, 30 Oct 2026 00:19:33 GMT"
     },
     {
-      "titulo": "El fixture de la Copa Argentina 2026: fecha, hora y resultados de los partidos - ESPN Argentina",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkN4LVFtVElLNmUzY3FKdHVYWWhXSUVxUXo4bW5uWDR4c2JpdU9tdXNiVEowZFpkSnVxMDVRTFVjMmZRMkROZWFQdUlxcnMySTFjVl9pcnB0MTZuemJ0eEJkMjBmUkJxc3l2eHptWm1WejZON3Bmc2piRmdUNXpZN1Q3ZEZzNi00QnZBWnRqZ0dsenJ6VTZ3VWxHQzM3UnEwMkthMTdqNkhnbkM1S0QyQmFaaVdoWk0?oc=5",
+      "titulo": "En Ciudad Evita, el Lobo visita al Guapo - Club de Gimnasia y Esgrima La Plata",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kOXNpNzZjNUdnNWFHQmJPSXJhS0JIODFUQWJHTlJHdFI5NkkyaEJWblEzYUdjNmpoVVhvSTNZQkVIbld2WHZsWFNNMlZsZzNJZWVGeDFfbHlfeGItX0pLd2ZpVGtnU2ZqNGlUMktsV0xLcHpWX3Bz?oc=5",
       "categoria": "Gimnasia",
-      "fecha": "Thu, 29 Oct 2026 19:27:24 GMT"
+      "fecha": "Wed, 28 Oct 2026 20:06:06 GMT"
     },
     {
-      "titulo": "River votó en contra del nuevo formato del fútbol argentino para 2027 en la reunión de Comité Ejecutivo de AFA - La Página Millonaria",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFlkS0pXekozX2QtOVBtMzBON1hCa1lyVDNiMlNNNWVqTTg2dkFESEkwVW0tbVU0OUdETV84OThEUG1qR09vX1JLZEI2aEpEc200d0RTVXE3dm5jUkw1SjFianVGR0ZJeGtPVDhuZnNoZnVieHJWMU03OS0wSHlRc2xCNDVoa0wwOERpblNndi1ITUx3LUw5d3U2M28yVWZNMVNFMVRYMFFkVEFEX3l4Nkk5bnFCbDN5NnUwbFhoblBlbVVHSzVLdnZNNkh3YWZlWG9sYzVrdDhCN1NfRjhkTHRvaUJMNFRO0gHuAUFVX3lxTE9vb0RBekRtdnhZcklXUkZmTjlyS3FkZWFYNnBHdVVxRlptYjBGS0Z6YmRaS0JGOVplaDR6T2ZwRGd2TzhYNUo2X1ZuU1hHQjRjbE1jZnBfbWpra2REWVB6OFlPWjVQRDNSYl9wcFdYS2xieTJRZU9sME11WjhDZEM1M3NtZWxkSmpXdWJJTDJMQW1aNzltNEZOUmFUNFEwckNaSTkwa2xSelZLV2RQVnY3ZUJ2djAxcWpOX3JkT3I4NUVVeUJ2bWhvZU1HZUdDN0lNNlhPSkRxckhDSFNsV0llelNQSjlKZ0RydzNpZ0E?oc=5",
+      "titulo": "Con el voto negativo de River, se aprobó el nuevo torneo de Primera División en 2027: ¿cómo se jugará? - Olé",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZWIwLXFkbGxNNDN6cTA5MDhsS3pkYUVpRmptNzV0Um9TN3hva2o1NnhzSzVZNmhnMERGZmJnNzNrTHlGMXFsd2JGM1daN3F6T0M2bW1MUU1WN3BlSVpNQ0RZaXY5VjZKaDctYl9lWGd4MWduT1hYaGYxZl9BckRpV1Byc1dHNUNuQ2cyR2Jjd2FVX1dqQzNNRVFrU3JOY2tHTklQYks5RzlickdGc3JQeDJCazRsSUgtQzNLbFc2U3dMd3gtMjZWQWl4bHkxNnZwWVNWS3VBcWFkUzJuR1ozSE5FY2VIcFFXZ1E?oc=5",
       "categoria": "River",
-      "fecha": "Thu, 29 Oct 2026 15:49:46 GMT"
+      "fecha": "Thu, 29 Oct 2026 16:53:34 GMT"
     },
     {
       "titulo": "La Liga Profesional anunció que \"River se bajó de la conferencia\" - TyC Sports",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV090Y25EbUM5Q0ZmLV81YUNfZzZ0U2RmVDF2QngxZ1B1NWxrdE5QczM3VnBMQ3JyTG1XcWpUemEzN1BMUFRtZFhYMjk3V0NQRTAycW5iZmZZZ09ubnlSaENYRkgzYlZHQ1hhZjN5MHRUMlkwRmlXX2o3V2pLNnJscjdsOEpxMzBhTVFvYkJVc1FCU3J3VUNzYktkRnk2aHlQRkpzbFZWWVJ3NHRuZUJUVGZXbDJFZw?oc=5",
       "categoria": "River",
-      "fecha": "Thu, 29 Oct 2026 22:21:40 GMT"
+      "fecha": "Thu, 29 Oct 2026 22:28:08 GMT"
+    },
+    {
+      "titulo": "El detrás de escena de la reunión de AFA en la que se volvió a cambiar el formato del fútbol argentino: el momento más tenso de Chiqui Tapia con River y Estudiantes - Clarin.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYU53WjJuZVdOaWl2NjBZNl9tUnMzTWFKUWdxUHlMRGZqd1FNQm0xall0MHI0ZndwVUh2Y1ZDcHRFTHVSTzJzR2YyU3FOY2Y4V1hjV3ZURjdxQkdVMUk5NmtQamUybV9zTVFRWHhjOHFZTlZ0VVpRTHlPNnJIWnJUS3lTVFNxZ3pmUkh0dkc5SWhDLTB2OWJPVjJSR1FkY0lJdFVmSkpfd2ZJM2RVZG5fdVFDSW1zZnVJSEVFT2VsQkhOcGhwNFVVdjdFTWU1QnRHeS10OVk1MGhNX25zNjZ4TjBiakNaelJZMmxQX2JTMFM4dw?oc=5",
+      "categoria": "River",
+      "fecha": "Thu, 29 Oct 2026 22:35:39 GMT"
+    },
+    {
+      "titulo": "La Liga Profesional \"lamentó\" la actitud de River de suspender la conferencia con un duro comunicado - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHdHWHVob1AwUloxdjVGY201Z3BpSWRBeWtvWnZadnlDR3RmNDRFMmlUWEZyU0pkdXFmY1NkU19FNlFqYVZvT0Z0NGV6VlVQU1VyMUR3QXc4MXd0UTZyNUJrc25Gc3hrTlpGSF9WOHlmREJHNlUxWFpULS1WUURwYlFFNGd4ZDVCSFJ1b2NFbTdtdVRnNTF6R2VpaFBsaXlFbnJTQW1DTlM2ZjZHdmlUd2dHQjRMcHExS1B4SGVyanB6eHd6TjBsYnZ2RGdvWklNdGxPYTJrdGRPWnJk0gHiAUFVX3lxTE5kN2xWRTJ0X1dYSXp6amVPNXVBVUQ3Z3JDSDlfQzFqYU1Bb0M2SUlpekhXUUFDU01hMXJCWF96aldrRlRVTzZXblFTd2FXSWRVZk41aVVlaG1SeG9wZlFLLXpVT2M2VWlTVlJTQjNBU2Fsc2tLVy1UNHotRnNHTUdla0UyMk5ZTWZIQ3VuNHY2bW9NQWZxdGlTbmxHQnhJZnZTeVctZ3B1Z3BtRlJsd1VYQmJReDdoTVhkUjFKZjNLOWthRnc1QjRGNjE5Y0xIZVJJcnBxWEdIT3Q1SEpBaVJFQmc?oc=5",
+      "categoria": "River",
+      "fecha": "Thu, 29 Oct 2026 23:40:39 GMT"
     },
     {
       "titulo": "El equipo que paró Ponzio en la práctica de River y el indicio negativo pensando en Boca - Olé",
@@ -140,46 +152,34 @@
       "fecha": "Thu, 29 Oct 2026 16:40:10 GMT"
     },
     {
-      "titulo": "River no se presta al circo de la AFA y no asistirá a la conferencia de prensa previa al Superclásico: el m... - La Página Millonaria",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMUdramd0UTdmeS1nbUVJc21aRWkzZjBCYzBWbEl1c2Vjcm1GU25GNzdKVVBoTzhlOHhaNzcwdGNBc0Vod295aVNyQU9uNXVYTHFqRENrYVJBalIzVmJyN1BhbmJzMnlfT2NsSW1mWVdaVldKQUd1NkprMlJRdFhTeG15YUIzcTBqaXI1MHZoQzc0VXlnNk9HZEktOGJoam9UUk1FQ1hNVmlDNnY0UVlNOGFfVHVJTFZCX2tpTUhqazZxOFZ4YW1YeGxma1MwYWc2Q04xX0VBVWk3OHNJNVZDQTlSM3BUNE0wUXFNRlJaQdIB9AFBVV95cUxQam10WnNibjhjVTVkQ21uRF9HY3ZWdkUtcWhXTEotTzZlbDFVUzdmbkxTQ09ZLTExd3N1aEktUVlpTExYMklMUlk0RUVWQy1ZUzFoY3dKQ3JqdDlEYmNQSWgwWFdZM08tbTRMcTRmam5iR2EySlllcDRpRTczZHE5SHlvWERVUldFNEM3RURiTDNSM0lDa05xeVpzYVlBZ0JGcGlQcWJ1cFBsNEV5bWMzcGZPalFzZEsyOFNZWlZjWEdITHNEX2FVTnlqMkdIUUtFRmdyUUZhNkRKNDN5eDVXdWVERThFTGRacjZIQmhUNDV5Q01J?oc=5",
+      "titulo": "El Superclásico de los millones: cuánto valen los planteles y quiénes son los jugadores más cotizados - TN",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNVRRTk9qWmVpV29EaldGREZZS0NUVllLT3dkNG9TcVBydkI3VmwzYU1VX0ZJWUZwMF9xODV1V2dnODh0MjdjYy1NOTlDWEduMkZYS0ZWZzBEaGJJQlktcVFTeVdYYnpUSHcxR3k2aUhWLTJoMnJYRl9OS0gwNktmemxFOWoyb3BHb2dsQXR0cGE4Q0RnYThsQUsxZGJEU2NkcEx3aFBGR0JCV2o0ajBJT0Z1MUhpX0pvS2RDcWdRWkUxVnU2SnV0Z0phaGJCMkd2X0dqYTl3bkpQSUFEbnY00gHzAUFVX3lxTFBYbWRfU01CWDhxMjVrNTV3NU5rSWd4NjBJN0NWN1YzR0poRjVwUG9QU3ZLcU5WV25GMnIzYlhXR25zOWN3WU50NHhqa2tlanMtNVZxbHQtcktzZXhoYTJjd1NqWEJ1c0pOSkVzVGJWdHhMaFNzMUZnX0RKNE1wR3pIZ2hmc2I5ZU9OSWhBQnFBdDJlZS15REpnV2V5Tm44OHVWQnpMY0VyVU54czJTSXRheGNoc1p0RzMtT1cyYjhRQWUtTjV2YmxnWEttRWtrb3RyZUFKQkVFaFFqRmpSc0RtaEFaWXBGOWtONVN2aUU2Q0dsWQ?oc=5",
       "categoria": "River",
-      "fecha": "Thu, 29 Oct 2026 20:55:05 GMT"
+      "fecha": "Thu, 29 Oct 2026 14:17:23 GMT"
     },
     {
-      "titulo": "River venció 1-0 a Racing y llega con confianza plena al Superclásico - Canal26",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQjdJREhlUUs5NnliYXJ6UWhFd0IyWE80RjhmZm9CdEQxYXFGc1JLRThjakFNeW1Kc2p0RkU4NEEwS25USWRoRWE3SVFIa0VMMXlrV2gyVjBIZ0J4azAtZE9MSWtHTkFkUWd5eGlkLUd0VlpYaWRlX3E3X3RMRDBRLVhQVTZoczJrOGhvVElBQ1VHekRJOFp3N0h1ZmxBWnBsSFhBNHJWNDZUWmMya282eVZ0RnM2ZzBqQWtVMDJFMjlTS3lNT09GM01zcVJkeHNTNko5WlNfcnhwcThnVEFBa1ZWVXVrNnAzN2tLYg?oc=5",
+      "titulo": "River tensa la relación con la AFA: se bajó de la conferencia de prensa oficial del Superclásico - DeporTV",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2REVlI1MGZtb3d0blBLTlpENXBsM0hnTnB0Y01KSGdWdDZOX2hobFM3RWxHVnRhMVd5WHhLUXdpc2VuQTJGd0NPZDBUYXE4NUVrN05heTVjMWlrV2EzRDdpWk1hYmd1R0xTRXliV3ZFN055RWFnNXZFaG9CdDJoal9hRWhmUVJSVVBqalo2alN2UlhyY1JrMzYzSm5wa2I3bU5TazQ3ZnJoR2dqQVE?oc=5",
       "categoria": "River",
-      "fecha": "Mon, 26 Oct 2026 00:18:41 GMT"
+      "fecha": "Thu, 29 Oct 2026 21:43:00 GMT"
     },
     {
-      "titulo": "Boca Juniors vs. River Plate, todo lo que tenés que saber del duelo del Clausura - DSports",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNlg5U0VZUnc4ZmotOVNxTTdoUG5IRzhRNkNJaVdSVGxnd2R5dkFaaWhDMGJzaVg0TU1fc0hyN0cyOGluZm1jZlBDVkM3Ylo0MG9MeUtsOHFBVmZqcTJYNTdFRHQzb204ZHl6RUMtNUN4TVlraUxkUXplWDYtWnhmaGl3X0JibnVkR3I2VG9DOHRiR0MzRlByUEN1Z1l3STFzb3AtNjd4NGNWRzIwSG5XcnZFd3c0VEhwX3FpUTVmSXl4MnRSWlhJM0g2eWdlT3A50gHWAUFVX3lxTE5DMWVaVldYU1lhZlRFd3N0TU5NbUVtTGRMbUlkVzU2ZnQtRWducnNsQkt6Y1NmVUpMYlcwVXNib3pkdkxUcEJlbnN1YksyTDNMT2s0VmhfdVBlQVoySFhIUFlDdUk3aWozb2NJYm1TRG8tN2N6M1pTSFVhT3B5UzdtXzJZeUtHNnBYcUFNdTFQMFJaTXU4WHJKN0Q2Q0xwY3NPZWI5bTdncVUxdXRXQkpxVGVfRXU0UTdsQkZHUk1ONkxRY3E3ZzlBMXp3WkRFWFNwMkl0Nmc?oc=5",
+      "titulo": "Fue compañero de Messi, le ganó una final a River y confesó que padeció depresión - Bolavip Argentina",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnQ2R0xBNWV4MUxwcE9QSUdHUDBmOUw5NWFDc2pYNkVrUGJEVG1DQ1BKaFl3MHE2ZXNfY2hsWFM2cWZlS2hmREIzb3ZESlo0ZVJKRE5LSGUyMDFhV0lxcnhWdGJVZ3M4YTlyQWtpQTlrVm1iYTZ0WmJBRkFxT1VFR3ZMQ1ZOeWFad3ktTUV0a0RUWXB3THg0VnE5RV9mY2FFekRVbjV3YzVJLUJRSGfSAbMBQVVfeXFMTkFQOXI0d0hqM1lKMUl2VzdvQXpxbFlseGNIcE1iQ3Y5WGZ1X3JEc0J5dWVVdkx1dTlqc3dZeXhUclllcTN5WHEyMERndkdtenVKcW1pUEtSQ0UySHQ4VTRpRm5iaFNoZW5Pa19VMFlvVXYwdDZSUjV4U2dnSmJpbG00aFFoemtnV2JTZ1JzY0RYZEVua2xiNHdIdGp2bW1vTG8xMzctT3hkVTJyY2VzcXpHWTg?oc=5",
       "categoria": "River",
-      "fecha": "Thu, 29 Oct 2026 16:09:19 GMT"
+      "fecha": "Thu, 29 Oct 2026 14:02:38 GMT"
     },
     {
-      "titulo": "El duro comunicado de la Liga Profesional contra River - TNT Sports",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYTA1ci1aS2lvSXgyWGZ5NTFOZ0dqMFV4cXkwTEtwdGJva2pQcGRkbUhuRG15eEtPSnBwWFd6RXNxRUd0T01TeEVpTnBRQmViR0pBQkdiMkpld1hCVnhoWVFWMkZ0UUZoamJZaE9oMXRnSXhmaS1OSEdxdHBfcmlZakpuWEhUMWN5dF9HZGwzWTgwYWk1RG1UeNIBngFBVV95cUxQdXN3OTluQ016VGJPMDhublQ1OVdnWVpMTnlibWFINmVPRGgtSEVINUJON3hrSzlVd2FJMlZWOVk0YzZVYWYxUURvaExkeFpLTmRHS1BzYUpBd2VEZ1ZRaGI1UDR2UVh6ZTdzcEoyZkVwSTlYeFJ0UjlPem9aWDRldjY0c28xUUdSdGpJN1kwQ2EtRWthMGRwRXloUEwzUQ?oc=5",
+      "titulo": "Es hijo de un ex campeón con River Plate, deslumbra en el Atlético de Madrid y marcó un golazo en la Messi Cup - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM0lDbmlWVVU1VHh0dnlZSGFpZkw4UkFpZVBfVWtINUVicENYSk0zQWpKRW5RT1ZIXzRESUtrbkVyXzdTTUJiWlN6Vmk2cGJTLWIzbUY2cjl3eWR6M0pJT3ZhSW5TbmtxWGJmZzNzRGlmM2FxRFIyVGdhUjVGMHdfTHM1MjRqOVBfOE05NTRyZVZXajBYaWVXVExSdHBxODI3WkZtNURhS0pwUW1BTGNJZGhjTjBSbTFlbDZRZVZrOTdLeHIzek5EczVDSjVZbFBUVFBHdUtR0gHwAUFVX3lxTE0wV2xUVVBWNVRnUHIxMzBuMkliaDBUT3B0OVBGaTBNemxXYXlSZzZPM1hPakp4aklhMzhfdzJHMl9PQ3JUZ0VHVDBFOXBLa2JVQTE0a3lBLWR2ejZrLVU5cHpPeHZrWGV1TEwxYjBvRmpUY2JZV0FBckE0Q04tYXQwZldDcXM3eTh4R1hwODI2aEg2MzFtTkpsbERRS0JJMjB5dnpGR3oyd0JJVHNxYWpGbGt5NGZ6M0Ftb3Z0QktRTzZqaG1fdDF0UTdEdHhlbGZLWE5GdFVJbURJVjJKTTJ0NWhncWFncTladmtEVzNhZg?oc=5",
       "categoria": "River",
-      "fecha": "Thu, 29 Oct 2026 17:46:00 GMT"
+      "fecha": "Wed, 28 Oct 2026 01:01:00 GMT"
     },
     {
-      "titulo": "El comunicado de Estudiantes luego de que se aprobara el nuevo formato en la Liga Profesional: mensaje de Verón y respaldo a River - TN",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFBhQUhNbG1JbjM2T3g5Y3ZvQjZaTjVJS0dzclFicWN5YUNHYzBseWFtaVlZOHYxRWpDbGlFM2lhajZ1VFlXSTZvMjhkY1FOSFV4MVRXb04tN1VZOXpYT3ctSVpsRmdMbHdLa080LTluWUdMR2x3V2JuSDVMUjVDVnpqcVNObWxrUE01YWxpS0VSbXF0NUk5ZDk1bFZuSDJnY083SUVOMkVGdWZHMnRFbHZsaHFjRmxEWXF6cHFjNjl3UlpvbGR0cjBrWGvSAeABQVVfeXFMTS1pTkhwSS1PZkFxRzlLN2dSLXRNa0tKYWJBT29PaGlQWXFTNWlVbjB6QkRHVmU5SFZmY1VnTWhpcmVWczlaNHZwSTBsUGZLaVo0RmtzeTBEc193c0RoMVlZbWhhX2gtTEcwLXd6TFRRdmFmeGgxNDIzeF81QXh6cWt4Znl1SC0xbEc4bVFIMW1DXzgyNFdDUXhja2I3ZjIxOXZ2NlAyejZYb21UMHQ5bldzYkxYVUZDYUV5WHhKZFA2VE9ZdlV5SU5ZV2tmMmt6bS1vRVZGM25GUlJXWEZMUDM?oc=5",
+      "titulo": "La Liga Profesional cruzó a River con un duro comunicado en la previa del Superclásico - Perfil",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNODNyR3c5U2o5T2RWRVdJSUpOemF3Y09VcUs0QVlMc2ZrUkZLZHV4T3pybG9qNzBsWVlJdGRSajdNWGlLa2hLNzFnTHRROFo0QUM2QnJ4YnppVk8zS3d1YURjV1VXQ1psZGJoWkpMdVpPV2ZrV2xHZDBMMEFYZS1CYW5YTXd3dXJVNFJTYWtnWUh2TS1iQ3JVYllteVpWM2FvOUU0UUw3OUhkR0xPTmp2Q2F2WW1kMlRTa2trU0ZaT245X3JEbWhhRXk3ONIB0AFBVV95cUxQRHNMX1RqTEpRdEJEejNuMElfOVU5ck1sVnFRRkExdm4zQXBoel82YnJaM0J3XzZ1Q2YtM3M0VTNkU1BXMnpFUmJsWllVbW1fb2JDRWVISTlPb3N5djJhQmhaUS1sWnBrdzQ3QTJUT3BQd0pTZkNwVkNNZ0pacGFicGNBTFNON2ZXQXRCQmx5YlhjVTFUa1ZrSGVOZy1QaVNabUNuRUQ5bUlycFdQa1h2TkVjQml6X0tpRmkySlhneDd3VWxYMG9ZYnl2NXY5dW9O?oc=5",
       "categoria": "River",
-      "fecha": "Thu, 29 Oct 2026 19:55:28 GMT"
-    },
-    {
-      "titulo": "Lo quisieron Boca y River, se quedó en Argentinos Juniors y explicó los motivos: “Eso me bajoneó” - Bolavip Argentina",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQllLNWNkV2pTRTRLRDQ1eWo3Sy1YdWd6UERtakJRMkZLMk1fYmFnQ1k1Zml5eTE1eWZ3RWJvTW1wWnFCTWJxRjU0QkFaSFMzTEpEaTVVZG5sd1cwWmRMd1JVWG5RSWIzM0F2cWFkOE4wSkFxemltQjRRM2hDeFEzOVhoMGowRWpvOFB4YS1MTU5fWk5rcURucFMtRW5JRHVGd1Zvc0FvQ1dqZnh1ZjFrSXdfUzZZY1ZhWW4ydEl4MUtudWFpMXlKaTZnS2fSAdIBQVVfeXFMTlBqVDlHaGExSFhObnE3blpoaHlUdllrWHNJd25kQVpGdl9sU0RGQWhidDg0MEpkbXJJcDRoSEw4TGF2dk1SYW0tczNqTFdYT2tlUEhJeEdUcFA1N3BXazVVQ3pWWE5NQ2taSVFvMkREci1GNldjNWxQMFJpWS1RTlJSYWJ0QmF1dkJWaEpNQURtbVZ2Q3dtcm5iSExVTDYwcGZ0aGVkOXNNVXhyd3hMdTFhOTJQZmIyLWxTUW5ZV1htTDQ1TjdJUk5Pejlkb182Sl9R?oc=5",
-      "categoria": "River",
-      "fecha": "Thu, 29 Oct 2026 20:20:01 GMT"
-    },
-    {
-      "titulo": "Los 10 puntos clave para entender el nuevo formato del campeonato de la Liga Profesional de Fútbol - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPazdyUi1rR0JZZnYtTzVlZkVILXM4bTFaLUJ3U1ljc0pyX3B4VHE2eS0waGZjLUE2ejRUUmNHOTF6MVhTekIwOGI5a3B4LVptYWZveGk4d0ZfUVBzRGV2SE5WTV9ROENOMjBnYXNYTmhmZU5NWEVGVW9WbHpJZWZWNnBvb0s3ZDVSV3FqY1NPd1FVMlFtUURGcU53cm1lT09HSmdvVk8yN0FyTmUyUzhJWlQzQWI5bEExNlVNa0JkNnlsZ0NxcXBmd2N5Ul9ZN1FEUzJHclBYOFZLZGPSAfYBQVVfeXFMT2x6YzFDa1YzSEFmMUZEaktsSU1TTDhZcXA1Rjk5ZjZKclZfVFk3eW5hUGx3S3JILXVQaFdrVkNvYVI0VFAxZmFjM3FvZS0wS3VKWGIyd2puRkJDQzJfTzh3cGVrYkFfVGhZU09RSnF6RWlUVWVZdU9pNHhlVEJkZHkweEp4Z3ZGQW10R1I3Tk9BQ0V2bGJvRlpHRWxBWkVXanZ3ZzRENk9tdGt0cXJ3eFNGNHNjSEsxNkJ3RUZMTjJoZjZUYVgxODJ3XzctaEJxT3lLMUF4RGlXcXdRaGd4dENqendVN1dweDJwOHVzWGhrSDZCWTV3?oc=5",
-      "categoria": "River",
-      "fecha": "Thu, 29 Oct 2026 19:32:00 GMT"
+      "fecha": "Thu, 29 Oct 2026 23:54:39 GMT"
     },
     {
       "titulo": "Boca se ilusiona con la vuelta de Aranda - Cadena 3 Argentina",
@@ -188,22 +188,16 @@
       "fecha": "Thu, 29 Oct 2026 22:31:29 GMT"
     },
     {
-      "titulo": "Se suspendió la conferencia previa al Superclásico: “La Liga Profesional lamenta la actitud de River” - Bolavip Argentina",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaHFzNDRwd3hFcFE1aFBjeUo2VXlsSDdaY1VXTWl6Q2ZnZTAySFlEeXNXRFE2SWRoYUttU2w5d1JocmFmQ2s3di02Z2pKWGMyemxZdlY2RjdDYUVoZHJmWlAwZ25FMU5wcEdqTGgxLXNYa0hXUE9jODJsNVVhSWtMM21QVU1BWVBET1JwMlprZVhVallGSF9pSVFQQW1GUlRKZzh1aVZtZzVuTlU3WnFDOW82SnE5NEJkTnM4aUpQY3lHUG1uUXh5NlZmLVpTQllESkxF0gHYAUFVX3lxTE52LS1lUm5VQnZhWnBTYWczbU1hbENEeUVWbWxVT00xM01XMVdUXzRSWDVFajNxTk9NTHdTeEtjVW9vcFlkenJaZEdJeVhLQ2dQZVFnaGJvejhYcTFJTnViQVV0TTZnZGlqc0RYN0M0ZndDWjFVNGlJaEc2aUpuamdwX3JMaGF0TGxkQUk0ejFwQnJ3Q3BaZ2FQeVBMZnIwSXI0SHUzdmRQbU9LUTFwbnBjeDJnZW5MV0NrblNGeWZvNzNSRGJuSmNnWi03a2hGWkoyek13bjI4Zw?oc=5",
-      "categoria": "Boca",
-      "fecha": "Thu, 29 Oct 2026 21:50:55 GMT"
-    },
-    {
-      "titulo": "Lo quisieron Boca y River, se quedó en Argentinos Juniors y explicó los motivos: “Eso me bajoneó” - Bolavip Argentina",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQllLNWNkV2pTRTRLRDQ1eWo3Sy1YdWd6UERtakJRMkZLMk1fYmFnQ1k1Zml5eTE1eWZ3RWJvTW1wWnFCTWJxRjU0QkFaSFMzTEpEaTVVZG5sd1cwWmRMd1JVWG5RSWIzM0F2cWFkOE4wSkFxemltQjRRM2hDeFEzOVhoMGowRWpvOFB4YS1MTU5fWk5rcURucFMtRW5JRHVGd1Zvc0FvQ1dqZnh1ZjFrSXdfUzZZY1ZhWW4ydEl4MUtudWFpMXlKaTZnS2fSAdIBQVVfeXFMTlBqVDlHaGExSFhObnE3blpoaHlUdllrWHNJd25kQVpGdl9sU0RGQWhidDg0MEpkbXJJcDRoSEw4TGF2dk1SYW0tczNqTFdYT2tlUEhJeEdUcFA1N3BXazVVQ3pWWE5NQ2taSVFvMkREci1GNldjNWxQMFJpWS1RTlJSYWJ0QmF1dkJWaEpNQURtbVZ2Q3dtcm5iSExVTDYwcGZ0aGVkOXNNVXhyd3hMdTFhOTJQZmIyLWxTUW5ZV1htTDQ1TjdJUk5Pejlkb182Sl9R?oc=5",
-      "categoria": "Boca",
-      "fecha": "Thu, 29 Oct 2026 20:20:01 GMT"
-    },
-    {
       "titulo": "La fuerte predicción del astrólogo de Boca para el Superclásico - TyC Sports",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3F0SEtJWDR3RTJmMUt0ZHdBNG16VFdibzZxcV82dkg5TDVQUDNkZ1BfMmk0cUkzbF9kVEJkeHpHTERNTjVFaVEzSDJXM2ZFSkVKaDUta09MREVUWl9KbjExMVBkenFBVlI1SDRQbGNWeHZ0ajBXRUkwN2xzSUFfMG1RTm9MRXFTcFhLZExOaDhRQ0xCeWE0dWxWMURiOVJUMW9WbnFoXzZfbFFON0RfV3RuTHQyUQ?oc=5",
       "categoria": "Boca",
       "fecha": "Thu, 29 Oct 2026 14:26:03 GMT"
+    },
+    {
+      "titulo": "Los últimos 10 superclásicos: resultados, goleadores y el historial reciente entre Boca y River - Olé",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTI0Z1M1RUZOZHVPa0o4Q2NaOWJ2MzZHV2NtNXF0aWZGN2w1UGFNeWc5Ti1RZzk5akVxVnR0VjhpYm9OR1M0Y3JtQXcyaE9rRlhXaEdFcFBWS3VuOTMybmExTVpsblVNOXd2eWxuREl4R2MyTDFNb19GVnR6VWk3NkN6aTB0M19Ld2JvQlpBYTlWMTY5SzBnVU1pa3p5c2dRazFfdEI2OERzWmg2eThCWV9PRnhzNGdmVmfSAb8BQVVfeXFMTmlBOVpvTDFrM0FLYUc1LWw0ekM4ZUdPS1p2SExNM3JhTl9HcE1zUXpibUpQczhZTGJMMjIyeXVHMmEwYzlfMzZqeXEwb0JUTkxHbG1FbTNscWFOdUpNS2pzcGdfNGJKUUtRUnowdGFPY1lWcnl1Q3c1c0NJN01TZHRhRVhlazdOeVl5bFJoQWpFQ0k2T3NiYk9WT2pxV0g3SFE1dWU1RjkyeFdldC1IclZsY2NYTjBkN3UzazVJcnM?oc=5",
+      "categoria": "Boca",
+      "fecha": "Thu, 29 Oct 2026 10:01:33 GMT"
     },
     {
       "titulo": "Liga Regional de Fútbol. Boca Juniors y Tiro Federal de Puan ganaron partidos recuperados de Reserva - La Nueva Radio Suárez",
@@ -218,10 +212,22 @@
       "fecha": "Thu, 29 Oct 2026 16:02:18 GMT"
     },
     {
+      "titulo": "Se suspendió la conferencia previa al Superclásico: “La Liga Profesional lamenta la actitud de River” - Bolavip Argentina",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaHFzNDRwd3hFcFE1aFBjeUo2VXlsSDdaY1VXTWl6Q2ZnZTAySFlEeXNXRFE2SWRoYUttU2w5d1JocmFmQ2s3di02Z2pKWGMyemxZdlY2RjdDYUVoZHJmWlAwZ25FMU5wcEdqTGgxLXNYa0hXUE9jODJsNVVhSWtMM21QVU1BWVBET1JwMlprZVhVallGSF9pSVFQQW1GUlRKZzh1aVZtZzVuTlU3WnFDOW82SnE5NEJkTnM4aUpQY3lHUG1uUXh5NlZmLVpTQllESkxF0gHYAUFVX3lxTE52LS1lUm5VQnZhWnBTYWczbU1hbENEeUVWbWxVT00xM01XMVdUXzRSWDVFajNxTk9NTHdTeEtjVW9vcFlkenJaZEdJeVhLQ2dQZVFnaGJvejhYcTFJTnViQVV0TTZnZGlqc0RYN0M0ZndDWjFVNGlJaEc2aUpuamdwX3JMaGF0TGxkQUk0ejFwQnJ3Q3BaZ2FQeVBMZnIwSXI0SHUzdmRQbU9LUTFwbnBjeDJnZW5MV0NrblNGeWZvNzNSRGJuSmNnWi03a2hGWkoyek13bjI4Zw?oc=5",
+      "categoria": "Boca",
+      "fecha": "Thu, 29 Oct 2026 21:50:55 GMT"
+    },
+    {
       "titulo": "¿Cambia el formato de Primera División en el fútbol argentino? Cómo sería el torneo 2027 con la vuelta del “todos contra todos” - Infobae",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMENZUTEyczNhY0hjT0ktbENxS3JfeHVXT1IwZ2FaZ2Z2eWdjY3pPX1lYeS1zekd5WlJvekdkZmxwaVlWSWF3SnJ2TGczTXZCYjRLb29SMkcxSm9fajJlcmd0MXJKYUdzMGJHNlBHLVc0X043OXEwWEQwa3VIRW1WQlhhQVR0NWZ3bkVydUhRWmR3Z0NSNDhHUmRjRzFpWmt6VC1tenZYajdnQWFsSTJXbzY2ZlpfbXFac212ejFsdkVwZm9wbkhuOWVFMHRyZGV5RmtUa2R2ZDhMQmRkRnFrZUhNOGpNYWFtbGF5cC04QVBTR2tkNzdRUUdUWmzSAZcCQVVfeXFMTWFhbDVWX2tRVnBsYnpKYjZ4M2NRanVmalRadUQ1Q0s5Zm1IYWZkNEtPczJ0bjB6bnEzbVpSTDQ4ZGJYOUgtajk2YWFMakx5b2tHaWszUnJZQ2xleFktQ25IWlpfb0pGek5GYnRuaUZlUS1sQ0RIemJ3VDFla3dzT0IxSkpNNll2SVhTTHlYTTQ3UFJwcG1ZSDhibGdLRTh0V2I3Z1Frajl2bHNkMXRiTERUYlFsS3g5TnlvSHVNU0JsQWwwTXc5NWItMURTMm84LTN6SkpSTkNjdUNaS09EZDQxaFRBcGZadXoyWWZRcy1iM19DOWN2WWFyT2JualVVWkFKaFItZkNWY2dvelZ2aWcyWWF5VmQ0?oc=5",
       "categoria": "Boca",
       "fecha": "Tue, 27 Oct 2026 17:14:00 GMT"
+    },
+    {
+      "titulo": "El polémico antecedente del VAR para el Boca-River y el llamativo tuit del Millonario - Planeta Boca Juniors",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVFB1dWlBOTVXOXBHUm1DQV9LMGdUUWhuVGF4VEdzSVRVd0MtR3NQaHZSVUotcDVTLWd5NVR3N251dlpzY3lSTkY4d1dvS2RvT2R0SmhPTWlRT09HQ0x0THl1VkNfZ01KMEZ3TERhcDA4YkxURERTbVJyQUtvRUYzRUxNczRjR1dzaUE4TnpLdmtZRmFnbFJ0Z3lmSW5CZVFkdWxkNTF6U2prOUMzc1h6M1dxaHNMRFg5NUFtdk5KSVQzLWFKYXV3TGZB?oc=5",
+      "categoria": "Boca",
+      "fecha": "Wed, 28 Oct 2026 11:48:13 GMT"
     },
     {
       "titulo": "Experiencia \"Xeneize\" para el fútbol femenino de Estudiantes en Buenos Aires - puntal.com.ar",
@@ -236,34 +242,22 @@
       "fecha": "Wed, 28 Oct 2026 17:03:45 GMT"
     },
     {
-      "titulo": "Boca vs. Ajax por la Messi Cup: hora, TV y cómo ver en vivo los cuartos de final - DeporTV",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGNqSVlqY1NxbHRHZy1PXzNJRTY1TVBFQldBZWhJa08zN2FvVV9hOE1nWDVkck9JVzloZ2lXRy0wRE45SXlWYnR3TWNnR05ESHRpRTNuQlBsQTR4WWtyUldLQzducWZkYWxZS0xFQkZ6S1poZ1gxNEhwN2VFOTZBUFNrWVFnQ2VrN1JGR1QtU1l3UTg?oc=5",
-      "categoria": "Boca",
-      "fecha": "Wed, 28 Oct 2026 12:40:00 GMT"
-    },
-    {
-      "titulo": "Las revelaciones de Enzo Fernández sobre la final con España: las teorías conspirativas, la arenga de Messi y el recuerdo de su expulsión - TN",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS3JUUTRCcndqcVB2c2lONE1hc1ZlMWhweUpjbjN6bnl1VjA4Q2xFYzIzbEYwMDNBMnBiUHNVZjhZdDVSQkktTkxXbVdHYUdqQUwtRUlrYTM4RWItVkdsUHhBSU8tdS1zcnU5aDdmbWVtSmpIWnB0emJma0Y0WDFUZGdJNXRycWZjMXNtMGVlVXI3NkFGRE1OUkZHMG4tck9wUVJPWHlYZVNlMHBaLWNxQnZQRzFvUnlnV3NLRExJcFNWLV8xMDQ3MVRyODk2STRTaVJJN3FfU0RPR0p0cHpTXy0ta0tsWjdwanRYNXdpd1BkMFVzWkI2eFdB0gGOAkFVX3lxTFBWYjlBbUJ4X2s1RDlRZ0tCdGRNakhxRTdtQjBUSUs0b1lualBwaC0zMGIxX3lvUE9MZ0FUVzdOYlctaER0Y29ZUmt3T1MycnJtSFkzOUNkc0VyVGRnOWJaZEZvUUVyVEZwWnFRSy12Z2lwOW5aQmFDSXN3UGR0bG5OOXlSdjdwNW8xRWI3M3pvaGhYcklCbkYyeEtzU1VrY2VoWmxja1cxczFSR3QwZVk0clNVQkQ4YUpfeFB6bVhtVTZpZDZ4SlA4SWNNc2lFYVNOVkZaa2JIVXVhaVhqbF9XYTRYU1l2Vkh6WHFsdXlWVXRpM2NJenBCbjFyTEZZNlUyM1YxWVA2bUN5QTFpQQ?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Thu, 29 Oct 2026 21:37:46 GMT"
-    },
-    {
       "titulo": "Con un amistoso, Argentina y Alemania reinaugurarán el estadio de La Plata - TyC Sports",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaGwwdlBqYWR5dkZoQ1FKZDVlUWRiLTh6TmFxd1JYeXN2Zk1YNlNLV0R3Z05sZXhqYm41WS1WcHM5NGZwMjB2UkFKcDBhUDNJSU1qcFRGQ18tMXEtbGRSWDk2MjV2VXJxa2owMmFfdXJlbDZYSjB6ajhhM1BNNGtGNl90MWktdEgybnp0YkcycnJscUIwX0tCSnFDeTV1UVdlQUNJaEQ4NXZ6YVpkWkcyUTl5bVdYemQtd01GUjZ2cVMzMTdDaVJxb0Fwclpadw?oc=5",
       "categoria": "Selección Argentina",
-      "fecha": "Thu, 29 Oct 2026 22:04:00 GMT"
-    },
-    {
-      "titulo": "La Selección Argentina femenina reinaugurará el estadio Único de La Plata en un amistoso ante Alemania - Olé",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1BwR1dNWkNMZDR3MUxmZEhWWXFCdHl4OXVKREFWOEpWbThtZi1rcFlGaEFQdkg5TEpOYXhzNlpVZFcyOHZNOGNDY3RXOUlfLS1fb2dxUzVmdmJZM1E4ZTRZbDhyM1FvYW5lM1NmYm41Zi1fNGZ2Q2dTUFBsTTZpVEJacWM3c180Nk1hU0ZZblZhQmcyTHNoNExfQllma2trZUZNZU5yTjlUR2c1YjVCNDVyWFMwMmRFd3VySGtTUlQtVGhQbmZ1adIBzgFBVV95cUxQdXBCQ0h4WXZIbG5aanBlcUwwajRRbjVZN09tcDQ3RDUwbWVLUVNkZzZ4bEpmZnVSeEUzV0xNQUl4Zmx6MkFrVFM3cjh2NkhRZjVqZGNsdDYtMldvV3B5a0JDYXlRZ1pISktUZ1hKS3VJUU45UWxSaDNBbGhsQ0E1aGlWV0FGTHB0eDRabHAtaW1hNnNJVi13b0o4elUtQjBXMGVDZHF4eS1zZkQ1OWx0QnR4MWJBQ1h1cTRJdU1lbm9sVm5uNThpdVp1NEJvUQ?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Thu, 29 Oct 2026 22:01:28 GMT"
+      "fecha": "Fri, 30 Oct 2026 01:08:08 GMT"
     },
     {
       "titulo": "La inédita confesión sobre el gol que dejó a la Selección argentina sin Mundial 2026 - Diario UNO",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMTF4cWlHWUNheDItX0ZPejBJYmhFMEFhYjZQT01nLWhUZ2dUT0swcFprNTE1R0o2TTlRWXhLSFZVakduazhZYVRDUFh5eEJ3SjNWN09oLWczRWdGZGZ4Z2hxM2FHZ3o0a3QxQ2d3SVZxQkRGTzVjeklOWkFUejI4MWpRYW8xWnVjZElta1ZEWkFvT1NmQVkxZnZ2c0xEbGFBMkJ4RlRwTzFIMlAyZTdtWThjdzVnX0NBUm5qd1g4ODB0clXSAcgBQVVfeXFMTWFhTzRFc29TYXNJWGV2T2ZpRlJ3REhhRldDRzBOQ3I4dzQ5WUlZRGpDYUw0NUF1MXFmMjlSQ0Ztd2gwVUNoT1ZsMlFFbXVvVG5Jejd3U2VvaVdJbllEQlhrbGwzc0tkenBxLUtiUEY4a2NRTmNzSVd0M3hyWE5PMTVsbWxGZVpqSXlOWGMyTENwMHdZbFo4c19nZGdCRFgyT0M3cnMyVmtWdVZ2M2prODloclBYOXQzTXVhQWtWclByWjIwcTVWQ3A?oc=5",
       "categoria": "Selección Argentina",
       "fecha": "Thu, 29 Oct 2026 00:41:00 GMT"
+    },
+    {
+      "titulo": "La Selección Sub 19 consiguió un triunfazo ante Uruguay y sueña con la clasificación - Olé",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX1NtQnhyU1lpOGJYdmZxQWxjVE1VT1k5OTZ0eFNJeDdQRjU1Y1RVRllRdlBqbGFrMnR2TFd5Sk1kTkd0eHhud2RtN0t1UmJrUEV0N08ycHVoR0N4TDhrX051cUEwdHh3aWtWQVVtcGE3dWxqWHlNa3lZSnNJMXBReUVfeWlfaU1IbFYxZkFqOVlHQTdWUC14MUNwV18tblkteWlWUGE3S01zT2FQQW1HeDNUSDB6UzM1YmRwR0Q1QVBIcUJnckt5MnZGYW5Gby1YRk9uanZaWVhkYU9LQW9RVFFzTnNGcUJaQTR6Y1FXUE_SAfYBQVVfeXFMTmdXOVBIa0pIWEx2UUlNNlFNaEtNRHhHZDJiV21NUENaYTdNTUhJb25JN0NuVGtxZGp6dlRhQ2lsUm1qN2hIMFNzaTd3VkNXNlNoZmt5UUdnZHNBOUU1ZnA5aDBWM3RMbWpHdXVZNFUyZldiYURKbGdtNzEzT1BJVTI1S09MbDU1TGVoSjBIblF0MG9lVHp1cnhOaURUaDZ2Y0h0aVBJLUdVMGdYdEdWel9JYzItLTk5VUVab2dVWGZmalJUZE9Fb2tYT0pmNEdVR1otYXptUUFSSXBEOEcxQmc3MGd2XzVDT0NxQ2p1OFdhZU9QZmtn?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Sat, 19 Sep 2026 07:00:00 GMT"
     },
     {
       "titulo": "Un exjugador de la Selección argentina, acusado de estar “colgado de la luz” en España - Cba24n",
@@ -278,6 +272,24 @@
       "fecha": "Wed, 28 Oct 2026 14:13:43 GMT"
     },
     {
+      "titulo": "Mercedes Diz, la goleadora de Argentina, anotó también ante Ghana - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT1QxTFYyWnNBSl9rQnZhLVZEMWROWlg4cUUteEtMZU9MTnZzU3ctS1ozS3FETU5xMDFVcnVLaHRYb3MtRWp6QTlzWXZLZE1oU2w3TmxUbjZwa2JBUFF2Sm55T2xVOTNXQ21vRDgwZGJwMWFPTERtTWN1OTJsT3hwU3VIcFF5bU1kQzRBdzR3ajlLMFgtZzZfbnA5alJxLXM4b1pTTHM4WTQ2bWxTNXZua2dIY0FGR291OEtvMmRubUNpdlpXampPM2R3?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Wed, 28 Oct 2026 21:38:41 GMT"
+    },
+    {
+      "titulo": "La Selección femenina de Argentina quedó eliminada de la Copa del Mundo Sub-17 - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQekg1alI5SFd4dXhsRG5MVUNXb0FKQnc5QUMwZTJtM1ZzcnFHY1Z3cXQ4b3F5akpPNTFxalp2U21VQTJfd0FycTVEMGx4bnI4dkJLdDhHV1hvTUlzSklhczJGWnZnbVZTcy0tMTVkMS1CS25nc1VIeW9NNk9JbjBXYlhreUtJTVVRMWFkbEJVMHY1Z1FHVE93eGRFMzhoNHE2dlJjcHQyNXlId2M0UWJCMWFlaVl6cHQxSXBiOElVazRCZ9IBxwFBVV95cUxPOXgwd3JGUEFjaENOSm12LV8zT3FQVkZaaF85cjdqcllkS0hsWHE3d1Rvcm95Wk55Mk1DeHk1M3FLNkJvZXo2TDNDMTk4SF83djFrRUJIdEgyYURXZktma2FIUThhRmoxZmRFTDFEUndQaGNPbGtZdGp3OWRqOVc0ME9mb2wzblRSQnVPT0RPX1JFRUNPNVRqbFlwRXVUX0NRRHBPbVVueVVrb1ZGb3QteU5FUVRWLTkxVURFQ0tHMTJUcGEyN2Rn?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Wed, 28 Oct 2026 18:59:56 GMT"
+    },
+    {
+      "titulo": "Las revelaciones de Enzo Fernández sobre la final con España: las teorías conspirativas, la arenga de Messi y el recuerdo de su expulsión - TN",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPS3JUUTRCcndqcVB2c2lONE1hc1ZlMWhweUpjbjN6bnl1VjA4Q2xFYzIzbEYwMDNBMnBiUHNVZjhZdDVSQkktTkxXbVdHYUdqQUwtRUlrYTM4RWItVkdsUHhBSU8tdS1zcnU5aDdmbWVtSmpIWnB0emJma0Y0WDFUZGdJNXRycWZjMXNtMGVlVXI3NkFGRE1OUkZHMG4tck9wUVJPWHlYZVNlMHBaLWNxQnZQRzFvUnlnV3NLRExJcFNWLV8xMDQ3MVRyODk2STRTaVJJN3FfU0RPR0p0cHpTXy0ta0tsWjdwanRYNXdpd1BkMFVzWkI2eFdB0gGOAkFVX3lxTFBWYjlBbUJ4X2s1RDlRZ0tCdGRNakhxRTdtQjBUSUs0b1lualBwaC0zMGIxX3lvUE9MZ0FUVzdOYlctaER0Y29ZUmt3T1MycnJtSFkzOUNkc0VyVGRnOWJaZEZvUUVyVEZwWnFRSy12Z2lwOW5aQmFDSXN3UGR0bG5OOXlSdjdwNW8xRWI3M3pvaGhYcklCbkYyeEtzU1VrY2VoWmxja1cxczFSR3QwZVk0clNVQkQ4YUpfeFB6bVhtVTZpZDZ4SlA4SWNNc2lFYVNOVkZaa2JIVXVhaVhqbF9XYTRYU1l2Vkh6WHFsdXlWVXRpM2NJenBCbjFyTEZZNlUyM1YxWVA2bUN5QTFpQQ?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Thu, 29 Oct 2026 21:37:46 GMT"
+    },
+    {
       "titulo": "La preocupación que acompañó a Lionel Scaloni durante sus años de gloria con la Selección argentina - La Gaceta",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ041aTRmOV84ekVCXzlYVVdfNGdTSEs4V1p5MTQ4R1lEQVIzbnNLUC0ySksxQ1MxSFlsRVBBMUpsdDA5OGpsaXZ5aUFURVdRU0syV1U3VmZQZUpYQVlLZ1BmU3BmeWZ6bU93d0tKUmhGajBsaGdfWENNRzZDM1VQR2xmZ1NEcnpZSVY0eDloRjhHRk5rLVhObnF4emNUN2hhWC05RjU2S3FqV1RwalY3UVJWaGphY3dyTkxObVpoaHRPaHVpVGFRTFRWLVdpcW5i0gHWAUFVX3lxTE5JeVFpbDE5UUdTVVVWbkhIckgxaUtHMjN4RXlHdFo0QkNkaEZmeExqdEh6NWxaTHBudzMycHFvaExiUWpfMzExcmZKbThsS2lvVzdqOFctY1M3N1R0Z1Vwd0NXVHFRZ2FybkVrdUt2MzhpYTMtenFQeWxZS2ZIYktKaXJDMXBENld5TE1NejN0aktDdzFST3ZxN1Qya2t6Z3JTZEpPdTZnWU5MbWltUGVCTVpoMDBFOURRMFFvTElfSkZscXpRb19kUFFLUFNJN0J6OFI5X3c?oc=5",
       "categoria": "Selección Argentina",
@@ -288,18 +300,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaGpEMURPMXNUNERnYmNTSXlkU2VuTHRIS0NPTkhHSVItNzF1WUxtSmwxUDMxZ3FKLTh3SHR4R3Z4c0FWQlIxak9vNC1fbUZuaTF4RVNQNTRtSDNMNVBlTDhJb2NpNzdmZUdBY3dGRmxVQXhNd1ptNGRuLWQwVVRVYlFqVE9PNmZhOWJhc3VGUnRnWWRGaFM0?oc=5",
       "categoria": "Selección Argentina",
       "fecha": "Wed, 28 Oct 2026 21:49:30 GMT"
-    },
-    {
-      "titulo": "El sentido mensaje de Chiqui Tapia a Scaloni tras la muerte de su mamá: “Todo un país te abraza” - TN",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNl9UOFNVVERfM0lQVm1iWjk0cTlIeGc2YUhOZkhrVmFwU3RCTUFqQ3J4dHNuWlNOdm41QTJISnNuMGF2YThrV05IU053M0pmWVU1RVE0em5mNDNPTVdHVlV3eXFRUElhTVdtMWQwSTl0YWVmNU8yNDNOMGFPYTc5dFFaQ1R4dkRIVGNnOVRUMTdRZjVpUXBndzZWVlptaldNQXBhNTRRajZyQ3pQLVZrRU1Vc242WFNSZlJvcDFJUjZZYjBDa2cydkR1SDIycFQxdlJOSFF30gHqAUFVX3lxTE5Za0FtamlXMUNXR2w1MFlKcl9zWGVQRzF5SHRrQ185ZG9qWVIwWVVac1JzUXFSRFpZV3pzRDhUTldGME1zcmRqeGItbG1OSDdaejdheFZubi1KZTZyck5RNVY5ZV9VQS0yR0lrTmpLenRUNmxJUW01QmNaMUdzYWJlUjlISTF5bDROZ3pjTnhvTVluV1ZPOTBVLWg3d192XzJRMjF0dUtyUEhkLVFYUnNVY1hvOGVfZENiZkhTcTFac0YyTGxweGZiWUtHaDVEMmlFb0NnQldMVkhMVDE0SWdSV2xxSGtQZ0dBZw?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Wed, 28 Oct 2026 12:45:03 GMT"
-    },
-    {
-      "titulo": "Argentina goleó a Bolivia con su sello, en su primer amistoso post Mundial - ESPN Argentina",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdjY1TThDbVhKR1JqVHM4UGVheDliYzFIMUtXdFhMOWVvN01wU3Vnd1ZMWkYxR1BYWVB3MEJNakNIY0ZfQU9CRHZaZjgzcFpVWkJfQ3kwcGNlTGVOdDVHa2lKTnk5VVBRSzlUbUNIUGtUcjUzbU43dzBoZUhDeTZVdVpmVEJhZDFuSzZVU3ZROGZsaURvZE9OMmN0NTcwdk1DRFF6ZHJLelJBWWl5bGZTS09xWXUwVURWbXp4SFJHODlKQWlwcll0UjVFenI?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Wed, 30 Sep 2026 07:00:00 GMT"
     }
   ]
 }
