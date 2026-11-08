@@ -1,6 +1,12 @@
 {
-  "actualizado": "2026-11-08T07:56:38.080180+00:00",
+  "actualizado": "2026-11-08T14:38:51.669542+00:00",
   "noticias": [
+    {
+      "titulo": "Boca se consagró campeón y alcanzó su estrella 75: así quedó la tabla de títulos del fútbol argentino - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLTdSRklNTGJZZHZ4TEJ0dzJQOG94dDZPRUFVLUE1Vi1pUHBEZ1RsSXB0UDg1WkZSS3F4bUJibngzYmFzdUtyMEhGVUJFLUNTc21NdUU3ZzNKelI0c2l6X1JFMWJ6YzFDWTJFbXhJdXgyRm5PZ3ZieHQwNVZpUmtuSmdzR0FBc0RVZUlZb2FEYV9IUGUtVFNqc0FwVWQwQldXbzlPVzNrTnMxYzRHcU40VHFudU9ydHJNRFJvcjlWRUZtNVlHdnE3MG5xVFU1cWtMa3lSZW5kWFVpNldTMUHSAfgBQVVfeXFMUF9XX1V3VUxjY3Z5eDBwZlhVVHhnWU9tY1RiLXJWMVpnVXpwOTA5TjBJakg0UVhjc2Zuam82WDZMc1RrSWRidWlFTmg0c29ZX3Y4N3lLMzBXSDBLMkVaS2hFVnl5VW45ZGJiN2RDRDVGdzY0WktVUEp1b1owbS1xZFJnM096OXBZWU9yekFqRHRvMlBfM2gzOW9TVEhwdGM4aDNqaHBaamIzWXd3amVoLVVydVAtOVcxMEpKeVlqRGRlcGxHNnlmVWRjSF9KRUU1Z3llb3lNaTh1RkM5UjQxOVNaTHVvMHFSVDdfRjFHT3NleWhyc3FXSmE?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Sat, 07 Nov 2026 23:30:00 GMT"
+    },
     {
       "titulo": "Así quedaron los cruces para los octavos del Clausura: Boca confirmado y River espera - Olé",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWxybWZoVjdpYlNpYW5ZTF9sVWp1dEtGcG1RWUd1TERQc19jNGdfTEs0clBxOHFaZnpJcjAxRGV6cWNvQk5DMWVzVVNMMDBZY3VuVlJqMF9PMUo2YThjOFh6NmxTQVpsRXlGWWNiUkNIZzFLczVWeGlkclJyMU1pWkJDNUF6Q1hKOHRUbUxtTGJ6alZ4RjJwUU9zcVdCSVJkNjR4TWE3aEdhaXV2OG1xT3Z6OUNZcEw0MmlDcDNwUXVNbFZkUVZj0gHMAUFVX3lxTE9mQTZrX2JhQmZVV1FOR0NOZURqUVcta081WmJyZnVrVW1reDhnVkxWUHpSRllVVzg5NUQxMTZLS1RJdUVheXR0dmdEbGVvcEpXbXVrdTZTenAwMjllOUNfWVhmQjNtQnN6Y0dwMFl3ZnBIRjBqRmZ3UWhQQ2cyeEQ3RGhJb0I2NHVHcTdPS1drdkN6VjFQTWlYQkFrNmdiYWdoemRCT0RvTjZyOVpMTWxSM1gxZURQUmxjODZQTWxZSXhqUmpIS3dNSnR3Zg?oc=5",
@@ -14,19 +20,13 @@
       "fecha": "Sun, 08 Nov 2026 03:17:00 GMT"
     },
     {
-      "titulo": "Octavos del Clausura 2026: cruces y fechas de playoffs de la Liga Argentina - El Gráfico",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdy16Y0NsSExaM0ZJUTZxcGRIVlpNN0ZVTEU0QV95STVmZVJRMFZTOGxDOFFQUlI0aEIzMDVZbW54YnJxeC1TWmwxZXVPeFZVTHEtdjlxOU1zMk9JdkE5bG1xWVlmdWVjWmhVcUgwWnJRdm5zU09SVUlZY010cUpiM3NSdi03cTM4V3hmeG9fZUw2YjZESHoxb1VnQ3Z0TmNUeVo0SlVEMVV1ZnhYdS1qMkp5alR1N2I0LWszT0hqanlBR0drbndDSVM4cWcxWms4Z2c?oc=5",
+      "titulo": "Torneo Clausura 2026: así están los posibles cruces de octavos de final y el camino hacia la final - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWGtlLWQ5eUhqMjZEWVBnLXBhTEFPb3lvSHlXcXphaVZ3TGx1cjdXTkdINEVXR2ZGUDVORnVXcENFd2wxREVUNWllZUtLV18weVFiR20wRGlRWEVsRkJQdjNhRUNrOVY4bXJVc0NXcmdicTI3eGNlSnM4WUdPZ3hRRVhWenhxdU5Lel9ZQTYxaFdsbHEwbGFsTUhuUTRPT3ZIaERQcEl6bldoUU5USWE4bTVGNzhjVjNzMWlrU3lGVjhleV84S3VnVVJMNjl4ZWVBckZ0Q2pMTUpQTUnSAeABQVVfeXFMT0d1ZkxHTnpfLUVQNDZPMnlUT3ZsYjJJVWw1NWJwWHJMTDRJTDhuekljQ2JZcGpjdC1qb1daWFY0WmVQaERlbkVOUjIyZkRxTHc5UmltODl6ZXdpTC1wal9MaEdwWHV0VGRUMnhlaHU5Z0ItaTdPdkQzNkh6cnNwNU1oUlVJNmQ4WUFCNnVUek9raHVUOV9jMUk1c0JXMXQ1S0hTM19VUmZfVE5URDl6ZVFxOUg2b291VnBzcWt5MWUtNGQ0RzJsQVpIOUkwX2pZU0xwOV82UlBFNWN0d2g3TUg?oc=5",
       "categoria": "Fútbol argentino",
-      "fecha": "Thu, 05 Nov 2026 18:23:32 GMT"
+      "fecha": "Sun, 08 Nov 2026 03:37:30 GMT"
     },
     {
-      "titulo": "Boca se consagró campeón y alcanzó su estrella 75: así quedó la tabla de títulos del fútbol argentino - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLTdSRklNTGJZZHZ4TEJ0dzJQOG94dDZPRUFVLUE1Vi1pUHBEZ1RsSXB0UDg1WkZSS3F4bUJibngzYmFzdUtyMEhGVUJFLUNTc21NdUU3ZzNKelI0c2l6X1JFMWJ6YzFDWTJFbXhJdXgyRm5PZ3ZieHQwNVZpUmtuSmdzR0FBc0RVZUlZb2FEYV9IUGUtVFNqc0FwVWQwQldXbzlPVzNrTnMxYzRHcU40VHFudU9ydHJNRFJvcjlWRUZtNVlHdnE3MG5xVFU1cWtMa3lSZW5kWFVpNldTMUHSAfgBQVVfeXFMUF9XX1V3VUxjY3Z5eDBwZlhVVHhnWU9tY1RiLXJWMVpnVXpwOTA5TjBJakg0UVhjc2Zuam82WDZMc1RrSWRidWlFTmg0c29ZX3Y4N3lLMzBXSDBLMkVaS2hFVnl5VW45ZGJiN2RDRDVGdzY0WktVUEp1b1owbS1xZFJnM096OXBZWU9yekFqRHRvMlBfM2gzOW9TVEhwdGM4aDNqaHBaamIzWXd3amVoLVVydVAtOVcxMEpKeVlqRGRlcGxHNnlmVWRjSF9KRUU1Z3llb3lNaTh1RkM5UjQxOVNaTHVvMHFSVDdfRjFHT3NleWhyc3FXSmE?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Sat, 07 Nov 2026 23:30:00 GMT"
-    },
-    {
-      "titulo": "Argentinos cayó sin atenuantes ante Huracán y se quedó sin la tabla anual: reviví lo mejor - TyC Sports",
+      "titulo": "Golpazo para Argentinos: cayó ante un Huracán que se metió en octavos y se quedó sin la tabla anual - TyC Sports",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQnNQX3RFVGpTTzFHTC1NenFHNm1WdzFNSWxQMVo5dkhNN2ZQRUY5alpndUtOdnNDa1p6cnFPMUl4UUNFQ1ZmTWNocjk3bWlXSUFycjdoeWNDdzM3dFNMMml0Y3I4NXdnSDhNN2ZoRVh4VWowRzVGYl94WXZGQTZCMDV4TDREb0RaNkdkcVFPSC1DdWJuWlFVVFY2cTlScFpfcXdDTU1IZjBpYmxVcXZSZ2M5V1o4S2lUaTFya0tvdjJ5NE80X0dHNVJDMjdQS0hiLUE?oc=5",
       "categoria": "Fútbol argentino",
       "fecha": "Sun, 08 Nov 2026 00:16:03 GMT"
@@ -38,10 +38,22 @@
       "fecha": "Sun, 08 Nov 2026 04:30:07 GMT"
     },
     {
-      "titulo": "Pelota Libre de riesgo: ver partido de Argentinos vs. Huracán EN VIVO, por TV y online - El Gráfico",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaFpRTnZETFNNbllKMWRZQmM2Tmd4WjVVWU9UMldoMWVmZTdQd25HN1lfRDByU0ExOUxkeDN1WUZ1NktZVTVrbUJ5NmV2YzI2c1oxZ082c3VNVXhuWWF4Q2gxX25KUjA5dUxZbHozbW96OXJyemhzWG8tcjJkaGwxODZQRTdXeUpYclBJYnBXT3ZacDFBOG5qVXpaTFdBWEdlTnZPaWc1emNpS19NWlNLWEFFenhUbmZoN1hLU0xzbWt5dUJOU1p5aWpVMDNTYzhzdV9XWjNZRFpyZzJrckE?oc=5",
+      "titulo": "En qué canal pasan hoy Argentinos Juniors vs. Huracán y qué canal lo transmite en vivo - La Nación",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaHpCVlBRNDRjRUpmY21DOVZNM0FkWEd2am5UVU5McDRPSkpMdWhaYnh3d01naDlkQVpiS3psUGxXanFYMjl0bmdHQnZRc0RpLWtLaGJZS2p5SVE4MUdSTGpVSlZxWkRKazM2US1sSGRFS2NqYjREd0JvRkwxRjJGNzYwanFyUVdPNWpLdk15YTVKMnlCZTJaM3Ftb3RYUnBUczVNaFEyNUVBNWlpSHJ4RE5iSDBtdGNkRFJRVkFGWGI4NC10d2FxSDFQVmlEbFhnTE40ZWZwdmNmdw?oc=5",
       "categoria": "Fútbol argentino",
-      "fecha": "Fri, 06 Nov 2026 08:00:00 GMT"
+      "fecha": "Sat, 07 Nov 2026 20:02:00 GMT"
+    },
+    {
+      "titulo": "La expulsión más insólita del fútbol argentino: era sordomudo y vio la roja por protestar - El Gráfico",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQclRTTnp1NmEwRE16ZW5pVmd6d2I3RnRwTnFYQUZRbDBGVy0wYXJOX2pwank1SlBNZGs0eERiVmU1Q2h2Qmd0YkN0N2M4enNvNjFBRGpiaUhzOHNja2ZKVzgyOEtWa0FNdUNpUTVUaTk1N1ZRT3FZa19PZ1ZOQm1QalowNVFYcDM2T1dTcWlWX3loaUVLQmw2OVZ2QVhTZWZrUXUxc3N4TnFlNnhWaXZjV1dRb2FpSXZiRDNCNXRfdVZaSjQ3dzhtbk1OZmlQSU4wTFQ1b3ZoOXU0Q0dBdmRmRzEtVjM?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Sun, 08 Nov 2026 11:00:57 GMT"
+    },
+    {
+      "titulo": "Que el golpazo del final no tape el mérito de pertenecer a la élite del fútbol argentino - Rosario3",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQjVjYTA4bmVfY2RYRU9JR1pXNlo1MWdBR0hUNE5JenhIbG9oZi1MRTlCNkJwTHVHUUVwc1VXNndpQ0pRa0dNejd1YTF0R3JpWlR6R1FhTzVJZjlDS0d6STR6YWQwVi1lZVBBUXJUVFRwRndWd0xqNGcwY1JsdHNtM2RIMkYxN1QxSmpOSzdLbUhWd29kQkdNT0VXRVZwclVxaWVuNzBrUHRSWlBCRkpEVVdKQ29PbU9QOGd3eFRIa0poYVBjbGw5eWlYeU8tNmQ2RHhlb0NNSdIB1wFBVV95cUxNQjVjYTA4bmVfY2RYRU9JR1pXNlo1MWdBR0hUNE5JenhIbG9oZi1MRTlCNkJwTHVHUUVwc1VXNndpQ0pRa0dNejd1YTF0R3JpWlR6R1FhTzVJZjlDS0d6STR6YWQwVi1lZVBBUXJUVFRwRndWd0xqNGcwY1JsdHNtM2RIMkYxN1QxSmpOSzdLbUhWd29kQkdNT0VXRVZwclVxaWVuNzBrUHRSWlBCRkpEVVdKQ29PbU9QOGd3eFRIa0poYVBjbGw5eWlYeU8tNmQ2RHhlb0NNSQ?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Sun, 08 Nov 2026 00:19:00 GMT"
     },
     {
       "titulo": "El sueño de Newell's de tener a Lionel Messi: qué chances reales hay de que juegue en el fútbol argentino - Clarin.com",
@@ -50,22 +62,10 @@
       "fecha": "Sat, 07 Nov 2026 08:01:05 GMT"
     },
     {
-      "titulo": "Estos son los seis partidos del fútbol argentino para hoy, sábado 7 de noviembre de 2026 - Crónica",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQME5lblo0UTMzTk1LcmFCb2x3Zm9vVF9Db0pvMXhzT3RpMVlMcHYxWlJuVVdGTGZ2Z0pyUDU4LXVxR0NtVFYtY3oyTEU2dXNVUmdyNVh5cFlwS2FZUkZVWk9KUVdMR2dHNnVkcDJkN1lKb1B2Qjh4YUpRTVBUekFCOE1qREsyVWZNUnM1SEczOHgzTWpDdElxTTF4X29rcnRqdHV4UTBYUU5IdUc5RU5jNWVHbWRFSTA3U0NlWGc3WUtoaS1kNE11dUQ3bVdhb1N1OEHSAdcBQVVfeXFMT3RfODVzTUZUeGltTHhVdjNackxfS3ZlYkk0ZEpFVWdJV0ZPN0tqNkNYUEtXM3IyVy1JREZac0hpZU1adU5QUXpCRGJjTm5Sam9IWjBQWG9rT0tIZ0szRXVtbm1vbmpBcFJ4MVlwYWNjZ24yN2lJWmNSVXZNbXZIeGdOcVVyUXNSVUJiWGw5YzVzT2o3eFBySWl2QzFPXzZuUWhWWnoyQ0NGd2FaWS1MZTEyRThPdnNCWHJJbnJwTW11d1RqV3dfVTBGdHRsa011ZmU1ZG80TzQ?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Sat, 07 Nov 2026 12:39:00 GMT"
-    },
-    {
-      "titulo": "Copa Libertadores y Sudamericana 2027: todos los clasificados y los cupos que faltan definirse - Cadena 3 Argentina",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeV96UG16SDlCWm1BNzBzUFRBQ3V3bl94MmJ1UFA5eTdHcUtlT2tuVUNHUTQ5Q0dKNUR0RzBGQUtjQ3dPdGJ5YVFNcTNBNGQ3alo5Vi1wWWx1ZmlCaXljZVU1MG1aWGtQRVlCX3dWQXQydjZ0ZjdRcXRHeDZnT2xGTnZ1WHpjNW5CN0xLV2VFSTJrYnBDYlJ0Z3NQTlhiTjl2c09DaFJHd1p3U1hmVUpZdVI0Q0E3UlBSaHFyUkQ0MmF2d3NXNG5FdWdmaEhiZm5rMlFVY0130gHbAUFVX3lxTE9vZzkyZDZTX3VMbkt2cEY1c3RFSWczLVgwcTJzb1FidTFvRU5aUXRjSnRuOXJHMkRFcGZBMExsbkxGeUt0eTVNdWZRNUxZUHpZamVMeUhTdDdCNlRHZzdOM3c1WkhiMjVLZUVpTWtVS2JBdkY3U0VaeTlJNzZKdmlBWUtHVEhuakpWb2tsZ1VwSHZheld3NzVpWHBKNDJxcWJnNjRkZVM2TFpoS2pybzEteUdoZkdHamhjQ2tUOUhmeEJicVR1cGxPcUJXOTBIYU9qc3hNdmU1OTJSZw?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Sun, 08 Nov 2026 00:31:06 GMT"
-    },
-    {
       "titulo": "Así está el cuadro con los cruces de octavos de final del Torneo Clausura - Infobae",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOX1pEZHFWdVFGT1lyWDM1Z05HbEVNbkZLaW0wbW9tcU81SFJHbGlJZk9ZQTc5dEQ5ZVBBUHdlaFpvcmtvbklmTVhOb2htdTJmbFFsbjdEUzNybXpGYVNYU2dlczYyc09LZjh6R0VlYlUwei1wMDFSVmVmZTdCWDFqR3RHSlFEajhIZTBCcTV5WUtObHhIcXFYakxRdGp5d1RZaC1uYUM2Q21jcWozNzdRZ243Y1RwSTFMaV9kWVlVZTM5QUo5clprU1ExOEEzQXU3aFpUREJRaEFBQUlPRzV4VG0xM2lfMk1Wcnl0WDc1dlN5NS1rcllzSFlpRkN5aWVRRkd4Y3V5d3JWZWZ1VDd2U9IBqwJBVV95cUxPN0pFajBGSnZkTkNOdFdqNXJqZjE1N1ozVkxJX2FxN3o1bHc3ZzlhdFBZV08xVFhUajVrcUpZT2xuR0M3X242QUVzUExmLUpiR1FkNlM5TzJFdjdwV2pMWWx3OTc4M2NfNUNoblhjZ2ctN2tQS0VNVHFYajQzcG9UNVlubkUySkRmbXI0MkM0RUtzY3F1RHB3ZEtYVVhIaFNJYWxURi1ZcXF0SEhFV2xra0g5Wl9wQjZKSFdoeURuTmxSZUtKaHdZYVgwdjhMa1pDVlFTRzNfMjJQSkFJSDhiaEFzb2hpZDdBU0JEX0FZMXJ5UkVIdG10MnNZRmVOQnV2SjJaMzBuMUlWN3JPVzJHOUdHeFg4SFBnU185dW4wYW4yeUlXVWhxazhxSQ?oc=5",
       "categoria": "Gimnasia",
-      "fecha": "Sun, 08 Nov 2026 03:13:00 GMT"
+      "fecha": "Sun, 08 Nov 2026 10:46:35 GMT"
     },
     {
       "titulo": "Los suplentes del Lobo jugaron un amistoso ante la Selección de la Liga Amateur Platense - Infocielo",
@@ -98,16 +98,16 @@
       "fecha": "Fri, 06 Nov 2026 00:13:00 GMT"
     },
     {
-      "titulo": "Liga Profesional: Gimnasia festejó ante Belgrano y sueña en grande - Página|12",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcE1BN2NhX2RXZEYybWN5Qm51anJpTG81bl9fdmdGRDZvQlRROTVNeWR6Z1oxY3EycFhzSXFOd0c5WGFxOGhKcFF0NjNfVjkzd2FYT2NuSXkzOTdvY2E2OEFqQ3p5MDRsclBLWGJZMFRtWXpCWVRyalRTVUJ0WjlGZWxMWjc3RzRxYjUxbUZjR1NSMHp3NkhNcVhPLTFPa3NUdHFrQjRRMFc?oc=5",
-      "categoria": "Gimnasia",
-      "fecha": "Fri, 06 Nov 2026 00:16:09 GMT"
-    },
-    {
       "titulo": "Gimnasia venció a Belgrano y quedó cuarto en la tabla anual con aspiraciones de Libertadores - LA17",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzNDZ193bnZmZVBybmFGUDQxNW5rSUdvQUZZd2VjdjRLXzY4M3lHS1lyY3l2MzFXdlI3TWVuRnh3ZHllM1JqTTRaTWJLek95bTRaRUM4b3VuUWNTTzZQQjZ3cExueVJyYWlKcHFRZGpUVVg2V3dOU3hSU1RkX3R2MnVBMjRfUWxtZ3g2Vkg5MXVuZGhScXFmeHAyQldlYjBvSEZMZ3dzYlhRdWlIRWg3d0NFSWFMTjJWMmp2aFJyV0Rsb0FH?oc=5",
       "categoria": "Gimnasia",
       "fecha": "Fri, 06 Nov 2026 01:40:00 GMT"
+    },
+    {
+      "titulo": "Liga Profesional: Gimnasia festejó ante Belgrano y sueña en grande - Página|12",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcE1BN2NhX2RXZEYybWN5Qm51anJpTG81bl9fdmdGRDZvQlRROTVNeWR6Z1oxY3EycFhzSXFOd0c5WGFxOGhKcFF0NjNfVjkzd2FYT2NuSXkzOTdvY2E2OEFqQ3p5MDRsclBLWGJZMFRtWXpCWVRyalRTVUJ0WjlGZWxMWjc3RzRxYjUxbUZjR1NSMHp3NkhNcVhPLTFPa3NUdHFrQjRRMFc?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Fri, 06 Nov 2026 00:16:09 GMT"
     },
     {
       "titulo": "Clausura. Belgrano perdió con Gimnasia y estas son las claves de una caída por la suma de errores - La Voz del Interior",
@@ -116,16 +116,10 @@
       "fecha": "Fri, 06 Nov 2026 01:27:46 GMT"
     },
     {
-      "titulo": "Qué canal transmite Gimnasia y Esgrima La Plata vs. Belgrano de Córdoba por el Torneo Clausura: hora, TV y cómo verlo en vivo - DeporTV",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc09wd0k0bVdtaGs1STJVSnBQWFJGS3BvZ2pvSkRrYUwxWDZWQ0YzRzRtaC1hWG0tbDJydjlfcFRnbmYxUXdPMU9pdXUwMjg2N0FSQ2dwWnFFMDhjalMtakVFSC16ZkdXU2pUdW04Z285YTNBSnllUWRXbXhLaVZLcWV0V25tZzhoRlZ1WUFZOHpNbnItQWFjeVFtR1RvTFJQTEVwWjZIZzNvMExHRjBzc191c0NmZllFWC1reXROckQxSFdIU0E?oc=5",
+      "titulo": "Video: el apasionado beso que selló la despedida de un conocido árbitro en el fútbol argentino - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYVpKcTU5UzI5TTlLbGdxQ2pqaURJNEJVRjVxSHA2TDlFbTFodW5DSE1DS1EweHZUNk1zZW5nenl1ZUowUERiclBpY0J1UkFoWmU3c0FjaFVGeVdDRTJKcFpkeUVKakdGc2ZvcUlGN3hzM0hLX1ZMVHd2LVFqTjMtSHJFbVAtTXRCTE9vUWdfbTljUlRBdFJKU2VXMDRsOW5CQS1HdS1lNXNmbWxoYmVyZGZoakhjQ0p0MXI0VVRuN1pyYTlBZ2t5ZU5wMHVhWW5UVEE5MdIB7wFBVV95cUxQeFVrM3RFeG14bXJCbFlWREJGQmpBM1VySVVpc0lSd0p5NHRMcHFUcW9qYWRicTVnc1hrNEk2V012d0FKYXVmbkE2UTRraGdnc2VpQllWMHYzMWdVV2NEcUU0aThYYmZHUTZyRFI2c1F3RXlvdEc2SzBBUEl2M25taEo0TG9hMHVTQTR3R01rbEkxRHBJMWIxRnFJb1VoaHg1VjJWdmNlY1FYRmc1cjNFY1dyc0VhS05CclkwbTRMVkNFSmxhWE9xMGxNTTVGbGM2S29DclF5aFZKMXNfaXQxeW5PR0R0QWF1SXNWMDZUZw?oc=5",
       "categoria": "Gimnasia",
-      "fecha": "Thu, 05 Nov 2026 11:30:00 GMT"
-    },
-    {
-      "titulo": "Boca campeón: cómo quedó el ranking de títulos en el fútbol argentino - La Nación",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTDJvOXpORktUM2ZDbGZmYThPVzktOVlxejh5cDJITHlUU0JhVDBsRUFuZjRmMERnTURUd2pmZkF3NDRQSTgwSUdSbEJFams2SVVtSFQtY3NjaFIyeTNKTjVlVDBPbEd2NHJNd2RXdi16WTNxcTRJUmdMNldOcXV6UTVxY00yYmdyM0lQbHVHTVdxTERMT1BWM010LW11ZXhnTWYyYUxhcTlCekprWHk3NXdxVDVvWmJaLU4teGZQZ0tIaUE?oc=5",
-      "categoria": "River",
-      "fecha": "Sat, 07 Nov 2026 23:58:00 GMT"
+      "fecha": "Fri, 06 Nov 2026 01:49:00 GMT"
     },
     {
       "titulo": "Boca se consagró campeón y alcanzó su estrella 75: así quedó la tabla de títulos del fútbol argentino - Infobae",
@@ -137,13 +131,37 @@
       "titulo": "¡Boca, campeón! Así quedó la tabla histórica de títulos del fútbol argentino - Planeta Boca Juniors",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXFNZ2NZOHo3bjRuUVE3dnVwWkd0YmRZSjlJMUJPZGoxMjRfS2pyVjVleHloRjN4Wm9SQUNrZ0xiYzc0NHdtdUF6X1NpcHpFeUVYVDBhS3NZNGhJc0pXb243c2t1UlhqM204NExqTWMtVWxZamJmTEN1QW5ZTUJqUHIxZlNrTTJpcHBFQzBKdnJHY2htaE9mVXFkdjQ4bEJrZFlIbEplb251QmVTcWpzMklQYS0yNU9KY2c?oc=5",
       "categoria": "River",
-      "fecha": "Sat, 07 Nov 2026 23:47:27 GMT"
+      "fecha": "Sun, 08 Nov 2026 12:48:42 GMT"
     },
     {
-      "titulo": "River espera su rival en octavos de final del Clausura 2026: los cuatro posibles equipos que puede enfrenta... - La Página Millonaria",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdElhYS1DZnBERGtudW1aVnVoMWJsWHlfOUYxX0U0Y1hiRktKVGFSVzBzaWZsV2NneC10YmlGejJZVnptcVEzbUZVUWxLbGFERUF6UnhlNGE5c0JwX0lmdFBORG95dTVENmh5ak9UOGlFSWhlRTlIdmpLbC1seUpRWGZmSkdHNE1FeThfa0J5V0JQVmJOV29zMUp1eTZaa014ZTVSWHRQaEJrTkYzOUhwNGJXV0FEb0lsaXp4OHc4TzhpdkI3YzB6VnRiZDA0RmZPV2JpZk1aaWVqaEN6ZElRellqTF9ydU80YlI5N0lsdE5Remp1LVg5UHNPOVppS3J2eU1z0gGIAkFVX3lxTE84bkF4V3R4MElFZGZBYzRBdl9Bakd0SUlLbFMtN2RyRmRGaV9zNXhGdktCSERtNTYySTl5U2xySERJU0dad3VMS3NNcmxNU0I1Mi1SdXJmZThvMHdVQ0VHdGRlakpGUjMzQVg1RHVodVA3QmtiNE9ncWpPcDRJcVBPQXczcnVyR1p0SXpVZGtQYnhoTnlVZTNnVTAxd1J1WkR0c3p4SnJXcGtLaXlBSExITG5VQkt4Ql9JQVV5WVZ6VWwtc0F4LVE1Q0xRaXNDT3plZGlRSm1XaERBbGVSVkszX1o4MUhSTlJWUUU3aWpWZE16TjVZVnd2aTBUS3NhUUpkdTFRNFQ1Rw?oc=5",
+      "titulo": "Boca campeón: cómo quedó el ranking de títulos en el fútbol argentino - La Nación",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTDJvOXpORktUM2ZDbGZmYThPVzktOVlxejh5cDJITHlUU0JhVDBsRUFuZjRmMERnTURUd2pmZkF3NDRQSTgwSUdSbEJFams2SVVtSFQtY3NjaFIyeTNKTjVlVDBPbEd2NHJNd2RXdi16WTNxcTRJUmdMNldOcXV6UTVxY00yYmdyM0lQbHVHTVdxTERMT1BWM010LW11ZXhnTWYyYUxhcTlCekprWHk3NXdxVDVvWmJaLU4teGZQZ0tIaUE?oc=5",
       "categoria": "River",
-      "fecha": "Sat, 07 Nov 2026 13:14:59 GMT"
+      "fecha": "Sat, 07 Nov 2026 23:58:00 GMT"
+    },
+    {
+      "titulo": "Tras la consagración de Boca, así quedó la tabla histórica de campeones del fútbol argentino - Los Andes",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbDBnU1lFc3NyakVOWEgtT2pYVmk1ZDdvOEpZaHlTTzlGbE5vQVNOZExadGpXVVh4QTh2RmUyZjNNM1ZobVpLU00xbGQ2QTU4Szc0RXdjcjZhVjV3MHZ4NXNLM0QxTjhTX1BtQVp5U1N2RHZoWFlJWW9wbEE0S2pzcGhrNEFjdnlTeFpib2ZnU0xfZmJGZnFnODBXXzgxNm10SVQ3ZF9ielFTQkdoa2k2aUZMekdRcGlGa2NaeXJxaFFseWtQUTdVVHFKMA?oc=5",
+      "categoria": "River",
+      "fecha": "Sat, 07 Nov 2026 22:55:00 GMT"
+    },
+    {
+      "titulo": "Boca campeón de la tabla anual de la Liga Profesional de Fútbol 2026: cómo quedó el historial de títulos en el fútbol argentino - Clarin.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOWtxSzJDWVVKRS1CbFpsdlM0Q1BPeUVlNS1fanczZzdITkVUMDFMN2ttZmx5UzkyNE1LbENTaHhKUWFTeEpEd0p3RTdwUFJwWjcxbUwwdWVxaGRuYXRlVzZDSFluVEJmR0lWam91Qlk4ZlpHQVo1cXhycjZ2SE5NQUI4dV9wbDVUNWNyaVhBQ3lCYTFvUGVwNGJPaWw3OEtUbG1KMDh1OEdYSVdqUmhyTXdDUmlEdy10Q25kVHpEaEdXOE1YcXhVTXlMQ3Z2ekNiOGdSVDhsWXRweWZM?oc=5",
+      "categoria": "River",
+      "fecha": "Sat, 07 Nov 2026 22:44:17 GMT"
+    },
+    {
+      "titulo": "Boca llegó a los 75 títulos y amplió su ventaja sobre River en el ranking histórico del fútbol argentino - El Tribuno",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT3A4R2xJNWFYelc0eUVVZkRBSkxMN0JORkJfS3BEZlRobDQwcFU2eDJZcmVpOUNRSTQwWVpTQ290X2swdV9Fb0hwdnJFYkt4Q2xhNzU1UTZ4amUyLXNvRjAxb25pdVJ5WHZCMmcwUXRETU5hNDQzeVlGeHRpbFMzVi03eTJkU1FEUE9Cam8tbUUwUGNaUnlHZ0FvZ01pUTBxR1pnSWtMcXBHLUQyc1pjZ3VfNE9sU3FJYTIzMU4yd2tZLWpsV204Q1hWaGpBaVdkQXhZcW0tNWt0QWFkYlQxcjRpeGFsenQ1VWxNTnhn0gHzAUFVX3lxTFB0eE4tZWRUSDRLZjMtUUxxanRiT2ZQNk1aTlNYWlQxNWNPcUI3NXdlMmp4cHNuWXpuMkhpdFFla0RpYVBkck5pcEY2OUhBNVloSFo2cVlJVG1WSkNKZUM3cXlpakhEVTltbWZ6LUJtUVFuU0tTVG1jTFVKNzlUSF9jZlhmOHIwTEpLX1F3RnExSHBVQ3lRcHcyVUVLQVBhZ1ptdjhrRF80UnhBczhfWDAyelREMGVVaS1vdnF6RXZ6VkNCTUlOM0dXOWlYMVp3YUc4YzBHMU03S3NDR0xObm83MjdWQTB4WlFHbnBBWEZQTzlSbw?oc=5",
+      "categoria": "River",
+      "fecha": "Sat, 07 Nov 2026 23:33:00 GMT"
+    },
+    {
+      "titulo": "Boca llegó a los 75 títulos y amplió su ventaja sobre River en el fútbol argentino - Nuevo Diario Web",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3lvSWxUMDZ6MzlkRlExWWVnUXFZY2dxUlUxdUJybWROb0dZV0tRNjQ5b0ZRdDRscEtXZkQtcjZFWVNxNWNPcXFjcG54YWYtN0lGZ1lndlhKaTcxdXBIcHpKaThIY0lnSFFNR3E2SS1SNWJnSFJIM0hYVTVtQi1zTDlIdHF1TmM0dmJzeU1OWnk3OVo2YjBmUy1ORTR0TUpJSnZNdS1RQmhaanM1QUtSQXgxTnZpVlIydFdtTllIRQ?oc=5",
+      "categoria": "River",
+      "fecha": "Sat, 07 Nov 2026 23:25:00 GMT"
     },
     {
       "titulo": "Con el nuevo trofeo para Boca, así está la tabla histórica de títulos del fútbol argentino - Olé",
@@ -152,40 +170,16 @@
       "fecha": "Sat, 07 Nov 2026 16:23:25 GMT"
     },
     {
+      "titulo": "River espera su rival en octavos de final del Clausura 2026: los cuatro posibles equipos que puede enfrenta... - La Página Millonaria",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdElhYS1DZnBERGtudW1aVnVoMWJsWHlfOUYxX0U0Y1hiRktKVGFSVzBzaWZsV2NneC10YmlGejJZVnptcVEzbUZVUWxLbGFERUF6UnhlNGE5c0JwX0lmdFBORG95dTVENmh5ak9UOGlFSWhlRTlIdmpLbC1seUpRWGZmSkdHNE1FeThfa0J5V0JQVmJOV29zMUp1eTZaa014ZTVSWHRQaEJrTkYzOUhwNGJXV0FEb0lsaXp4OHc4TzhpdkI3YzB6VnRiZDA0RmZPV2JpZk1aaWVqaEN6ZElRellqTF9ydU80YlI5N0lsdE5Remp1LVg5UHNPOVppS3J2eU1z0gGIAkFVX3lxTE84bkF4V3R4MElFZGZBYzRBdl9Bakd0SUlLbFMtN2RyRmRGaV9zNXhGdktCSERtNTYySTl5U2xySERJU0dad3VMS3NNcmxNU0I1Mi1SdXJmZThvMHdVQ0VHdGRlakpGUjMzQVg1RHVodVA3QmtiNE9ncWpPcDRJcVBPQXczcnVyR1p0SXpVZGtQYnhoTnlVZTNnVTAxd1J1WkR0c3p4SnJXcGtLaXlBSExITG5VQkt4Ql9JQVV5WVZ6VWwtc0F4LVE1Q0xRaXNDT3plZGlRSm1XaERBbGVSVkszX1o4MUhSTlJWUUU3aWpWZE16TjVZVnd2aTBUS3NhUUpkdTFRNFQ1Rw?oc=5",
+      "categoria": "River",
+      "fecha": "Sat, 07 Nov 2026 13:14:59 GMT"
+    },
+    {
       "titulo": "El campeón del mundo que quiere repatriar River para 2027 - TyC Sports",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnk0LUdyVTVBZE9vdlJQX0JEbEJHWS12RC12ZW5kNDJzQ0hzUXQ1Y3hVWnRzSkdXQzRZcC1iSzRKZ0hkaDBCRV96ZlFtRHkwN3JVNmtoN1BwdVZmWnhOVF9nNG5zVHgzVFNxdmo0c1ROWnY3SWZFRDlyOE5tbTdDZjF5cDUxNlotRVdDcG51NmlacFhmNThNdmR1Y0xvR1RyNjB5dnExOWhPc2hxX3lmZ1JjVURPd1JLR1BxcVZNNjFyN3JU?oc=5",
       "categoria": "River",
       "fecha": "Sat, 07 Nov 2026 19:38:05 GMT"
-    },
-    {
-      "titulo": "Exequiel Palacios aseguró que le gustaría volver a River en el futuro: “Quiero devolverle cosas a la gente” - TN",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMnM0VnptcmVHUUFVdU1YWENHeTBOOHlYc1ozNTVuNExtX2w0UW1tNEw0bG9NSHRoOXNKZ3hNUmtnYXFfdFNnZDJ2TjNrb2ctY1hhaUFlRVlsWkp4N0tMLWc0VUk1VXhwTnIxTWlsWVF6bjM2YXhSSTY2b3Znb2NHLTA2ZDJTTkhKdXBsZ0Z6Ulg3Z2VUbjV1bVFKYUNFOFRRWkhZSTJKUW9NYjh5V3J4alNOZTkxb0Q3R19xTkQ1R01vLWw3dXlBN292Ri15Z1oxNC1mZ3dpQzBybWJ5MEI4ZG5aM3nSAfgBQVVfeXFMTzN1UkVaZk5iYVJBekpXdFVGaUpNdWpRQ0VGLXdwaTVlRFhPNFFHZVRIMkFtUjdoemNfVmN1WUpjU01MLWRxcFNyaXdLR1otbUVuQTlRNGp5RHE5QzM2Q21LZG9zVUQyZUNuU0NmdTFPZk9TeWdRTVc1N2NWNy1oY1hrdE1MbUttdkNDRDZMOV9EUWJxUXZ6QmZrWXhQN1FrVUs2U21sUlB2R1Y1cmFQMFhZUmo5T3JpRkt4X00wRmxZQ0Jvb1ZxQUhmWUQ1STA0dVJEVU1QUVgtbC1EWTJKT0pSX1JXTnR0NzBTaWtTdDVLZnJNUkRSaFM?oc=5",
-      "categoria": "River",
-      "fecha": "Sat, 07 Nov 2026 14:20:13 GMT"
-    },
-    {
-      "titulo": "Ver en vivo Boca vs. Defensa y Justicia por Fútbol Libre, Pelota Libre o Xuper TV es un riesgo: dónde hacerlo de manera legal - El Destape",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTHM1QzQxOTNvWllzSTJGSGlOdTRXcWhBbG83T3ZmbkFqbXExSkJNa1MtSkRPb044SlZUaTcwdjNmUmdBd2dObnRHXy0tWHFPSGZmQXViYXlrWU54M2FqalJrSHp6UzhwX3lTaE9BZGFhSkIzbUFZV2JCYWZBdGI2UWx2SnhONDJiUFJCeWkwY1JmTFIwQ3kxTU5OSnBTTk9CQ2NybjJSTWNDbVFMRmg0Ull2QU84QnRMbjNLOWlCTS1DUmdwa2VkY0JSd0hwMFhNbUpmblI2blRTd2g0V2IwMnkyellfa3Fl0gH8AUFVX3lxTFB4S2NlU0NWdS1pQ1RSbG1kTGhCSWd1cUV2cDJmT29wdzdSOGp6X3JGTjhaUnNydWpET1hOY2thVnE4TkRqUjcwdzFFTG5Ra2Q4Ym9NWDQtLXlfMTRUMlBKZ2F5ZXE2Vi1zYXo1MkxUdDlMSnZSaW93UU1PZXN4RWVOejZWaHhCZlZkb3o1M1d6Mlc0U2N6eWZRSzd4TXdZd3dIUld0Zm9IbzBkaHNLb0lPcklxTnFJSFIzejdTVE5GdTJ2V2YyTUJvNm5PREFsTnN1SWlyeFlNSTQ0OFltNEVQQ0tIbHdycGwtaFAyZEtfYzFqWHJRXzlBQmhZeQ?oc=5",
-      "categoria": "River",
-      "fecha": "Sat, 07 Nov 2026 20:16:52 GMT"
-    },
-    {
-      "titulo": "Santiago Espíndola, el rojense que cumplió el sueño de debutar como titular en la Primera de River - Diario Democracia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWxwUUdpai0wOGpZMDBEc3E1Z3BPTllpR0dSV3M3OVJBd04zRms5ZTBFTUxWYVVieV9YTEVraFYySFEwbEJyWTVqbGNPODRpek53c2RCbk9PYzhlWWg3Nk9wcUVRdXZuby1FNDBWdUZEd0EyazlvNGpKS2ZWVWx3UkU3a2E5S0h4d1Q5djZ1dEExMUNBY3FUd1dqeUwtWEFkdjdFWm9BN1lzX2h3RV9HY3Rn?oc=5",
-      "categoria": "River",
-      "fecha": "Thu, 05 Nov 2026 20:52:04 GMT"
-    },
-    {
-      "titulo": "Una por una: todas las polémicas de Aldosivi vs. River Plate - Bolavip Argentina",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVGJKNlhlME0xTE9pN2p6My1WSWJjdUFMM0FKUlhpQnRNZEZvUXRRQ1FkbE5zTVR3Y0JkMGNCMFJRbmRQcFdpbzFJOHJoMU5ic0QzUkE3c0lpYV84Q0dQdUxjNFhmdWJhUS1SSUliM1NTMGJjNFVpTjZvbEVIY3JUYTh4amc1MkNZM1RGdmFnTGFIMmlZUHRIRUlLRDdYZ9IBowFBVV95cUxOWjZWemo3VFpDRHBqbk5WamtLQWVnQndjVVdLeTcyaHJvSnVyMkYtbWdQVUpEVzRBWXIxMTlIc1h4VFdvbDZhYkpSS3duSENBYU9ZQzMyRjg5eG5fVklUbm05MnZrUjZsNFAxRHdRNTdtXzFmYmtwa2JJLWhQRW5SemhMS1ZqRjdGWHE5LVJDblU2OTZaM2c3ZGpqMVR6SVNkamNJ?oc=5",
-      "categoria": "River",
-      "fecha": "Thu, 05 Nov 2026 19:41:05 GMT"
-    },
-    {
-      "titulo": "\"Decidimos ser los mejores\": el video de Boca para celebrar el título - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzRlOHk0SmdPaXdVSloyMG1RMHpXU3VVMm85ZkRVTU43NHQweGNmX2g2MmJmejc5YVlIUkMtWkc3U0tvWEpYNXE0b2JmcjJ1LVVZY19QWWdhMzVpNmpQNTFRWlI1cDRNTFpIaEd1Y1NBY0U2SVFCemVIakhCQUMxS2pFSmxPdW1pWkphQkswcGt0bmt4WHo1eG5rcG5sMEdzSlJQanlScXhlVW9vSU50RlhqZ0pCQVQ5R1lOOUljRS15VDBS?oc=5",
-      "categoria": "Boca",
-      "fecha": "Sun, 08 Nov 2026 03:56:15 GMT"
     },
     {
       "titulo": "Boca se consagró campeón y alcanzó su estrella 75: así quedó la tabla de títulos del fútbol argentino - Infobae",
@@ -194,16 +188,22 @@
       "fecha": "Sat, 07 Nov 2026 23:30:00 GMT"
     },
     {
-      "titulo": "Los 7 jugadores que se fueron de Boca, pero igual son campeones de la tabla anual 2026 - Planeta Boca Juniors",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1pEZ1RXQXQzUzZsSUxablFDU2pFODlxTEx6RW5SRGQ0MkYxUmxOcmpzYVJZdDlSMjljSWh6VmU4cjlSZEZCNUdaZlJSMldNeElldGRqWVUxZURiQWFMZXE0eVhhdXEyc3RHMGxLNG8tVUFzQ3FpY3J1SUd2b1BRMURVcmppZDV2VTRJT2poc2d6WmlndVlpZi1RVEZDMGVuQXJfUXY3SGFWOENkeXdaZko3T3lDQUMyamdHcGFYajdweGItVUljX1h3?oc=5",
+      "titulo": "Boca campeón de la Tabla Anual: quiénes se metieron a las Copas y a quiénes les conviene que vuelva a dar la vuelta - TN",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaXUxNEdyWDR1ckdjVU5hWGpmQ2hJWEdlTWZfdHN0Q1M3ZUdtSjdzRmtjUzhHejJZd1NXbDhYbkNWTW44TVRQRnE4UjBxUklnLW44RlFJVldhaUxnX2lLTkpxd0xpWkhaQnAtQlAyN1FCdjNKVUVfd2NaQUJGQUdxRHhTWTBnLVYwc1ZPX09UX3dqNkIyRGdqWEtiOElkdXlzSDlFWlJObVFQc3ZmQlljRTVnVnp4R1o2RXVUOFFDQ2lvWFVlVkRvZEFKcDBzZnlyT3hkXzhmLWkzQdIB7gFBVV95cUxOdFdJWHpvUm02TnVCYUtrc2lxMk9kM3hHeUVqSDlKU2prUHpFN05XUHhRblhWRVl3NjhIWWg0SlIwY3k1T2NmbEpRbENlM1c2SjRnOFk5dThWQ0thMVlLZG5oZk4zTlNNaGJGUFI1Sk5td1FPQjEtenRWOFZoXzRSbjhxOWJ2SzA2Uk05dThMbWZmYVBFRHp6VnZaM0xkWHh4UmF2blFtb1FiYi1HTUJjQXZQOXMycDRCX0xDUXhUUmEzRFRUU3U5LU1ReW5EYXVtbTgxTWsxQjNiYlFJM1B4ZEhENEV6WlJ2cW9kdlVn?oc=5",
       "categoria": "Boca",
-      "fecha": "Sat, 07 Nov 2026 23:03:30 GMT"
+      "fecha": "Sun, 08 Nov 2026 13:14:30 GMT"
     },
     {
-      "titulo": "¡BOCA CAMPEÓN! La tabla anual y los cruces del Clausura tras el título xeneize - Bolavip Argentina",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTE9rbGRZaFdGcy1kUUk5TTJtVGtkckM3cHBqLWZTdFFiUlQ0eTlhYlZUU1V1UDdUb1BveFJjM2ZZY2tKY3g0SHFCQ2ctRXVETzAwYjFiRGxsVWU4ODA0YjVmNUJaeHpEcE9XcnNET0R1ZUpxOElXU2VMVEljMVV2anRDM192OUx5eWdXNVJBNzJJUXJRQWl5NDR1WC1jbTk5TkF4clRXS2xFTFBNYk10Njd4UFZXamxaMzlBVmc0Y0lMcnNteFVYN0hycnJUOUHSAdQBQVVfeXFMUFJDNGFEYUpBeTJVbmFvMU9jU0xyb0RubkN4NmdiN0FoZGNJeHpPTlhzNWpmSXlCVzhTYzFwdExKZk1oa2VBR0Q3bzgzYlY5SFpVYks2aFJsS2dZVjhtOURHNHBmc1ZKSUFkM0tralFPbTZXNUpxMF9wMm40RXhSU0p2bk9sX19CNUJJX0ZzOUhlQl9aRnpyOW9MWmtXSkI0eERLdEwzclQ0czBWallHOVFHR05zLXFGajdVRUZYRGxaOXhEb0VrbTR3S1ZpY1NfOWw3UEk?oc=5",
+      "titulo": "Leandro Paredes, el estandarte del Boca campeón que empieza a cumplir su sueño - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZklZNUlGRmh2bWs3WkUwN0JkaWhUU3JZeGJxbGM5S25uV0RUUEdITzVacmpDUEJJUkJqX1pRNExQYlA1R1VSc2dDai1UVmdJdHRYcXRoZGExalpaMEdqSDZCUkhXUGZPdnd4SDFuV0I5VzdPQ1JRQkpOUjlyZHptM2RDRUVxRlFIeTA0MDVBQ0EyZVJkeTFMODRRdndmU1BMbDNFXzh5Zkg3Zl9WakFrcUpyUDJuX2RNSlJNOF9R?oc=5",
       "categoria": "Boca",
-      "fecha": "Sat, 07 Nov 2026 16:56:59 GMT"
+      "fecha": "Sun, 08 Nov 2026 11:18:47 GMT"
+    },
+    {
+      "titulo": "¡Boca, campeón! Así quedó la tabla histórica de títulos del fútbol argentino - Planeta Boca Juniors",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXFNZ2NZOHo3bjRuUVE3dnVwWkd0YmRZSjlJMUJPZGoxMjRfS2pyVjVleHloRjN4Wm9SQUNrZ0xiYzc0NHdtdUF6X1NpcHpFeUVYVDBhS3NZNGhJc0pXb243c2t1UlhqM204NExqTWMtVWxZamJmTEN1QW5ZTUJqUHIxZlNrTTJpcHBFQzBKdnJHY2htaE9mVXFkdjQ4bEJrZFlIbEplb251QmVTcWpzMklQYS0yNU9KY2c?oc=5",
+      "categoria": "Boca",
+      "fecha": "Sun, 08 Nov 2026 12:48:42 GMT"
     },
     {
       "titulo": "Fútbol libre de riesgo, EN VIVO: dónde ver Boca vs. Defensa y Justicia, por TV y ONLINE - El Gráfico",
@@ -212,10 +212,22 @@
       "fecha": "Fri, 06 Nov 2026 08:00:00 GMT"
     },
     {
-      "titulo": "Leandro Paredes celebra su título con Boca: \"Soñé toda mi vida con esto\" - Cadena 3 Argentina",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQnVmTUg1emd4ZEladmhPLTB4a2dtc1RXOVRWXzZjRlRjU21ycXRpMnhNdW5SamNwZ3dfRkJOeTVDMmIxeFk5VXBTY0I2N3hCRWppZ01pQ3cyS1lWSzExd202WVV0elRjbVhqUnhNX2l5YWtOUHJPRnNpY1RQNG04Q2s4M0NVSXk0OTBIampWQ0Q1MW5odjFPRUVhMkZYLWw0cXQya2RJR0ZaczZfUm9rZ3VaMU14dw?oc=5",
+      "titulo": "Boca campeón de Liga 2026: así festejaron Pampita y su hijo Beltrán Vicuña en La Bombonera - Exitoina",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFp2cEdLb19WQnRDS3E2amQyX2lnazc1cGFzcnM2aHlIX0lzMlpoLW5mY2JrY2w0dnF6aW9DVjFlVGFHdHBjY29Dc3djaHJXZUY1YWhNX3ZyVm1EYXp6d3NZalIzQ0dwYzgzTzg4RUVNRUV4bk01YzRBUG1VRHhtbFlfakIwYndMV1Q5dWswY0JqZWhncUxCVjNpU3R5c081SkhpOE9SYUlZOTEydWxpemg1SnRtQ2lvbjVuZU1JX2hpNHhIaGk3bElkb9IB0AFBVV95cUxQYk9udTlQNkstbnBjVXVDZTlEdEdsXy1LOWdtN1l1S3lCdTJrVVJfdHdIeE5mTzFHdnBFSWo2VEtQajJ0dlpRYlZuWU43UEw4Nm53UzFadGhhTmtTNFQ5MmJLcGVmVWlMUVREYXhFSjhNdnlsOFA1QldnNzBjUl82Tko3MmVsY1VYcTVXR1BMTGEtWXpQUUlwZ1lhUWJaRkdsNmRJZkVKeVhJdHZmN2F3UjJfZ0tCVDZZVVgzQ0Z1ajJRTVdKdjRxeGRXazY0bmlx?oc=5",
       "categoria": "Boca",
-      "fecha": "Sun, 08 Nov 2026 00:04:25 GMT"
+      "fecha": "Sun, 08 Nov 2026 01:59:38 GMT"
+    },
+    {
+      "titulo": "VIDEO: resumen de Boca vs. Defensa y Justicia por el Torneo Clausura - ESPN Argentina",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWUloWVNpcndkYUpOVEpnOHZneVhTX1BvV05lSktIYmpPVlJXWUY0QkZZbUk0X1hxUnVuSjl2QzFJdkxCMnNGR2N5OXZzNlY5cWdCSy1WbGQ4RDlYX0FpTy1zbU0zSU5iRnJ6RTNuTXRPb2RadnBOYncxVEZHRmp2aDVMY3N2LThmTm0tNmxRQi1vbkpPZ0I3YXlRclRiWDJFdDBpcnVleGtOYTZuaV9RR00wREo1UUE?oc=5",
+      "categoria": "Boca",
+      "fecha": "Sat, 07 Nov 2026 22:22:00 GMT"
+    },
+    {
+      "titulo": "¡Gritalo Franco! Colapinto celebró el título de Boca junto a Bizarrap en el paddock de Interlagos - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZjRMMkdpWEgwaXdrekZpdUhjV2R2b3JmWVlod3AxX3pLMDlYWjVpb1FLUUtmR0tMMHhPdVJvQXNRZVRhdU1EVDZibDlleVlPaE11X3JocTF1NE40QTVLeEdwMV9CWEVsZy1FM1pqSWtuQVVVUVo3UE44b3A3VjNxdFNUcEg0eDRYZnVGQXExZjBLZnpubHBDYTVEZFQ1cXBTYzgtdFJVVEJGQk9OVVNZNDZpQzIzN1R0dnNaYU90anhudFBEZVV2N1ZBMEZUdC1Zc21vai1aaXDSAd4BQVVfeXFMTW1MZmh6blJkYzFHaURnalB0d0l6Y2ZCTXJyaDhNUGNzNEh6N0F0Wmo3NjRGMTVubFRROGdUd2NlWHRzRk1OYnNTYklKRXRsMTBDLUVKcjFVYWFfVEVIS1diWHdmT2FfSU5Cd01kWGd6YUgtVHBtMWUzRDg4NVlINWNwbVh4WkpKV0JPbmJvQUktaDlGLUtNdW5KdEZRbkh0b2xhYkIwbE9VRU9UVWFmS2V2U0prLVF1SWo0SHI5R3VBVXQwek93RTJ2OG1nM0Y0YWFfRmN1aFRQT2lEYzZn?oc=5",
+      "categoria": "Boca",
+      "fecha": "Sun, 08 Nov 2026 00:11:57 GMT"
     },
     {
       "titulo": "Qué copa puede ganar Boca si sale campeón de la tabla anual en el fútbol argentino - El Destape",
@@ -224,22 +236,10 @@
       "fecha": "Sat, 07 Nov 2026 18:32:19 GMT"
     },
     {
-      "titulo": "Boca, Argentinos Juniors y Rosario Central definen al Campeón de Liga - Perfil",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTDlDT19IQkpuOS0wR2dfX3hzVERZVV9aRjExS0hTMlBoeV82anpQVVpjdWRiT3hBQ3dfOW82emtKTFRVcGxQdmU5VEduanBmOGdwLWQxUVZqVVROaDlPUU1UTi0yaC02ZlhpOEJPaXhvc2xJVm1lREVqSzF3VFZHbDdBR0w5NHZXbkxCY0lHTkpydkpVdnA3cGg3aXNUMk1DOE12MFBwTm5zUE9GdE4yUVoxY9IBuAFBVV95cUxNU3FkYVdtY3BmR0JpQTF5NzJSS01uZThRYzl1elB5MHdUZkpPVUZFVnhZNkN6YlJkX1ZQM3dwN3JmNXVta0N5dGxjbXNaVW13aEVPV281M1RTOWN5TEFyWG1KeFM0WjI3WmlVOVV0clVTNkdtNXZjaDIxTVBENkwyVi1qaU11VVkzLTdZU1BLWXphcllzbGdxVlY0bFRtS2JnY25Pb1pLci10UGlMYzI2eDZVb2Yxckha?oc=5",
+      "titulo": "¡BOCA CAMPEÓN! La tabla anual y los cruces del Clausura tras el título xeneize - Bolavip Argentina",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTE9rbGRZaFdGcy1kUUk5TTJtVGtkckM3cHBqLWZTdFFiUlQ0eTlhYlZUU1V1UDdUb1BveFJjM2ZZY2tKY3g0SHFCQ2ctRXVETzAwYjFiRGxsVWU4ODA0YjVmNUJaeHpEcE9XcnNET0R1ZUpxOElXU2VMVEljMVV2anRDM192OUx5eWdXNVJBNzJJUXJRQWl5NDR1WC1jbTk5TkF4clRXS2xFTFBNYk10Njd4UFZXamxaMzlBVmc0Y0lMcnNteFVYN0hycnJUOUHSAdQBQVVfeXFMUFJDNGFEYUpBeTJVbmFvMU9jU0xyb0RubkN4NmdiN0FoZGNJeHpPTlhzNWpmSXlCVzhTYzFwdExKZk1oa2VBR0Q3bzgzYlY5SFpVYks2aFJsS2dZVjhtOURHNHBmc1ZKSUFkM0tralFPbTZXNUpxMF9wMm40RXhSU0p2bk9sX19CNUJJX0ZzOUhlQl9aRnpyOW9MWmtXSkI0eERLdEwzclQ0czBWallHOVFHR05zLXFGajdVRUZYRGxaOXhEb0VrbTR3S1ZpY1NfOWw3UEk?oc=5",
       "categoria": "Boca",
-      "fecha": "Sat, 07 Nov 2026 08:30:00 GMT"
-    },
-    {
-      "titulo": "Tras la consagración de Boca, así quedó la tabla histórica de campeones del fútbol argentino - Los Andes",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbDBnU1lFc3NyakVOWEgtT2pYVmk1ZDdvOEpZaHlTTzlGbE5vQVNOZExadGpXVVh4QTh2RmUyZjNNM1ZobVpLU00xbGQ2QTU4Szc0RXdjcjZhVjV3MHZ4NXNLM0QxTjhTX1BtQVp5U1N2RHZoWFlJWW9wbEE0S2pzcGhrNEFjdnlTeFpib2ZnU0xfZmJGZnFnODBXXzgxNm10SVQ3ZF9ielFTQkdoa2k2aUZMekdRcGlGa2NaeXJxaFFseWtQUTdVVHFKMA?oc=5",
-      "categoria": "Boca",
-      "fecha": "Sat, 07 Nov 2026 22:55:00 GMT"
-    },
-    {
-      "titulo": "Boca campeón de la tabla anual de la Liga Profesional de Fútbol 2026: cómo quedó el historial de títulos en el fútbol argentino - Clarin.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOWtxSzJDWVVKRS1CbFpsdlM0Q1BPeUVlNS1fanczZzdITkVUMDFMN2ttZmx5UzkyNE1LbENTaHhKUWFTeEpEd0p3RTdwUFJwWjcxbUwwdWVxaGRuYXRlVzZDSFluVEJmR0lWam91Qlk4ZlpHQVo1cXhycjZ2SE5NQUI4dV9wbDVUNWNyaVhBQ3lCYTFvUGVwNGJPaWw3OEtUbG1KMDh1OEdYSVdqUmhyTXdDUmlEdy10Q25kVHpEaEdXOE1YcXhVTXlMQ3Z2ekNiOGdSVDhsWXRweWZM?oc=5",
-      "categoria": "Boca",
-      "fecha": "Sat, 07 Nov 2026 22:44:17 GMT"
+      "fecha": "Sat, 07 Nov 2026 16:56:59 GMT"
     },
     {
       "titulo": "Dura noticia para Paredes por su sanción en la Selección Argentina y buena para Molina - TyC Sports",
@@ -248,10 +248,16 @@
       "fecha": "Fri, 06 Nov 2026 22:41:26 GMT"
     },
     {
-      "titulo": "FIFA rechazó el pedido de Argentina por Leandro Paredes y deberá cumplir sus fechas de suspensión - El Futbolero Argentina",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVWlQYXJ6MWJXdzdReGV1TEpjSmtGX2x0SURIR1BpbmMxa3RPYlltall2SlNBUk80RGN5SkRBZFl3SzlHZ1JZMlVpRGJWakhiQmw1b0xUWnUyUXp1Q3VQOUlvWFNJVzFmWEZzQVZySXpyZnhDWjBEcG1WQk5FTDdoYVFKVEJQWEVoTnpfODdjRi1EaV9hdEhxNWZlUUFTNEU5QkVHSEluZmFUYmtlcjFxenhGVGZzUVFHMklGME9palVreXZzeEFIX29iZ0gwenpVcHZLb3pZTEU4T1hFQXN1aS1BY2FXOVJFNTlYNg?oc=5",
+      "titulo": "AFA apelará ante el TAS tras el fallo que mantuvo la sanción a Leandro Paredes - El Intransigente",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEdBdkJrSU1QMjk2d3NNU0g0aWxrTFd6Y0hlcVV2WXFrU1VjSF9GWDhlbHZLRTludzBIQ1czMllpdUpJYjViZDg0OGtmbmd2NnBtSDhiYlM4TG94YzFuQkEtVWxMYkFQbEF6cW1qXzl4WFJZdDNoWWpRLVVEMnBTWkNKU3hBYmxpR2dtTFl0MTdzcXRvcjNKMVU2RmtycWVVM0xVVjJfUUZLMEl1T2c?oc=5",
       "categoria": "Selección Argentina",
-      "fecha": "Fri, 06 Nov 2026 19:15:00 GMT"
+      "fecha": "Sat, 07 Nov 2026 15:10:46 GMT"
+    },
+    {
+      "titulo": "La FIFA falló sobre las suspensiones a Paredes y Nahuel Molina por los incidentes tras la final del Mundial... - Bolavip Argentina",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWmxfd09kaHhDVVNyMWpHVk92azVkdGEwUU5lWVFZeW1XcXZ5cXZmbHk1OHRBZ0R6NEFpRmxMTkk5YnZqek0tR0wzVUdjNUIyVEhVQy1ZTlRpT2RvcDNKVjJhaHlfdE5ERS1ZV2lYSG5xcGRuNUdsQkFmWlRNbHpMME1wOGpaaHdRVjRMR1dfVkdIbHBLZlo0UUZaajc5WXpSX25ERXA5QVhQeGhvaWk2MHo3M3JyazlndHJhazQ2dHQzOVpZNzZyeEhzelh6X081ejlHcDNWRGxMM1ktbC10dm1nZ1Jmc2hJY3F0NG5xR2hvVnVkN0VVctIB_gFBVV95cUxQU0tCY3BLNGZfbzRfdjJhRExzT0V3M0dJaHJjeGN4b2FjVjh1cUQ2MWRMczZWbURjeGdqUGdiSlRZX0VaZ1lOUE45N3ZHVTFmZ1NBVlkwMnBYRnZiMXk2YmxneGdWSWVmdWFSZzFTa1E3UU9MazVQdEthRzRQMXZveHhvcWZFejJWb0VoRV9ja1cxOUF2d1NYRlRMQWh6Z0pMSVltdnd4WVNCcXR3ZVdJa3lSbFJiVGQ4R2dmdDZBdDFUYUJTTkdqbi1nU1MyTEhkOHFMRDhlUnpST1BvV2ptckRrc2Nrbkg5ZEE3VDRnVEZhNWhVV0ZlODQyMS1JZw?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Fri, 06 Nov 2026 22:59:51 GMT"
     },
     {
       "titulo": "Todos los títulos de Leandro Paredes: lo que ganó con Boca, la Selección Argentina y en Europa - ESPN Argentina",
@@ -260,22 +266,10 @@
       "fecha": "Sat, 07 Nov 2026 23:58:00 GMT"
     },
     {
-      "titulo": "Lionel Messi vs. Cristiano Ronaldo, dos leyendas de Selección: sus números tras más de dos décadas con Argentina y Portugal - TN",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRWF3bFhaNVNRWHhuRjRqV2Z2OEdhdzZXOFpTaE5iVmNwWFFDT0g5VEUxbnJ6a0hrMVlYREE0LWd5dkZUZ2lsa1Jqelh1UzZQNVdfZ211aW5ENW14d0FrUzZ2LXpDRUdvZk9IelF2M2k3QjZMTV9QUEd5UkZEdUtva29NREVoUzZVc3Y5cnVTbjU2VDdaY283bmVtQlpDRWl6YXFYYlE3VENHQldfUTdJNEg0YjFIelQycjBhSV9aOUlBLWtUR1Z0OTNTZzlvM1FDVUQ4YWVReDlJTzhIN1dwaklxYnNFRHY2MlVEQnFlMNIBgwJBVV95cUxOZkFYUV9MRTNkOHhIM055ZDY3cHduUkc5UmhBRTdNSmZBbGlOTFYtUDl6TWFra0p1amUwYmQwXzJtRjA5b3AtNjNjOTVZQ3B0Uk84UkJxMkppRkZGWWo3MDI1bUdzYVV1Y0ViNTc2Q19abVVIRk9ncW9DM2twREhhTFZyNzdja01CNThpclZfWTVodllxSHU5RGZKeWZuOVBTcjF3d2lFampSYXZvUDZXSkMzcXVKdWpBQS0xXzMxZWpjNUVCczVCeFVEYWdvdHp2VzlqWUpDN2s5YXR5NVp0X1REcmRBb1dKVEc2a3lpNmVWNkF6UDdxTldpaE96Qnp6RktN?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Thu, 05 Nov 2026 11:50:22 GMT"
-    },
-    {
       "titulo": "Con mayoría del fútbol local: salió la lista de Costa Rica para enfrentar a Argentina :: Olé - ole.com.ar - Olé",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMTN5Q0dlRWdCVzR0WTZkQmhGMGc3blJkMHlVdUlybjF2VFB0c2pvNGtQNmJja1EwemM1OWVyUndtZzdPLWhOblpfOWlvNGlQZEJ5NTVqWlRSZXZOZ3VyU1BmVkNfeDFNSUhFUVBfRFB0MEpiSU5JQXVJcDlJdUtrV2Qtcy1jaVBTc0JUa2lHMHpqdlRUT0RFREF4LUpDdkg2UkFYQTRaaFI1M0hlQ1BpeUdxdG04eTI2dnVLQ1RRQmdrbkFaeFFESlh0Zmg4cVNBY1hUX1R6SlFZMmtwQjA4T0lMMUo?oc=5",
       "categoria": "Selección Argentina",
       "fecha": "Fri, 06 Nov 2026 19:44:46 GMT"
-    },
-    {
-      "titulo": "Messi defendió a De Paul por las críticas que recibió en la Selección Argentina - Bolavip Argentina",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTG45cnVwV0t0VG1RNXNvNzVPN242bmpOaThrc2FuSGdqWHRJNUVreUg0OUhWNDFQeGRqc2l2aDZ6WkRjcFhvcFNnLXlnMTVrQnp3X2NvM2ZfMWhFek4yNmVOLWR0MjFQd1Fhc3JLR3d6TGVlT09TeFAzS2hwdGFvRFpMZV8ydnFNVmp2N2lmcGpaTVpHaWZWTUZBamFVeTd6eXl4NjJKTTRQY1RFaF9INFNn0gG3AUFVX3lxTE5SOXpQVk9Cb0F2Tk9JWFJCdzczNGk5RXhsMjRYeHBsUkJRQUtMMzhzc1hlSEs3TC1BemFHUktQajlvTF9iZjZSNXRxX3pobXNINHNoV1VqaFZmYk5fUjdYcEpERTVOb3ZTNkZxS3M5TGpXUVZIOWRreFNyLUtVQkZuWVhUNVd4Sm5Vbzl1RDZZUW5ndHBGSVgzYzlpNXBtVVREd3BXdjVjQ0c3d3NmNHdvdlAzMUs2MA?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Fri, 06 Nov 2026 13:45:55 GMT"
     },
     {
       "titulo": "Fue rival de la Selección argentina en un Mundial, ganó una Champions League y se retiró a los 31 años para estudiar en Harvard - TN",
@@ -290,16 +284,22 @@
       "fecha": "Fri, 06 Nov 2026 23:45:19 GMT"
     },
     {
+      "titulo": "Lionel Messi apunta a un emotivo regreso a Argentina tras su retirada de la selección, mientras el Inter Miami prepara un partido de gran expectación - Goal.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQeDBOZ2I3YmtCWXlUcU51M1NKSkk3ZXBOWDlTU19LaFdnaUxnSzdTYVFSUUllRWVtc2I5alNkeUhWQ0xiTVBTTUN4NlRpSmlEVTlZN3UzYjlpMFMxaUZtcUMyRjhQc2cxTkJjT25zaU1RX2dnQjlnVWlYUFJmdVR3cHJiTkZ3UHRvNlk3STdwWEtIY0RDZXJvQkt0RzJfSm02QkhvT2NGQlpUQWpvd3lrSzFudk9GWkl2NGN1Vy0xOGtaeHV2XzJlc3ByU0xUSTNqWjUwWl9mMlp0OVUzSnlTZkJnM09SaEo1RHpGNFJiMVc0amQ1VkVPOUpWZElJN191aDdndkVCYnBRRHRXZ2N1bkpkV2VISnJoanhKWlBUaTR1X3pmM0dpTA?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Sun, 08 Nov 2026 11:20:26 GMT"
+    },
+    {
+      "titulo": "Messi defendió a De Paul por las críticas que recibió en la Selección Argentina - Bolavip Argentina",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTG45cnVwV0t0VG1RNXNvNzVPN242bmpOaThrc2FuSGdqWHRJNUVreUg0OUhWNDFQeGRqc2l2aDZ6WkRjcFhvcFNnLXlnMTVrQnp3X2NvM2ZfMWhFek4yNmVOLWR0MjFQd1Fhc3JLR3d6TGVlT09TeFAzS2hwdGFvRFpMZV8ydnFNVmp2N2lmcGpaTVpHaWZWTUZBamFVeTd6eXl4NjJKTTRQY1RFaF9INFNn0gG3AUFVX3lxTE5SOXpQVk9Cb0F2Tk9JWFJCdzczNGk5RXhsMjRYeHBsUkJRQUtMMzhzc1hlSEs3TC1BemFHUktQajlvTF9iZjZSNXRxX3pobXNINHNoV1VqaFZmYk5fUjdYcEpERTVOb3ZTNkZxS3M5TGpXUVZIOWRreFNyLUtVQkZuWVhUNVd4Sm5Vbzl1RDZZUW5ndHBGSVgzYzlpNXBtVVREd3BXdjVjQ0c3d3NmNHdvdlAzMUs2MA?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Fri, 06 Nov 2026 13:45:55 GMT"
+    },
+    {
       "titulo": "Se venden las entradas para Argentina-Costa Rica en el Kempes: precios y cómo comprarlas - eldoce",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTVFEYkZ6SEljQnhfVER2cjN0QWNacVZsbnpYdlFQVnBlUUNPUDBrV01XMkNYMkpWdlhKOG8tMWVwUWVGT1pxM1Nzajk1NUpkV1dRamNUY0xEWnNBTzhtR29CaDl3cUJFa0JoYmN0X0haRHV5X0NoVmNLMGpRVldMWDAzb3NUT3lteVpnVm1MM0E1SlRTZDIxSmNmZzllUlQ2aWJzd2QyLXU2SXdfb3hVX0VyQW9EakpPVklSZENhUdIB0wFBVV95cUxNNkppWmRXMDZsUERSWkpsSDFIWUpGTTdWaTZJSWtHNDNlZjJBckFpYlZkeklMU3BQVGJDaWljakJjTmtmdW9iTy02dGtwWEJWM2ZlOEYycnhOanAzb1dfX1ltbk9NMXZPUVlIa0o5MUh1cGZzMFRWTTBpbUNxVUxWcVBmcV9lOC1GbkZCMFI4Xzc2bDZLUTlvRDROcUxHWEhaZnJRV2MzNzNkRkF0SmJDZURJNXBxWlo2VVJYMmt4ckF0Y3ZNMzVDRl91WTdpaEhWd0J3?oc=5",
       "categoria": "Selección Argentina",
       "fecha": "Fri, 06 Nov 2026 14:51:52 GMT"
-    },
-    {
-      "titulo": "AFA le retiró la acreditación de la Selección Argentina a TN por \"conductas inadmisibles\": Jonatan Viale, el principal apuntado - Doble Amarilla",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNTjd4YTBBc0JXdE1BemJGTElsX0tGaWZXemh3Wmw0eFhodXhFUy00UmloVFdPM29Zb09LU1pNcUE0QmZlX29zYlp5ZXItMlE3UnctMTBvWW1ISDF2bkFYMzVGVHdpYWMyX3pGOVFiN01Zbjl3UTdfcjdPanZKSVVxNThVNjZnMHFVd3AxTHgtVjZXWnB4dzktNXVkZDVJMUM2MUxBcHh6OGpiOXFoN2pFUGpaSHNRVTl4NUoxUUdWVWpIYndmNmtacXpGdS0ybjRBLXBLRGotbi1iZjRxLVA4RUhHRzQ1bkl2bTI0R2ZUaVRUY2pOQURqd2gtODZ3WEYwVV9GUnlkQVI2SnVjdi1Pb1NBR1lTMU5KYXcwU3BiZzRWZ21J0gGzAkFVX3lxTE5xM0FWemZ5OHB3RDJPZEYyQlRQTEQtaDBJV3pBVW93WGFCVERicmFTSG5ERjlDMW9PR09KUTB4UF9XNnAwZ2xBQmZQeUdYWnJZRG9BcEhSeDNXd0pIZWgyRnlHV21aZVdwVmVzVkJEZkotRHBTNmEtVk1Oc1dRMTRQbnEwaDhFR3haOEUxU0VQUWpBR2RXMExtV1hlb1NmdjR5VWp1VWxqaFBmR3VibnhCVk92WkZjNlcwVVlUczB0VW5QMnNhSWxkZUFRZ05ueUxYNzF6eXM1MnYtMTFtdnhUdGpFU3ZIOUdIZ0kxVWFuUzVZMEkzOHBneTdod3VpYy1qZzVQM3MzdjExZlY4blZrZmtIRkFtTWZVZGd3cGVkektKZjA2UVV2a1h2SjBhNnA5YjA?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Thu, 05 Nov 2026 20:25:27 GMT"
     }
   ]
 }
