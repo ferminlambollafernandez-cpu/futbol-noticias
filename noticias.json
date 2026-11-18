@@ -1,12 +1,6 @@
 {
-  "actualizado": "2026-11-18T08:40:36.157536+00:00",
+  "actualizado": "2026-11-18T17:31:31.592182+00:00",
   "noticias": [
-    {
-      "titulo": "El duro castigo de la FIFA a un club del fútbol argentino: no podrá incorporar jugadores en los próximos tres mercados de pases - TN",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQb192cVJCZVBOU0RQaHNEbm1GbGVHdVJzb290OGVrZk1IcWg1bFAzWjhYMXpXWjl5eW1zUVBNZl9lUU9aLVB4U2Y1WGdBdHJPQ2daRzlYVkhuNGFhbUFfeVFpWk9FdmFKM1dYVlUxcDFjZU03R2l3REFIaFVqYVR6SGV0RW1LbjBMaE9xTFBuMGlocE90NTZTTTFkcERpaXdDdjh0d2FBQTZyNC1STHBxZkRxQm5YTU1SMmVDQUZ2QVJvTnZnNWZqZmRESGV6S2RjcWhWdnY2QVI4cU9KOG1fQXA2SDk0cElFLUV6MGEzRjRLSkdkUDdtcE11US1rMUJPcVHSAZYCQVVfeXFMT2pHMDlaSjN5UXhRN29keFdvdE85bDVEa0dEbmswRVFYZDZXMVMzVENSS1ZNQ0hZSFlNSmtXR29XNnlfRnYtSlp1NUV2Y28tN0RVUzVxN1pjTDkxVTlJRWtrMjA0QjVnTklobk0tLTRXbkFEYWJuX09hMmZudzRJM2QxdEd2am95Sm5qOVNjNzBpNUo1MFVBX1d3QUY4QlNzRWRwQ19oTmpaN2RuX0NxTTlUQ3RuZGVkOHdXT1hSTThLZ0FPbjZxZk1yZ1gyMFlGOUdrdGo1Q3RQWVdsUDVIU3lKZzBXdjFwdEQ0VjJVRVBRWk9tWkJKNTE4emI4cGhDa2x3YXFwaEVnRUt5M21zZFBaRzJDenc?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Tue, 17 Nov 2026 18:16:01 GMT"
-    },
     {
       "titulo": "Los equipos argentinos que están inhibidos por FIFA - TyC Sports",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOclpJSURkanlQT1N6SEF4b0o1SlF2U0ViZTh5dnJua0lOTWhSQmY5TmgwbjFCVnpHS1RQSWRucmUzamlRZXg1eGlrS1RJQTlLT3U0NUFGQWVjYmstcjRFRlg1cEFhelBiZXV6YTl1Sk1WYUxfYmtkNXVKSGhpQmtENXhnMUJ2X0M0eFJLU0xtOUlUbHRaMzB0dXJBVWh1dkZqX2VHVkk2U1VJQmJ0ZkpGVTEwZUYwLTlXX1E?oc=5",
@@ -14,16 +8,34 @@
       "fecha": "Tue, 17 Nov 2026 20:51:00 GMT"
     },
     {
-      "titulo": "Otro club argentino inhibido y no es San Lorenzo y tampoco Independiente - Cadena 3 Argentina",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkhyQUpqT0xxanlNQ3pnYjVOaFY2SWx6Q3hpYVlESm51cTNxRmtKWmwzRWJYclNZWnNaeTVlWXdhOVVYU2JsVnhzRndwYlN2c1hRYldnTHgzUHVaM1JKNV9xVWl6UWw4NWtobXVFNjlwbmJpcUJsck1lN2l4MXVLdlNQc0o3LUFvQnZzMFQtR2lUeE9nVG05Y2IxTnMtME9Nck1OeUJsQWRhSTJZeUMzdjFlZ2hiNk1RclHSAb8BQVVfeXFMTnVWNzdGZDlxN3dLQlhiZlBJdGhNbTVEWjdiM3ljMC10cHZ1QWxZYlFpVjlCUXh2ZnJuT0Z3UnZ4NVROd1NPYVdvU3B2VUotZ1pyRzQ1OUFsbExpUzViMXpfNnRFYzgxeFFKUjFGM0tRUGVtSU1mWGZCeFhfdllFZUtfM0pYN2ZkRkxWRS1wNS1oUEdRSXFLSjFDeVhfZEw5a1J6ZEhPTEY4TTB4Ukc3alVUdDh6Y1FURUZpd2M1aUE?oc=5",
+      "titulo": "El duro castigo de la FIFA a un club del fútbol argentino: no podrá incorporar jugadores en los próximos tres mercados de pases - TN",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQb192cVJCZVBOU0RQaHNEbm1GbGVHdVJzb290OGVrZk1IcWg1bFAzWjhYMXpXWjl5eW1zUVBNZl9lUU9aLVB4U2Y1WGdBdHJPQ2daRzlYVkhuNGFhbUFfeVFpWk9FdmFKM1dYVlUxcDFjZU03R2l3REFIaFVqYVR6SGV0RW1LbjBMaE9xTFBuMGlocE90NTZTTTFkcERpaXdDdjh0d2FBQTZyNC1STHBxZkRxQm5YTU1SMmVDQUZ2QVJvTnZnNWZqZmRESGV6S2RjcWhWdnY2QVI4cU9KOG1fQXA2SDk0cElFLUV6MGEzRjRLSkdkUDdtcE11US1rMUJPcVHSAZYCQVVfeXFMT2pHMDlaSjN5UXhRN29keFdvdE85bDVEa0dEbmswRVFYZDZXMVMzVENSS1ZNQ0hZSFlNSmtXR29XNnlfRnYtSlp1NUV2Y28tN0RVUzVxN1pjTDkxVTlJRWtrMjA0QjVnTklobk0tLTRXbkFEYWJuX09hMmZudzRJM2QxdEd2am95Sm5qOVNjNzBpNUo1MFVBX1d3QUY4QlNzRWRwQ19oTmpaN2RuX0NxTTlUQ3RuZGVkOHdXT1hSTThLZ0FPbjZxZk1yZ1gyMFlGOUdrdGo1Q3RQWVdsUDVIU3lKZzBXdjFwdEQ0VjJVRVBRWk9tWkJKNTE4emI4cGhDa2x3YXFwaEVnRUt5M21zZFBaRzJDenc?oc=5",
       "categoria": "Fútbol argentino",
-      "fecha": "Tue, 17 Nov 2026 17:48:01 GMT"
+      "fecha": "Tue, 17 Nov 2026 18:16:01 GMT"
+    },
+    {
+      "titulo": "La decisión que Francisco Álvarez tomó con su carrera que podría acercarlo a River en medio del difícil mom... - La Página Millonaria",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPY2tSZmthMnlPMmhWY2hsVmNlQUhkck5UdXlYSHVzQ184ZXZXeVl2aUpqUG1RaXJROF9xMHBFc3gzY3Z1VjRHdFVEaUxUMndGWmFoQ2N5alZlcmU4WURoVW5YM0Q2TlJRMXctbkxfSGRmenNvWlNuV0pVb2xkcnNXbHVlcndYREUzd2NKYjJ4Ti0xc3ZyaVpOdjc0NFZicnUzMVNuQXFodHY2MFJRbzhxUFNjSUkwYVlpa2RJR3g1aENlNVRUT1RhcGhsSFJsY2F0d3RpbVRaVmlNUEUzc1k3MjRkWVI0dnh5OVhrLTB0X2tmbUQ1cEMxLS12VGVfTnRpSzdwNmllRdIBjAJBVV95cUxPdnAtVTR6SlBSNVkzcFB4TkE1a1pjYXlBWld0YXhXeFZnZnktV0JXR3FwY0hydVpLcXhsTV9kSEdIUkhMY19xYTZ1aWpseFRMamRuRlhOOTMyMm5OTGh6NWVObk9BcHBqQXVaTl9NNUpYaWE4dVRucm9hbW0zQUpBNVNoVzZndEE1VUY1a251NmtMN1RYUVU5VUJ3V2JKbDBpVzhyWkxnUU1wWHBwQk1ZSU42VFFWMGdua3l5YkVqVFM4MnhpLVJvdDlpUU5GdDhRa1F2eFFyTmgzNGNfZ3A0N1ZyMktQRkJrNWY4dU1TZTRBYjFTWU1LOTA2OXlFU1VYTTgwckllaUQ2bkIt?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Wed, 18 Nov 2026 13:21:31 GMT"
     },
     {
       "titulo": "El equipo del fútbol argentino que podría ir a buscar a Cristian Pavón para 2027 - Doble Amarilla",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYndCSThncHNtRUtqTHloVE02VEl6S1pkLTBRbTlBOEZ4QWJ2bmh1bG9XdEpORTZobTdrRFg4dnotQjdUbE1GS19XVmFGVThkYTdGMVpBQWVJMDVYNk5hYU16dklsd05BbmR3a0xCWG83bnEzMHJXSWVJZnYxZVVyaFR4ajdXVGR2ckhnOHF1bWlieHdJdElsTTBBeWxJU1phRGR1QkRMekNUZlNEQnFNNjR3TGZFUjUtRWdXOW9FSzQ0bDJRT1dWMHEtS3I5SjJRcHZiRWNfem5pbnFWNmtF0gHuAUFVX3lxTE9zR1JZc1UtQlcyckpoZzRBU09SREtwZzNlamVRU281ZkZ6OEV6bGZWd25kekhRd3NBMTB2Nkp3c1lyc3p6bUJKQndjU3lFQ0RHZnhicW1Jcl81Z01RbHVyVVJJZkRvbFUxT0FjWFhDRzdmNFcxWjVzb25sZlFheklKNE1HM2c5LVlSV0ZWTWlCaDdHVVBQcFJlcUlMMDlsSW81MExVeHhWRTF3QkVKZWZQM1NudEd3a1B6cW9lVWw2dXRkMGVMQlB6NU1tRGhFdlBlQTItZDJveHVWaGp1SmVfSnlTNktST2xSMVBzUHc?oc=5",
       "categoria": "Fútbol argentino",
       "fecha": "Tue, 17 Nov 2026 16:46:01 GMT"
+    },
+    {
+      "titulo": "A 75 años del primer partido televisado en el fútbol argentino - Diario La Capital de Mar del Plata",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUE1JbDhWWF9aalFyWVFITWtqS1I3dkdUYnE1ZnlhanB0SjVqMW1LOHUtTXRvZGJBbXpLOUxSdGxGRUo5akc1eGN5RlJLZm9DRGVEaEpjemVMWnJMMGItV1h6alNUdFdXa1RFT0dURG1fbDdnaV9tM1g2MUFucDZpdkJfdi1PS1ItZmFzWTBhTk5UaGlBVEtv?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Wed, 18 Nov 2026 13:53:47 GMT"
+    },
+    {
+      "titulo": "Boca viaja a Colombia con una duda en el once para la final de la Copa Sudamericana - El Gráfico",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPM0IzXy1UZkdyaEtyQURXSnpDaTkxajhmVzJka0JwYVJETkp1UmpacFlrTWxGb0ZKdmpDUG1rRkdJOExsYzZKTVNFd040ME5QUmdkYTc2bWZPOHhPSzB5ZHEtQTJhTjE0cEVuekx3RkozdDg0RXRQbVAxVm16aHkxel9Sdm5TOVhwTE9EamV6MkJQTG80TlJFRUMtSHFEM05GMjlHaDZnc3dJZFp2bnJzdXdpQ3NTYWpmLXdoMS0tWmVVMDJjYXlxN0dfYmJaZVRCOE1FMEN2MjdKYnY1c0IycThTLW8?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Wed, 18 Nov 2026 12:55:10 GMT"
     },
     {
       "titulo": "Tiene solo 7 años, los videos de sus gambetas son virales y promete ser una de las joyas del fútbol argentino: “Es un fenómeno” - Infobae",
@@ -38,34 +50,16 @@
       "fecha": "Tue, 17 Nov 2026 23:01:59 GMT"
     },
     {
-      "titulo": "Dolor en el fútbol argentino: murió un jugador que había sufrido un golpe en la cabeza durante un partido de inferiores - TN",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZ05xVXVCRWhReDlyN1RSbE9KeThXX0dtMzVqZl9abTNWRUNiaEFLZmtJc0JrUzI2cDd4SzJJT2dSMVNLUW9sd0J1c2NNZlpJOFEwZ1JTOHp5QnhfNnRiZ1FnUjRMUUhITGQtdURfcEU3b2JDNElfTERYaXVpeFRQM2kwYkNhMFRoNFFiRnU1a3hjUHRWYXN4VVlUWnJweFNZMVRFZlBSZmxDREZiTmhjN0RGVENWZjhkbkdObDh4SzNaU2tLWW9UclZRR21IQXhwVjg5dXFSdzBNbDJpTWlfTjBlOC1sN3d4RjZIR3pKeFNBMS1nU3Y40gGLAkFVX3lxTE8tU2lrc1F0WGVVRVJ6eTRycHRVR1QwbURUZnZTTi1NejVhQ3VsY1BOZlozRnl3YTlxMGMwNUNRanRzYlBMSnVKVHpZYmNDczVjdTgzZlYwakJZUm9CYmxldkFZVnZpbEVZdUF5UmpCLVEwSXlYMGkyVTlBZmtZckxJbGhOTTlVX3VRZWVSb3doVkNUcFhlME9GVkNqWFZQQ3l4R25PdWNwNk9pS0ZhS1ZfQ2lnLS14Q1dzbjVHdlEzYWY0eUVTVGlVMDYwbVQ0NHMyVXRvTTEwOGJXa3pwOGc4TlRWYlZ0RW9ac1lVM2Z1cnBUZmtyT25qVkxBUm9XWFNGQ1ZuRHh4SV8tdw?oc=5",
+      "titulo": "Belgrano se prepara para Vélez - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdTVGOTdkV28wWUExMHl0a2RDaXNYT2xyZGdDTmJFQnVPZ0hGa1Ixd0JtRmtBUVd6dGhzUkRKMm5IX1lIbzFWTTdKUDdGb2o3REJ4THlhRjdKdVNNSDNxNkV3Uk1vQ2lBUlNmbXdKTlQxYVZrQnNIZ081Tm9sV1BfQWpn0gGHAUFVX3lxTFBvWnpPaXRZcGpadVpveUVuNG0wUWRtb1NndmFWcEtESjZVcmN4U1phZ2ticzR2R195alBLTDBKaWRGQ3pvTHlVSWkxdEwyNTN3SDl3aVpZVU00ZjRPVGRBZUtmWnVpcW1DSkdsX0tTVWlMWWJjQ3Q2ODlaWFZwS2NzYndkODQtWQ?oc=5",
       "categoria": "Fútbol argentino",
-      "fecha": "Sun, 15 Nov 2026 22:15:23 GMT"
+      "fecha": "Tue, 17 Nov 2026 21:32:18 GMT"
     },
     {
       "titulo": "Tragedia en el fútbol argentino: murió el juvenil Abel Núñez tras recibir un golpe en la cabeza durante un partido - Infobae",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUTB3cXc1NXNMRjZDdFFONlEzc3M0MHlPM2M3TlRwR0lTbFhIUF9nbzA1ZGZ1WHdhMGxEZ29sM2xndGxRMlcyd0ZCcUhFczJZLTJNb1FFSF9LSl94bWJ0Y1Y0V0VLZU11R2YybjFqWE51XzZ6WlExM1JyeUJ4WGVvQ0M0S3VEN0JnR2VLTXBaQkdJRm1NLVdJbWdXME1yT1pBWlpmOE9uQjFDdmxQdjMyUVFVc0JiWWxVMUZySW1jTUgxeHZXTDZwUXZnc2tOSl9POG95YU9vU3puNGotamRVcllYN2djd2VfeVBLS0lpb9IBigJBVV95cUxNakFxZ3pBeTN6ekNkc2NiZmh1NnREcUxvT1JjNnhjM0FnTEZSalUwX1JtMVhPUUR6c2xkS0lleWhrV3pZTEFGbWtvZDJVSlE0WEFpaDN5cjZyQVdBbm1RUXRLUFdXQ0VEaG1pUE5VSjZXM2pwSHppZHZSRVJhZF9XTzB5UE80Um9IOUwwbGVzSzJYaVJqcXFqNW5LaUpiZzJ3MnZCZU45UzJPN212QTdxM0V2WFFlRnNqTTl3M285WVF3b3E5a0dvd2NaRDRzTFJWLXpMUlRSR2Y2RmtlTkI5cERQTG9MRUtIcmw3eWlxNXVWRjVWU1VKRXhUOTVubXo4MUN3YzY3cUo0dw?oc=5",
       "categoria": "Fútbol argentino",
       "fecha": "Sun, 15 Nov 2026 23:30:00 GMT"
-    },
-    {
-      "titulo": "Un jugador de fútbol juvenil muere en Argentina tras recibir un pelotazo durante un partido - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWWtTeUd1QzhJVm9oWWZaSDduczkzT2JXNWVjVkdVa0Zhb21JMlFWUDBFZm9ZaHFvQVFkbXBpV2FjQXpaMzc3WGdrR1k1eTExU213RkFlbW1Ccl9xZUQ4YTgyYkFTNGh0eFY3UVE1TUhYVzRlQjNZZWlDMXI0NmpKakVJRTJWQ0NISTlEckp4TnBCNFVtNEdabnNRQWwtUkFTa091Rm92V0lMTGVKc3djMF9fVTVfdzNOeXJsUUlQYno5a2pYOGlvWkZISGVUUdIB4gFBVV95cUxQNURVTzhNcGdMdXZzeHl6LXNUbkVYVkJLRW5FRDRyN01oTjJFQldIalpJNzdmbjBfMWI2TFpBRUtITER0Z3k1VGFVTUt2OEx2bGRBY2xPVmRmNTFEM2s3SHNEajBvWjQyQ2ZrSnVvUHZaVmx5YkN5RTRuMDI4emcyTmVXM0lqX0FqU1BkcklLNXROeGlHa0x0SnBDZmtfQmtzcmJGeHRSTWoya0tPTlRqRjNibU9qOTVSUHRiSVpyVnlLeDlMWi1wbGRZTC1vTEJJLTc1a29KeHRlS0V1VkZCWXRR?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Tue, 17 Nov 2026 17:28:54 GMT"
-    },
-    {
-      "titulo": "La nueva categoría del fútbol argentino que podría sumar 46 clubes por invitación - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd3ZKSzhPWTUtaFIwWW1kOVVZQTFIeUNzckJrVkItVFFvY0NpbGJzazNSZUZiUHFFYWdvSTdnN0NkS3NtVmJCR2pib09PenhyN1lXMEFZVEZyYkI5dUF3QmR5alpIeVZFem9uV0xfMF8zVFp3NURJQWVZT0ltekIzbjhuTlY1YTRfdHlpeWJ6N3JQcUlJTzdYcEd6YzFvYTk3cXFnSFJMcFc1YlpUcmVfSVNZWXV3MFVtekdFa3R1QjJnS1UwV0szRkM2TmFzMXNGakhzNVNtRTNaTjVNb0xnS3dsM2hHdw?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Tue, 17 Nov 2026 16:00:30 GMT"
-    },
-    {
-      "titulo": "Duro golpe para Gimnasia: Nicolás Barros Schelotto se lesionó y se perderá los octavos ante Newell's - Olé",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVRFejM0Nk5XQWhhLTFxZEdUOGlTdVB5eV9hb2c0VEhUQkF2VFJIanFydmVzSlFtWjFJRmxubmVENFBCZ1BnYVd6cEt4S0VMbWtyNkhqenkyRWQ3UTBMN01qTENjR0FoTC0ybVNvakRnT1lNMlcyTHYzV0Q1Xzkzem9BcVExTWRqZll3S1ZyVmV0UVVWdjlFMjN4UUtPMFVES0JvZktVTdIBrAFBVV95cUxQSXJ1OUk4TVgxck13dGhiQVZTN2VYc1Q3dFdKTVAwYmlTNTZ4LVByNkdJMl9RN1k1NHZ0UEpFWGJzeXlMOXpEYjlacWljejh5d1B5TENOWlMtWWJyc1NZRl9acnFJdFhOUVF6UWpocWs0cTFhS1huS09wc1NMVWdyVTlpUGpkMXhPaTBBTE83dnNvMEQxTENIa2hvb2Y0R2dFRmplRm9PQlNfbjAw?oc=5",
-      "categoria": "Gimnasia",
-      "fecha": "Mon, 16 Nov 2026 23:54:11 GMT"
     },
     {
       "titulo": "¡Asegurá tu lugar para alentar al Lobo! - Club de Gimnasia y Esgrima La Plata",
@@ -80,12 +74,6 @@
       "fecha": "Tue, 17 Nov 2026 22:51:17 GMT"
     },
     {
-      "titulo": "Agenda semanal Tripera - Club de Gimnasia y Esgrima La Plata",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NX0c0VGh5d0FKQkFvOWpaM0Yta2Y1ZFNpd1YzOTRLYm0walVnWklfbGJuWFJtRFkyUUcwVHVtUnJuR0ZtNmpuUkhkMmJCazZpLWh3T0ZUM3QtWnJ2bEYxb2pkQTE?oc=5",
-      "categoria": "Gimnasia",
-      "fecha": "Mon, 16 Nov 2026 02:01:47 GMT"
-    },
-    {
       "titulo": "Enfocado en Newell´s - Club de Gimnasia y Esgrima La Plata",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yaFhBTGg5dW5vTlN3T3FsMEpCenFvT0tYdGNDajYxbGY3NkI1WU9PbG53QmVjbU1RRzdDU25UQjVUclF5bWY5WktPaHlWOGJFOVZHdGc1VEN6c2hv?oc=5",
       "categoria": "Gimnasia",
@@ -98,22 +86,16 @@
       "fecha": "Mon, 16 Nov 2026 18:25:35 GMT"
     },
     {
-      "titulo": "Acreditaciones ante Atlético Tucumán - Club de Gimnasia y Esgrima La Plata",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xaEVKYjNNU21Nc0ZvVXk0V0FHSC0xUGlBNTVzbjhzZWFBWXM5YmxqLVl2RWJ4WG10LUd6dnlBRHRBTENFMHFlYURuNkJXWmRPT2tsNXZidGlZazlkeTRrQ25KS0w2MF9aUEdIV3dNWjJkUERudmc?oc=5",
-      "categoria": "Gimnasia",
-      "fecha": "Mon, 16 Nov 2026 11:06:50 GMT"
-    },
-    {
       "titulo": "Cierra la temporada ante el Decano tucumano - Club de Gimnasia y Esgrima La Plata",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYUnpjeHB3SVY1V0RDbTJ6YVlneURBZmhNejQxZXp4eTk2WTZiLWZPZi1tVTNJWGx0OF9wZ2FoTTZWbVhaMnN1WlVyZFVjVklVODdSbHFWLUh4dlJyZmoydHJfY0JCY0FabEw3OTVuVkFnVm5FYnFMMEpyZjg?oc=5",
       "categoria": "Gimnasia",
       "fecha": "Mon, 16 Nov 2026 18:25:35 GMT"
     },
     {
-      "titulo": "Semana de acción para el Senior: Clausura, Copa Federal y Copa de Oro - Club de Gimnasia y Esgrima La Plata",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWJUaGY4Q1gxUjU5TW05d2VsdXZxRVAyOVBUeE1DZHp2aS1sWjhVeXFKYll5NkdtcTk5QkxuWmxEWHE5dUlSTlJTT0xMQTFadjJzVERFekxnQnlEMzI5NXZHYWdELVQwNDEzRVhRN1NrYnF1dTNNa244ZUVCdWdMTlZybnh2Q0tiUXVlUjJYZHd2TUtqcDBReE01RTY?oc=5",
+      "titulo": "¡Agenda Tripera! - Club de Gimnasia y Esgrima La Plata",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNl9yM0JpWTRSenBMbUNocXBTRWJ6MXBWN0FkNlE5cHR6b0x5OENqQkxkcVQ5WnBuSzN1M0o4N2ZudzIxNE1nczMxajlQV0k0TURvTkFscUdEaW8?oc=5",
       "categoria": "Gimnasia",
-      "fecha": "Sun, 15 Nov 2026 17:51:16 GMT"
+      "fecha": "Mon, 09 Nov 2026 00:58:56 GMT"
     },
     {
       "titulo": "Las Triperas sumaron en su visita a Huracán - Club de Gimnasia y Esgrima La Plata",
@@ -122,16 +104,46 @@
       "fecha": "Mon, 16 Nov 2026 20:36:24 GMT"
     },
     {
+      "titulo": "Acreditaciones vs Newell´s – Octavos de Final - Club de Gimnasia y Esgrima La Plata",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VQXlDTVlhODlFT2JodzVaU0hTMzREYVQyb1poeFlkNGhPQno5RHpkSzQ2UzJBSW5ZaTh3aTRtNjBUTjBWYmtYSThzUmF3RC02dzU1TTItcDNjQ2tVZXB5dGtLQlNiNUpDOThQNFd4dHNSQnAtMFNpbGstTQ?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Mon, 16 Nov 2026 15:37:13 GMT"
+    },
+    {
+      "titulo": "Extendemos la preventa hasta el lunes 16 - Club de Gimnasia y Esgrima La Plata",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04aWRqdWRKOWZxU1Z5Y0ZRYUxKWmRYNFBQN2pyUU5FSE1YbEk1RVJPNE03ZTZSa3FTMmQybW0xQVMyeGR3ajVBZl9mNG4wZmlQNWZCb0NfQXBIS0F5VGNRX1FRdllHREMtaTNLRTRCUm1MWWlDZnpzRQ?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Fri, 13 Nov 2026 15:14:18 GMT"
+    },
+    {
+      "titulo": "Los octavos de final del Fútbol Argentino - De la Tribuna TV",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbGktRFI0MTQ2ZG9XRnUzenRBeXhvN2JIdFU5TFprM0tnbGU2WWM0SXNwVURVTnk2RzhyeHk3Y0Yycy1sMjF4TGtOTFhjaWJ2b2ZQTzZoOVlEQ3JxSXBYVlNkZVk5bVNvUHg4dFlBQjVxRVhPeVRBR1daei0wV0ZZOW9pbmlUTVlxZktQYg?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Wed, 18 Nov 2026 09:12:00 GMT"
+    },
+    {
+      "titulo": "Jugó en River y está a 235 minutos de activar una insólita cláusula millonaria - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUmU4MDdXQkZpZk9rTXduN0lyUUxRc2d1aDY2WGZtX2RYbDFGRnNCNTBoNlRqTFN2YXBMVllnUHRHb1RFOG1Yc21SOE1tZzc2VzFnYi1iUXdWNTlZNDh0Zm93YlYzdjZ2Um5SX1cxbnJ6dFdZMzJqMlFaNFNHeC1CV2FHVXd0NmxqNkMxYXFnSlpVbzIwUmx5OTRsc3R1R1dkTmZjN2QzYmlzclBHZDVGalNVLWRDRDVpNjFYN2c0bVhyWmVHb05fNkZGR0stbXlkOEE?oc=5",
+      "categoria": "River",
+      "fecha": "Wed, 18 Nov 2026 16:33:30 GMT"
+    },
+    {
+      "titulo": "A 75 años del primer partido televisado en el fútbol argentino - Diario La Capital de Mar del Plata",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUE1JbDhWWF9aalFyWVFITWtqS1I3dkdUYnE1ZnlhanB0SjVqMW1LOHUtTXRvZGJBbXpLOUxSdGxGRUo5akc1eGN5RlJLZm9DRGVEaEpjemVMWnJMMGItV1h6alNUdFdXa1RFT0dURG1fbDdnaV9tM1g2MUFucDZpdkJfdi1PS1ItZmFzWTBhTk5UaGlBVEtv?oc=5",
+      "categoria": "River",
+      "fecha": "Wed, 18 Nov 2026 13:53:47 GMT"
+    },
+    {
       "titulo": "La fuerte revelación del Negro Enrique sobre su físico producto del fútbol y los esfuerzos que hizo por River - La Página Millonaria",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcm1ZTWF1d3BQbXVFbk5NcC1vSEx1Y2hvU3hHLTY4cGQ1RktJdUZLSkI5ckNGQWpXTmhacXZod0xaZzJfMjIyUllOQmdoazNBRUtRTGpYYk5mNDQ4RlNGOVJBRFNYZmxkelY3ZDZzMlZ2MENyUXZDQ0JOTXNSU1JzcVMzZU1fZkp3enU5enVZSmZFNWZaZXpmQnU5X0JrcE1GTml5WmtkUlI5UXJGX3BfRlF1aG11ZWY5OTRYRTJ5cHN0eVAyT1dRLXFGc0hqc0t1dldVVlZUQV9FUjJhQUpCMlpnaHdlNHfSAewBQVVfeXFMTVlEcEJweFdBdWNVelNIZVFURm4yRU9ucHdkeFotYng2T29XRkJoN2gxMjJNRjdpU0E4LXlta0dxMzNDd0R4RVcya1ROWXk0WS1BazNzX29HaFVxWXd3X29fcVdFcjZqemxNbFUzLUI4VEMyZGo5dWFKLWViWkkyR19vaXlodXZNT3ltMDIzMU5uTEw3U2x1dVlMcjRPX244MHJCQnlPSXJ2WW1PNEpnQ1V2ZlBEeUFnVk11ckRBRFFzQ1FmTHNkb1JsYXRJVVViWnBicFdfVksxUTd5TlJ2dkIzYms5NUw3bnNDelQ?oc=5",
       "categoria": "River",
       "fecha": "Tue, 17 Nov 2026 12:38:21 GMT"
     },
     {
-      "titulo": "En un final dramático, Almada le dio la victoria a River ante Atlético Tucumán: reviví lo mejor - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORlBnd09DMm94N193Z0tCemktVW5nMUoxTkZmQVlPSzdiX3dTZEFDZGJlY0NxSXdhaXpOUG1IcUdtRkNpNkJpSzMxdnd6NmtFVmxwSzJ4RnZIY043Vy14eV9kOHRJWUl1Y1ZxNDRGUC1yc2JKYUxXekdEWGRVaDR5TTZPWXYzUkpDRlJHV3dTWTVFSUItMWhpZVhLR2hHLVVEbFo0MUdfaV9sQW9OeW5QRW50cmh6UUJGVjdCQkM0dU5abWVzeHlUNmVGTlRxLTIweTlF?oc=5",
+      "titulo": "Nueva camiseta de River 2027/28: filtran el diseño de la titular - 365Scores",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wYUZKc2tWZFp4eHhXcTJGRWlpeWVRZXhDR1F0SVBvRW9CcnR0WTdlMndVSURCQjNlem1uSjFxR21kSDN1QXFMM3g4b05neVMta1J6Y2hEekxheG5ZaUt6d1poMFdDUzN6MENULXlackZDT0tOdXpCanctSTU4UTA?oc=5",
       "categoria": "River",
-      "fecha": "Mon, 21 Sep 2026 07:00:00 GMT"
+      "fecha": "Wed, 18 Nov 2026 11:18:20 GMT"
     },
     {
       "titulo": "El día que Lanús mandó a River a la Promoción - Olé",
@@ -140,22 +152,22 @@
       "fecha": "Tue, 17 Nov 2026 11:16:00 GMT"
     },
     {
-      "titulo": "Chiqui Tapia, desbocado contra River: apuntó contra Ponzio, Martínez Quarta y Di Carlo - La Página Millonaria",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTXJiVWVtMHRURTZNQUVnZ2xtMjdWN0M3V1RycGoxTE9lSGpFS3BmNVZTX1FDaVNqdUJNeXEzSkgzTE4tNEQ5blFFSWtYQzBISFdIY3p2T25zTFFmSnMtZnZCRWcwdlNfcGFrWk5DdjYwYWRPdE1LZnJhd0NOdWRHS2dxMkRBZWMzSjV3ZlpOYzk4a05kYkJ2bHphbUZrTEduM0lpeDVFNUVxY24yT2hJVG02N2xDR2wtX0xpUEotd2xlaW85eEprRGFKRmhhRkYwTElCT3QxQ1IyVEx10gHiAUFVX3lxTFBZOFl5amxIWUVRYjFqN1RYVVNQRWVtMmxqWm1hM2FzY0pDTFlXRDRBUW9UdENsd1Q0VXoxOUNidGtycXNVTU5yeFlLdFpvd3hXMXhDLWl1WE9lVUNXMURUQWxmbzJDUWpGV09ObUJ0Wjh3ck5SUlZ3Zm5pT1JhOHhvOEY3eHMzWGN6LWRheHlwVzlKWVJubjMzNW9pT09KaVM4LWN6VERGZVpRQ19mOFlaMVRrQy1zYWt5Y3ZieVR2LTN4Y0ljNWtOeENHSS1LcVVPc19vMkFrM0ZYWWJXdEZ4WWc?oc=5",
-      "categoria": "River",
-      "fecha": "Mon, 16 Nov 2026 11:47:46 GMT"
-    },
-    {
       "titulo": "La Asociación del Fútbol Argentino definió los árbitros para los octavos de final del Clausura 2026 - Diario de Cuyo",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeEY0dktCWjhqem5rVVZxbXhjTDdkTEdiWWhjLVlDSFVkRlhjYWlYWWxOdHhzbFVGZVpkZGE4em9pSW91ay1GZWtpMDN3T01HakxGbjhQajJIZUpDWG50Z0dsMGpvVUtCMGZRMkJfWTc1ZDJQYmNpZFRnT2dMUkk4dmd4WWZsOEJPQmxuakxyTU9lZm5iTk53MnlYTlZBTDNMcVpBVTE3dG9BVHh6SXVoRWJjMjd2Z1BlX0pTUVVvUUtvU2pkWU02YzdPaUMtWW5xTEhLLXhNMkxOWkwtaHd0Q3pBNA?oc=5",
       "categoria": "River",
       "fecha": "Tue, 17 Nov 2026 19:53:39 GMT"
     },
     {
-      "titulo": "Cuándo saldría el fallo de AFA sobre la posible reducción de la sanción a Montiel - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblBNMlRpX3B3U3FqT0V1MU96aEE1THpQRGxjeWpSWmRBMktEc0JHUjdIX3JTMEZVMjhVeVdlNUNDQVhxRGpwYWItc1RxYUhHR0FYT2lQanhkS0xmNjBlck43LTUycHpXZko5Znc2Ymctb1ltdnhaTTFqYmlxbTRoMllGNG1idVN6YUFuYlItc0RYTDMySG1PbHdFN0tCb3NTSzlvbjJnZVJWNVc3VWc?oc=5",
+      "titulo": "En un final dramático, Almada le dio la victoria a River ante Atlético Tucumán: reviví lo mejor - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORlBnd09DMm94N193Z0tCemktVW5nMUoxTkZmQVlPSzdiX3dTZEFDZGJlY0NxSXdhaXpOUG1IcUdtRkNpNkJpSzMxdnd6NmtFVmxwSzJ4RnZIY043Vy14eV9kOHRJWUl1Y1ZxNDRGUC1yc2JKYUxXekdEWGRVaDR5TTZPWXYzUkpDRlJHV3dTWTVFSUItMWhpZVhLR2hHLVVEbFo0MUdfaV9sQW9OeW5QRW50cmh6UUJGVjdCQkM0dU5abWVzeHlUNmVGTlRxLTIweTlF?oc=5",
       "categoria": "River",
-      "fecha": "Sun, 15 Nov 2026 21:43:52 GMT"
+      "fecha": "Mon, 21 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "titulo": "El River de Ponzio le ganó a Independiente Rivadavia con un golazo de Galván: reviví lo mejor - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRllNQnRQbjhZdlNWUWkwTGNjRWhmTWROM3J1eFRuWjBHMXpoRk1kQlJmYXU1SHRnRTJlS1Q2dG1FT1R5NWw4ZkFXTm9BZ1o5ZlIxNG1XbndtV3NzTU82RDVIUXNHREJkYkpKVUMxR1V1MU94cVMwcEM4dEZxZ3FoRE1oaHQ3NXY1VnpyWGItWmliNkJ0bHdIdEpHUjdZcEgzUUFPUVZ4aUxtU2NzNXktZktVa1EyOVgtdHVJNHk4ZWQyem9PdEFKSGswRGZfd011aWpvNF9HMA?oc=5",
+      "categoria": "River",
+      "fecha": "Sun, 06 Sep 2026 07:00:00 GMT"
     },
     {
       "titulo": "River blindó a Lautaro Vera: la historia del juvenil que debutó en Reserva y firmó su primer contrato en 15... - La Página Millonaria",
@@ -164,22 +176,16 @@
       "fecha": "Tue, 17 Nov 2026 14:48:55 GMT"
     },
     {
-      "titulo": "Huracán dio el golpe y le ganó a River en el Monumental: reviví lo mejor - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM3BIbEc1UzlPWUMxNVAzMnBHcVFCSVdnQV9ENTRHM3lGUVNFUEtsS00yandBS1p6MVd2dXlqUW93UWE3SURrX1hzelgtUlBNUG1tS0NrZFFQdUE1VDVMbmtpc2kxX1hDS1BJM3BVYWttTGZtN1A3V1BzcW9sTkdPQTF4b09nOUpqa2cwRjdIYVZ2X1d6TTJRS2ZwNFlXMFBKYXdhSnZRSVJZZTdIYUdMOEF1UGZsVkVrNnBFcTdnUFM1TWktTDBTaQ?oc=5",
+      "titulo": "A 75 años de la TV en el fútbol: por qué no se vio el primer gol y qué clubes cobraron más dinero - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdVoyV2NVTjVjWVcyQnRnM08yQVV1bnB6QU1lSldxS2FpTVdPVklZd0MzdnBqUDM3dThDSHgtS0tYYmZ4Mi12Z0hjeFdlWmpzbTliRDBtbVpPdkQ5Z3dGZ19BelpYOGlEN3lsUzRaZUNyZFA0NHYtVmhZOFlFWlRVZkc4elVXVktteWhaQUVES0tLbGh0aTdBbWFPQ3ZaVm1IR0RqM3VDeVd0YTJiZm9XQ1VZalEtQVJQVTFCMFNVWVFob2xVMHZ3c01oSWc0RHVVbXVaNTNkVmRfc2k5MzhQUHBYaw?oc=5",
       "categoria": "River",
-      "fecha": "Mon, 21 Sep 2026 07:00:00 GMT"
+      "fecha": "Wed, 18 Nov 2026 10:07:30 GMT"
     },
     {
-      "titulo": "River le vendió a Jeremías Ledesma a Rosario Central: ya no queda ningún refuerzo del último mercado de Demichelis - Olé",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFJ4TWs4em5pY2xrNlJnbVBlS0s3UTVVX2VHaVZ3cGR6dzREWTRmQml1czk2NmMybnExUkxaOWpacEZZWjB1R0M2ZEVpalBVMk9ubS16UnpiSktpZzAxMnpKcW5qSkdLQmRXQWY2R0h2cVR2aFdYRVNadC1QUkVWaVc5SGlucEM0UG8zamJNSlNaRHR0OWRoR3BLWWYxeEhiN2fSAacBQVVfeXFMT3ByYjlkTW9PYTF5aUw5Ykg0MS12cXM0MTQxdGZBX1hLSmtXWkNmVnhCUW04a2UyOEdlVDd3WlJlQVp0dEh3UDZaaEtsQUxsTlVGNmNScVluRWswLTNJbmxMVEFVcjdhYWF3ai1UdDZBdmxFLXBXdVZUVC11eWJsNG5ZUE5lSVUwUVZpZmJ3cXFPcHpsaUpXcUdobFMtcjl5MktNcDV1MW8?oc=5",
-      "categoria": "River",
-      "fecha": "Mon, 16 Nov 2026 23:36:21 GMT"
-    },
-    {
-      "titulo": "En un partidazo, River y Boca terminaron empatados en el Superclásico de Reserva - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb0pUQktsdldVYWc2eUZrNVg4ZF9MMW1majNvS0pEWDBFZTdqNklrdHZrVTlZMnNtT2tzRDd4RlV6SmFJSURyX0tXaXE3aVMzQUJLQnhydUpyMHdhVDM1cHA4cTNhSzM5U1VoaGowSGNJMnVnTS1LZkhHNk1HSG55VjF5eGMtRV9Dcm93TGJxQS1oRHdkNFNtZ19tRmNBRE55VmF3STdYX3RrVTBvWjhfbkFRbzhRUGdqZUhtUjJxd2R4U0ZJcDZCNFN0NnFNUQ?oc=5",
-      "categoria": "River",
-      "fecha": "Fri, 25 Sep 2026 07:00:00 GMT"
+      "titulo": "Boca puede favorecer a siete equipos del fútbol argentino si gana la Copa Sudamericana - Bolavip Argentina",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmxHSE9tclNWdHgxOEhPejkybzY2OVRPSjFLMkVVNkRhSDlydVloQVV2eEJDVWlrX3hBUzByOHQ3V0J2NlhObXFWcTltU1lKekhxTzFWRXUwOGRtTXBfeEJxUE11cHNoZGJaUWx1d0RsbG1HUlhsVEx1TGxZbnpQcFFyc2NoY1hEdGdNRFZDeko1dUtmakdGMDI5bWNVLWY3bk52NFJMaFZGdUVyaXJHTlp4bHHSAboBQVVfeXFMT1NrTnFNa3QxNWtaRUJVRDFiRWNtUDlqRDE4Rkc3WnItN2JfVy1laHREZ2hDb3B0SWJFbkd1RDdCbDl5UkZjTmdrTkxaMUFRRU9wYnRPYmFienFhSzRIWllFMGdyZlRDd0JZaGs0UmFTQzl0YjFyX1NiYjVvaVNkX3NUWWx4ZGJrRDIzb1hMYldvRHo0QUN2Q1Q1RFA1aVZ5NlBUYUF4TnNsWHp1OElHVXUyVUYzR0lEejF3?oc=5",
+      "categoria": "Boca",
+      "fecha": "Sun, 15 Nov 2026 20:38:44 GMT"
     },
     {
       "titulo": "Leandro Paredes inició el curso de entrenador: con qué campeón del mundo armará su cuerpo técnico en el futuro - Infobae",
@@ -206,16 +212,16 @@
       "fecha": "Tue, 17 Nov 2026 22:23:03 GMT"
     },
     {
+      "titulo": "Liga Regional de Fútbol. Se jugaron partidos pendientes de divisiones inferiores, pero siguen vacantes tres plazas - La Nueva Radio Suárez",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQWNhZ1A4eDRwRFdzNlp0NUc0QnlJRnktVmZaZkhSdFlvNG45UF81T0QxNTNNaS1WZ09uVmV6YjVaZHpabDNsT3JHMU1FTi1yZTRQLWJNQWxZZC1jYV9zamhlczBaeDB5WW1CLWhIeUdPZGwwakZjSEFQeXJ1aXlucEc0VUhFNlpQTGk4cjBkVHRTMVV1ZDZwbU1LWUFSV29BZXB5bk83YjRkdl90NE9GcUc3aUJsVFVaZklIeE5KOHVIS2xNd0EycFE0SFVyNl9TSXdCSE1ZYVFNbWwwZk5OSWRLelNpcExlLTFIcy00SVBOVzFXeFd6SXdkbFJnY0k?oc=5",
+      "categoria": "Boca",
+      "fecha": "Tue, 17 Nov 2026 02:06:34 GMT"
+    },
+    {
       "titulo": "Boca espera a Blanco para la final de la Sudamericana y Aranda pelea un lugar en el once - DeporTV",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWlFfaHp5b0pySUQ3NUQ4QlZmdkZ1bkJhcjlmN3V0Z1B1YmFEU05jSDdzbGZlWUJKT192bDNLeXlwUS1Ecm5ZMDlNNm02TU1CTi1OU0VXN01xOWt6VWl1YjJ3QmtTRDNNSFpuVjN0WHZpV0NtX0I4bmFrMVZoNzdyRWVrTDIybDVIREVIVGJ2WHNyRHQxTDBQQWpXWQ?oc=5",
       "categoria": "Boca",
       "fecha": "Mon, 16 Nov 2026 23:45:00 GMT"
-    },
-    {
-      "titulo": "Boca puede favorecer a siete equipos del fútbol argentino si gana la Copa Sudamericana - Bolavip Argentina",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUmxHSE9tclNWdHgxOEhPejkybzY2OVRPSjFLMkVVNkRhSDlydVloQVV2eEJDVWlrX3hBUzByOHQ3V0J2NlhObXFWcTltU1lKekhxTzFWRXUwOGRtTXBfeEJxUE11cHNoZGJaUWx1d0RsbG1HUlhsVEx1TGxZbnpQcFFyc2NoY1hEdGdNRFZDeko1dUtmakdGMDI5bWNVLWY3bk52NFJMaFZGdUVyaXJHTlp4bHHSAboBQVVfeXFMT1NrTnFNa3QxNWtaRUJVRDFiRWNtUDlqRDE4Rkc3WnItN2JfVy1laHREZ2hDb3B0SWJFbkd1RDdCbDl5UkZjTmdrTkxaMUFRRU9wYnRPYmFienFhSzRIWllFMGdyZlRDd0JZaGs0UmFTQzl0YjFyX1NiYjVvaVNkX3NUWWx4ZGJrRDIzb1hMYldvRHo0QUN2Q1Q1RFA1aVZ5NlBUYUF4TnNsWHp1OElHVXUyVUYzR0lEejF3?oc=5",
-      "categoria": "Boca",
-      "fecha": "Sun, 15 Nov 2026 20:38:44 GMT"
     },
     {
       "titulo": "La Asociación del Fútbol Argentino definió los árbitros para los octavos de final del Clausura 2026 - Diario de Cuyo",
@@ -224,82 +230,16 @@
       "fecha": "Tue, 17 Nov 2026 19:53:39 GMT"
     },
     {
-      "titulo": "El templo xeneize: ¿cuál es el lugar de Boca en la historia del fútbol argentino? - La Opinión Austral",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQWxYNkFFa05LVDNqWS1kTVNWTk9mNGFVUVlHbjF0R3poLWpEUVhhRUFKLU1keFhIVWlLZ254VVI2MnZQbGk4VG1sQ3ZDNlE4T2FyNGxTeXd5Vy03cVVtcTBEYmxKS1NKR1BwMXhrZVR5ak00TWJQMFVEcXljOEJNQmZNVzJTaWY0b2RkNm9rY2VVVnpsaExfdkx6SEllOE45UWJlOTJZcktyS3dTakRTQWZSVGpxVFFFbXJvc0FrZkY0elFvQzJDRmpCOA?oc=5",
-      "categoria": "Boca",
-      "fecha": "Mon, 16 Nov 2026 19:38:50 GMT"
-    },
-    {
       "titulo": "Sorteo entradas Final CONMEBOL Sudamericana: Atlético Mineiro vs Boca Juniors - DSports",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdTRRdnV3Mk9MWWNXY01aT0JlNFo0MnEwMTJiOXNMSGFXNlA1WGk1Mjh4U1Q5LUJuWFlqTXVDdnkycFNfS19ZSTBlSWV6ZFgyM3hfS0xLVDRENWs3eHZBaUNUWWpDdTE3aHQ4amQyazBjbVRnWVNhbTc1bkVGOW9jU1JYNmFWcjN1LXdrWElsbVRkTDhCS3MtcVdHU0xKR0tKY011S2VBUmY5dDBJUUdHS0JNWEo2UjFVSmhFcTE1Z01MTU0zeVNONXhNMmjSAdIBQVVfeXFMT2tOODcyMkVZeDFxdGJybGc2dXQ5NE5sTmFtRDlPczVnVl9WLURPYTFlWmcxeHRxMFV2VFRndUh4SElqb3FqdjNHbEYzYjRxdjJUWF93WDlLd3NUTHc0SXdUS05CMDEzb0hPTmJ4TGNDNks5alpDTHV5SUlQMjNZS1NIdkpTVW1Ma2ljYWlobUVHMHpwYWltMHhoOUNQbE9mQUJVRE83SW5wOTJXQWc0RnVtenhUVEhOVTdySThJcmJ2V01pS2xJbmNZYkVvUnRleUd3?oc=5",
       "categoria": "Boca",
       "fecha": "Tue, 17 Nov 2026 19:15:45 GMT"
     },
     {
-      "titulo": "La decisión que tomó Leandro Paredes sobre su futuro en el fútbol: \"Gran alegría\" - Crónica",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOElIMFpYU2s3cmRvck9GV09YbURqeUthRkcyeUJFVjVqUjhJQnJLMFRYdUg1T1NtZXNPa0lMbFNrUTBpZnJ3Mk1pYXQyMDBkTXc1R2xycjVrd3A3dTRvOXF4emU2T0RPb0pubnh4bldudlkxN0ozQmRxWmxtcXhaTVBUZDZsd1FqYmtxODJ3eDNYTXVJWEItMWR2aks4RnhPVFNRUjVaTjFaRFZ3U1hIeGs0NE8xWi1aNzNNNEhaQdIBxAFBVV95cUxNV3J1QWNlWVFJaFoybkZNZ1pFUEtybkxiTlpWTkN0SGg2M3VFcnVqdGk2OUczeGlXVm1nRTkwdm83N2YwejE3QmxRSkl5VG5lUENTMS1jT09vRFBBNXBRZFZveUlOcmRScmkxSE5fa3Bxdm1LLVRSLVpKeFhMYk5OYWwtR25oWjFMdE1peXV4Y1RJTGRyNkJESHJzX0FDOXo2THhwaVBUOVJHc2FxeUEycmZoaDRyelBiclJMbXozeWRqREQx?oc=5",
+      "titulo": "El templo xeneize: ¿cuál es el lugar de Boca en la historia del fútbol argentino? - La Opinión Austral",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQWxYNkFFa05LVDNqWS1kTVNWTk9mNGFVUVlHbjF0R3poLWpEUVhhRUFKLU1keFhIVWlLZ254VVI2MnZQbGk4VG1sQ3ZDNlE4T2FyNGxTeXd5Vy03cVVtcTBEYmxKS1NKR1BwMXhrZVR5ak00TWJQMFVEcXljOEJNQmZNVzJTaWY0b2RkNm9rY2VVVnpsaExfdkx6SEllOE45UWJlOTJZcktyS3dTakRTQWZSVGpxVFFFbXJvc0FrZkY0elFvQzJDRmpCOA?oc=5",
       "categoria": "Boca",
-      "fecha": "Mon, 16 Nov 2026 23:15:00 GMT"
-    },
-    {
-      "titulo": "Argentina fue una máquina en el amistoso ante Costa Rica ¡con siete goles! - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVkdicm9JS2pIQ0x3VUxIUEd0eVlwZTFUOU40U0pwZk5GaGN1eXk1N052ZkRlenRoSVBUQV9SZC1OUVhRQlNwTEJmQ3pQOFlleDJOTGlvWHFtUnBPUXJPbVJuZm9ldlFIWkdtZ0g1dU5Nb2Q5VWJPRFpNQkpZZmlmOWM3SVdVSF9HRnU3d092ZUNUalNpRG5uRUZMbEFEc2FUcFU3MUxtaHZ6T2pmcjdPRXhFNFRHdXA0NERQRjdnbE1qT0tFOVp0eXg3eHhsZlE?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Wed, 18 Nov 2026 01:37:41 GMT"
-    },
-    {
-      "titulo": "De pensar en dejar el fútbol a brillar en Italia: la historia de Mariano Troilo, uno de los debutantes de la selección argentina - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb09hYW1TaldmcFRpU0Z0bERYS3NhNXd0MWJINVpoNFJwM1lDN0xLZS1GaUxxN1FtZGR0S2FueG1qcXhVT3d3R216akVKYUZxUlFDLUozNEZYTmh1bDVjcWhUM2lfMVZ2T0NKQjZvNllSMlNobXU2RENVOXhtSDNMMEw2dDJINnJSc1lvTjZJdzZiYTV0djVPc3ZjRzNlU2o0SjlsODZONDNsSG52bjdfQ25LMVV3Njc0dDVsLVJUTmgtbl9qY19ZQjR4bGtjbGVUYWRveXJCT0ZoSEMzTVUyVXdTd01jQnZoTFUzUXFwTFNSd2VhZ2o1dk5xdkJVYm5l0gGbAkFVX3lxTE1aTDY2amZWNWtVRUZJRWtpMDktWU1kVXIyYjJIMHAwdkRjT2RnRmJQbmcyVHc5SFJGS0JyMlRHRHNSYkZzM2dxTW4zR19WNm9WdmQtYU1KR2lUZzZJVDhseW1CMFhveUl0aldYZFZrNnVFYkJoM1dEamJQZHJDUk9CeEZ4dlhTXzRwd1BabUpNWkFETWE3MnVJcE03WExpenVvMjZGaG1vUlhwM1h3LWhBRzNaZ0FlQW1nWEVfQkNhQzdZeWpISE9wZEJjbUNkaElWY1A4aEVaYXdqUFg5cG1JTURHNDMtSjQ1ZW5LcWtlQVpMaGJFV1hmYTk5WnRzallKVHRnVHNNZ2pMcXlmYnRyM0hJUGhmcEliakE?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Wed, 18 Nov 2026 02:20:00 GMT"
-    },
-    {
-      "titulo": "Mariano Troilo debutó en la Selección argentina en Córdoba y vivió una noche inolvidable junto a su familia: “Se les caían las lágrimas” - TN",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZ2hZLXBhZmZ4U2EzMEViMW9CU2QwWXEzR3k0NURkNkFFbHdxYTZ0aDhJVW1HOW8yYlhXclB1bEc2RmNwcDFZOEJyMENaWDRkWnpNM2JpeHhZRzF4YmVVMExjY1QxcjQ5S0ZmY2dDbjdXZ0I4SURQY2FCOHl4b0U0YnJ1cXR3NEpVdEFuZ3RGYV8xeTk5NzFMZkNsZGx2dUthZkRxYTlaZ3pacVhCLU5rVXpOdEtzWWhfa3JrU3QwOERHdTdSX2FVdGxMU21fSHlxdDduZS1nVk1rQ1RlMUszeFZIZUk0b19CcUtPZG1aR0xveUhWUTFmRWxjU2tLUdIBkgJBVV95cUxNZWYxaFBlNW5DRUNqT1FTQzhDc1BsWjlnS3lCNlkxTEJZQk5JaENpUUVmNUdXMXBpUTdnckcxcGthaEpOdmJ4VWpLWjF6d01zN1hjY3BVSVQxMDVLTDMxUmwxWmFVNVhNa3RVa2ZCekM0NE81VU92S2R5bU41YTFIRVJPckxLTDJ3bXI0T1ZQVFVMMVdHdUhlRlF2QXp0U2VzX3FVMVhyX1lfbFg0cEVoUmN1YVpNRVgyR2J6YUZiUEVRenc2eTQxLVFjRDk1UUZ3bFhMWDJvQ3RWWm54ZWtOdnFaa1BjaV9IWFJWeU9Ob0t6Z1RiZjhpWld1cXpNSmhaVlZVVWg1SDFkT0taZmVSQm1R?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Wed, 18 Nov 2026 02:37:00 GMT"
-    },
-    {
-      "titulo": "Troilo y su emoción por su debut con la Selección: \"Es lo máximo a lo que puede aspirar un jugador\" - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWFBTZktSX3NKNmV4dUpJSEM0MnAwWG5OT1VXV1czVVpUSFlXbzF3Zloxckhhc3ZvLTRKZEpIT3ZJRnVBSWw3UkxGYko1RkQzR0Z6TzFTdXNwd0dYeEd4eUlZQm5TaUQ4MzdYbmI3YldON1lrMU9YSENZc2llN3FxSXhFQVc3LVRHY3YxbEJ3RnY3a0s5SmxCeV9aSWt3VzVCMndTQWF2Z3pHR3BEb3BPYkhVd1o5bFlHZjFjYmRLekxQQlRzZmxWby1aZEVrd0VjTTB3U29PME5abU5zMTZxZzJVMEZvdWI2eHpIYndqZU5iZ2t6dGc?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Wed, 18 Nov 2026 02:45:43 GMT"
-    },
-    {
-      "titulo": "La Selección Argentina femenina confirmó un nuevo amistoso: enfrentará a Uruguay antes de cerrar el año - Olé",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSFF3ajhlMEFiUlNvOUtQOGRSUGpqMnllWlRQTVVQN203c2ZWZXhGaWlOSDRJcjE3WGd2ZmZybzhIRmoyVGNYSWMxTk5qRDZDRWNWMEIwMG5YRFdZWmtfM3FPVnBmcS15eV9YeFUwUm5KRmk4NE1qMW5vREgtVmNpb0s5N1JRS3diS1BhVGd1SWE3LUc1TWdKM2RkQnhtUkdzczhQZ05Ka280cnBxNlI3V2ZXNW42N2p0bjZLMWl5akZlVVQxeFdhQ3VyQXZWb1p6LWY3WXlRT1FaMk5QaEHSAeMBQVVfeXFMTlVSdU5IWGFsX2xib3EwYW83U1dxWHRMYzRHTWwycTNpVzA2cmgyN1VKRUI2QnZBS0RqZDVsUFpkOE0xUEZ1MTZfaE5VZkJ5VjRYSmJFNU1ZRFFLRi1sNXh1Tk9qMG1odkR3TGJpeUNrSmc4VkNQbmtfQ2ZfQnZJMXBIYTBpX1hhSG50dDFXM2pXUlBici1EWHREbTJ4WG44SUcxZTlldG9Xb1pHcGs3cEFrbmFlWHBVVnVLM1JsSE1XNlYzWTY1TmZNNGE3V0RBWXV4TkVpY2F2XzN4NmZmVUMxbUE?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Tue, 17 Nov 2026 17:28:05 GMT"
-    },
-    {
-      "titulo": "Walter Samuel se emocionó en su despedida de la Selección argentina y agradeció a Scaloni: “Fueron años espectaculares” - TN",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS0tEU29Rdzl4OUJWSmc4b3NqaFBBU2psdXdCQTJFN0ZQX3A1Si1FVG1YLTI1d1R2ZWViZTYwdmF1Q19FLVFid2xsMkxzT1ByZzNaYWpJV2YxcFNKMTRGcDAxVVVGTl9vNW9FajAxM2RPR280UHBRUkk5LU53US1SWXJURFl0cjlCQkV5OGpYSEJVRGtvYjRNbWhGU0ZDUUVUM05PNmh1em9JYVc1YW5pYjNnUGRfejNJWFdnaTkxbjB5MFFxTjFRMFNKMVJpcHoxalHSAeYBQVVfeXFMT1E5QjhqdUVkSGtQdEhhZlZXeUhZZUxGV1NXVTdyNjlsY0hPaUJLQlZmSlRXbXZ5dmtZVVA4X3pJMHM2N2dKRTZ2aFhmam9kZzR6TWZsR0FNcGxVeGpBbEVNejlqakZMOUtDMVhna3dRaE5mNllhem81NlBCcmUzek1QTWMtbXN3REJrd19HRS1LdDM1RFlickFLRlA5QUtRY3UzX2w4blQyU0tEZmF1b0lFRnBHTmExUWJ0czR0bk80Tm1KN0puMGQyaTZOUzVMR2YxSUtHWktXT29vOWxWWlF2V1FWZUE?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Wed, 18 Nov 2026 02:58:00 GMT"
-    },
-    {
-      "titulo": "La emotiva despedida de Walter Samuel en la Selección: \"Si llegó a ser algo en el fútbol, va a ser por toda esta gente\" - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYVktWk5ZT1hwRVozSFB4SEtXQ0xJREIzcWU0NkJ4WC1ON0pFaFMxQlF1NW1EWTVPbWZteFdKWXY3QkFqVmNWZk9pNWE4V1YteWZEOTNkemxkY1R4ODh0ZlZVb00yWFhXMHhXeWI3Tzcxak5WUTh1RU5YTThnN0UyV0txNDVLYV9ZUXNBcWhxNktCdkxBTlpYWUJGNUtDUnpLMHFJOVp2bkM3M3BLR09xWWxFU1hIb0FWdnVLQkoxTXVZcjFqcUNFUkgzS0l2RWhaQkg4NVhUUjIzYWtkU216WklBTWNyNmd5ZUhPNDNURGZ4a0pzTnJr?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Wed, 18 Nov 2026 03:00:30 GMT"
-    },
-    {
-      "titulo": "Otro adiós en la Selección Argentina: el ayudante de Lionel Scaloni que tendrá su último partido - DataChaco",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa0RCWlJYN1Y3ZGFnOUxFcWpZT3d0UTFrbjdURk9pZWpzVk5SSER0UkF2cWpCZ25kSmdXNjVuYVVTRU9pWWlaYUNWQ0diSnVPendlZHpJOUwyU1pDSUZnZVA2UEtkRDN3RTR6OTZKelVnZ0xjWXFFcEFvbjh3aEZlTUJyNEJaWmgtUWpSZzkwSnltb2ZiQ0tSZmtmcVR1M3ZGLVplanI5RFlXTW9QRG5VNWpVNWF5a3c2LUdkV2ZfN1FpS1lZZS1j?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Tue, 17 Nov 2026 12:27:35 GMT"
-    },
-    {
-      "titulo": "Qué dijo Nico Paz sobre usar la camiseta 10 de Messi en la Selección Argentina - Perfil",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnJZZkxWelVuSWNfb3FEUHYySVY0X20yY2RONHl4SDdMbUQyTGtBNDE1UENHdXVZZVFNTXFETE9ISW84ejlIWHZNQnBZME5NWDZMUDN1QlU4Z1p6eC1fTC04OTMtQ01TcFZYZ1o2QTF4V2xsWWVaczlsQVRISnJlOWhHcDJTWWRDdEYwdFpFSDBtRjZfTHJtY24zLTRkU3FHMnVQWHhtUlRWVV9IaEJnYUF3SDR5MG1xeEg1R1EyWWrSAcYBQVVfeXFMT25BN3hXQkVsSXF1RW9meldUSWExUVczTHExMDJMbXpwQnZaR1lnLU1DY19JM09iY0tuMWpDN05YOThMd2FQeHhhX0VzR2Z3VExKMGUtVTktMHg5V1ROM2FjTG9qNzRRSEJSUDlBWHllZzB6UjV5dEg3VU1LZzBoS0dNZWtzQTY1LW9taml5T1FZTWRkOFFNZnFkcDBCLXhCOTFJb2RJR2NSNEdwbEotNUk0TjRmc2t1ZVZiT3NvTmtNUW5qczdB?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Wed, 18 Nov 2026 03:26:50 GMT"
-    },
-    {
-      "titulo": "Mundial Sub 17: formato, fixture y los horarios de la Selección Argentina - Diario Popular",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1h4c0RwajJTUEtzN0ZjRDZIRVNxZlZZdEo1LW1OaFlLb3oyZnBIUzN6SzJUaDBpazBSbUI2bzR5UzI5R19LVGF4dE1rdnVUSGw3UURJWWJaZXllYWl6NkhrMDg4UFBmb21VTUZJV25DeWRxbjRYUTRlWl9taG82WnhxSWxMWFI2VlNPYmdPa1dFR0lfQWJUeW90TzNJWDFCVkpqQjZvYlk1M1dNYVNGOFU3QndiY2s?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Wed, 18 Nov 2026 01:43:00 GMT"
+      "fecha": "Mon, 16 Nov 2026 19:38:50 GMT"
     }
   ]
 }
