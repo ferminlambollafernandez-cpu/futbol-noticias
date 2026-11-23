@@ -1,30 +1,6 @@
 {
-  "actualizado": "2026-11-22T21:14:45.188304+00:00",
+  "actualizado": "2026-11-23T01:42:10.747956+00:00",
   "noticias": [
-    {
-      "titulo": "River recibe a Lanús por un lugar en los cuartos de final del Torneo Clausura - Cadena 3 Argentina",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGhIbzNEYmFjOElTWVBxY3pOd0VPRWxGdW5BRVg3OUF0ZTBROW1hdHUzQnBLMkk3eWJ3N3RfcVZwaWRQTExQbFZhSlo0TzV3N3ljVG5OalFUQWQwQjlNV2p3VktsZEVMVlJTSklUMW9kREkyYmRyYlR2Q3doeDNFZklybmQycGtmS3U0dzk0VFN1NHFTWDlsaXBrLVUzWVRCc1lqT05FWlU3Ui1vdmNIb2k2dHVaS0tVS0llak10amIwVkUwVk5F0gHMAUFVX3lxTFA4SFhFT20xbV90NjJFNkVjMlVZUm5mYmVtSFMtTXRXWFpCWlJGLS04RmVLamU2TUtmeS1Eek01VVJ5N0lqYkEyRmRoSU1tU3BESEtINkRveDNPa21lT2w4ZWFhalVjdnFSVlhNX3NFZDFqbVBSYngyVGNsU1dDUGRnTFR4Yy1qYXY5eEdCYzBFYlItV0lRenNsRXNxLWlkUk1VODViVDJaNVBJdmlaSkpxNThLUEwzd2JkZ3h0NlhYc2xjekJCSFNIcjJoaA?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Sun, 22 Nov 2026 18:13:30 GMT"
-    },
-    {
-      "titulo": "River vs. Lanús: por dónde pasan el partido y qué canal lo transmite en vivo - La Nación",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa1RGLXlvWEk2NDVtSmdmMlZnMDU4UWE5UU13N3k4bUh0TVUyN3gxMTFhcENsLXM4MkNFMmhJdWtnNjA4b1J4dktWNFpNM05iOU9wLThWVFQ1b2F0RUZYWDNGdGx0QzBHUEVXZmlrVC1kRTFnaGZPczJ3U0tubnZJRE9vc2xnM3Z2Y0U4MDlYdnpLQXhWWTQtSUVUREpvSzNJN3F6SlZnd2tCM1FWSXRUS052UjlfYkNzYlFQcm9kMTlWMlF4czJQRkMtaw?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Sun, 22 Nov 2026 21:01:00 GMT"
-    },
-    {
-      "titulo": "Alineaciones de Rosario Central y Gimnasia de Mendoza para el duelo por los octavos de final del Torneo Cla... - Bolavip Argentina",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONDNCX3psb0NBbXRlTmExdmJyV3JIaHR6RDk0OUxBODdQZEJrVjM5bVJVN2kxSEN2elBFSFdvVFJGQVdMYWliYzVZalAyajUtV1lYcnh3RGw2QzktWGlaalBVaXl5b3BkSVpIMFg0blUyQWVOYUc0ZFJOakVDcEttT0p2N3duQ0N5SWNIazNpSXVOM2lzUFMxSkk4LXpzWWZ3aXNkdTh4TE84cWVxT0NKc2hZd1ZxaGRCeGxrU0FIX2MzOWpQNjBWSld1blhPbTNFbGZVTFd1cEVyWWJhWHN5NnVHeExwQXBlTjlLctIB8gFBVV95cUxNMlkydVVuZmo3N0g4WDc2WFZKSTVad29sV3dSSF9rM3BHTjhfSDdGZFBhQzBYRWNxOWhLbUNPXzhOZXp4TWJRUVpjUUVodzA4R2FaekxpUFd4ZkZRREhIMUNhTDIzeUZHbDJSYnhqZThETE5tRFpEYzlzMGFacHJjekNoWEREM1JYTDNaXzIxYUVpdk5uT0xlZGZnMHRmVkNCQXdUVEhXQjIyS0tqbTN1NGJuUFdra2djOWZYOEtzSEkza25tNnN6bUt2TXVZVUNyV3VHRWlSeWpLQ1dUTy1JYmFyWlVDa3dqZktLUHhWQk5jdw?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Sun, 22 Nov 2026 14:04:02 GMT"
-    },
-    {
-      "titulo": "¡Independiente venció a Argentinos y está en cuartos del Clausura! - Olé",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2x5R2VUMjUzd2ZMMENxMEtPV3hITERzZzB2d1BNbUloc0I4MU9WQW83bXZYb2haWkg3ZGE2OUl5TXo0RnhZWmxsUkQ3dGNJQXVDLWpWa2tvLWtpaHNfYWJWMFpzVlBZdDY1R3hxWjBMTkFGbW9NdnlQWDJua09nLVBLWXU5NTQ0X1RWMTc1TmRMNDJPdmlpV2Izdk5aQ2paSkZTaVFuM2swb3JtMWxDZU5MdVRJR3F0VVdPTdIBwgFBVV95cUxPTEVtLUVtMVJLUmpzYzJ0dkRvUldqSTd4ZVJfVnVWTjNMRTBLcGZyS2lTWGhGMG5qREF3c1c2UkgwY2dZSkhuMVpSSl92N3ZpN2YtWFBvVGFtMFcyQU1NaGdjX3VFX0wxMVVub0FyR2x2UFBraUpSdUhKMm9pVVBCSEdqaHFhU1p5bTVZMExRbFBzRENjZC0tek1KMlRWNVNjd05VcURBa0RPM1Fad0FZX0NXcy12MFQtX1hWclRGc09Wdw?oc=5",
-      "categoria": "Fútbol argentino",
-      "fecha": "Sun, 22 Nov 2026 06:15:51 GMT"
-    },
     {
       "titulo": "Auzmendi recibió el interés de otro club del fútbol argentino - Mundo Azulgrana",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT2tNbEJ0RWxCVS1Hc2lTb295OWo2elcta0NVTUk4eElxQVQ1dXg5NjZDaHp0MTZxU0pnNFBzYkc4ckkxbkVJZmFRTktUVFk1TGYwbU50eWpNcE9kNHdwbF9zaW5tQnBVcVM2OUd2eGU1aWdTc0dNZUFPTU1hb2FJbHJIVUZmTUJ0YlZvZ2RuMTd0Q0t3UGRF?oc=5",
@@ -32,28 +8,40 @@
       "fecha": "Sun, 22 Nov 2026 16:00:00 GMT"
     },
     {
-      "titulo": "Racing: Nico Diez, técnico de Argentinos, sobre la Academia - Racing de Alma",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51c1hLSlg5eVFDMGQyVDhfbC1oOXdMU3JBZnJJTmNRUzlWdW8xNm9OZTF5ak9nN1JwVElIdlVKOHFJOXpMdHA2RUdUZHZCai1CaVhFS0VXMkZkZ3ZkWTFfZENJVUNJbmRDblBLYk1fd0Z2RUNGRTg2MUx2NA?oc=5",
+      "titulo": "Fútbol libre de riesgo, EN VIVO: dónde ver River vs. Lanús, por TV y ONLINE - El Gráfico",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmd2YnM1SDVVR2x0YVhKbFJBcE5XcFdBZUM2NnBUaldLN1hYczFSUWljQnUzTV9RUnNNLXFzZFJNeVZpZkRyT2JBTGpXVzhjcUpjZXBfNHU5VVhqVndSRlg4YXo5Y3hhZnZXbFZUY0xwTE1jWUxNWXhTeFpjbzJLdlBnUjI5M0JPdm9ZcDNWMXUwc3pJb2pZWlVIaElFWEhMZ2Mzd0otc1dGMFh0aG1icTIzUXJNeEcyMlcwdXRvWUlIMi1DNGFmRVEydDd3UQ?oc=5",
       "categoria": "Fútbol argentino",
-      "fecha": "Sun, 22 Nov 2026 11:02:19 GMT"
+      "fecha": "Sun, 22 Nov 2026 21:11:30 GMT"
     },
     {
-      "titulo": "Boca campeón de la Copa Sudamericana: cómo quedó el ranking de títulos en el fútbol argentino - La Nación",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVlyVUhvbDVBWEdnWDBVak1pNU1FVXZyS01PNF9UcVJlVGJidWF2cGhxMlB1eW9ORkRtOXc2Q05aYXowS0dTUzlwX2lLV0p6QTh4Wm5BcGJpeXVQV2k0NkZhR054Q1lQN0k3SFB1dUtHUTAyQV9mam1MYlFfV1RDNjNjSTVDOXU0TnJNMXBfbXpWMW9XQVNZYkVyMUhnQjMzbEFHOExEd21ZVHl6VUE0b0RoNURPbjZVRFpXdlVKWWRxd1VvTkJuSzhVbE41WGVaeDdydXFpRGhRT0NsY25La2U0VQ?oc=5",
+      "titulo": "River y Lanús igualan por un lugar en los cuartos del Clausura: seguilo en vivo - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMnFDZ3NDVVoxSVROSUk0OUJ0VVVrcXFiWFhhRHg2WThyekV1c3d5LUFqMGVzbzVwNGxpNXFYUmhkRkVGa0N0UnVMSEd2SVNaRDNkZExrOHFtYzRLaUM2VGJWWEdTR010ZDVZNG1TU09ZQXhMNUhlTXJmSmt1N3g3Zl9lOWFvQjFsRjVPY0Zxa3ZtTTFyUzlUUU1oUzlyeWMzd1NzdFI4U1Y2QlhlSmtaV1VObzZIeFBfSHVHRktWaW5zNDJZeXNMcw?oc=5",
       "categoria": "Fútbol argentino",
-      "fecha": "Sun, 22 Nov 2026 01:03:00 GMT"
+      "fecha": "Sun, 22 Nov 2026 22:37:34 GMT"
     },
     {
-      "titulo": "Qué pasó con Chimy Ávila antes del triunfo de Independiente sobre Argentinos Juniors - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHRMam9yakRjS3BEM0dRMDFCR0w3Uk1ISTN6R0EzZlNIQnZGbmJmTU0zOUV4dFc0UFpDSWE2bEw1TEt0VU9MV3l6M2hmN2J1bndBYlFiQ1lyX25jcnpwcF9QVkl4ekotZFpMR2syNEJoWDRWM2MyMTVLOE5WTHlnbld2NmVhTUlyLUl4UHR1bUpmUWRHYXFFZzlNakFLQURRbjhrRTlZaGZnYnY0MzhYc0hOZEs1V1ZFR2dNWjJTVGJFOFJaaWQyOFBKNXk?oc=5",
+      "titulo": "River sacó adelante un partido difícil ante Lanús y se metió en los cuartos de final del Torneo Clausura: reviví lo mejor - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZzNTVkJGcUhvOFBhYVl0VkVGelBFLVpENTBnamtZYUN5cW8xVDJHeXNtME1CMFc5RTBGVXRUZG9oakhLNGxuc2dqbGlBUjV5dFJYSGtjbDBXbWtrLUhGSlhjOUxUMUpuVnI5TGEtRVVweEpsOE52Z0xGT1NnblBFUmhGdlpMOVFzeERTal9RWExmbF9MOUNvTGR3ZkxvMmp5UmtwQjBFemRkQXhXNlRzS1RERlJQRDdDUVVxMG5GelhUNlJQ?oc=5",
       "categoria": "Fútbol argentino",
-      "fecha": "Sat, 21 Nov 2026 21:56:07 GMT"
+      "fecha": "Mon, 23 Nov 2026 00:18:27 GMT"
     },
     {
-      "titulo": "El Campeonato Argentino de Fútbol para Veteranos y su desarrollo en la ciudad - Ecos Diarios Necochea",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDU1LWJBUFJhUU1VNk5taTZtN0VZdFhGVHNPZkdNTGxuSGxoaEN2S3M2NmZXamNQSUFOOThyaENCVUd2VEtsZUc0OWU3MUZIYmVLZTVmTFB6QmZSRlREYzFUREdZanNGQ2V4Z3ZGSDBvZTJ0bk12MjFMbW54bGZBWXBNTUx3a29IS1o4aS1QTE12Tk5kN3VBVk5tTFkyczhX?oc=5",
+      "titulo": "Instituto vs. Huracán en vivo: seguí el partido minuto a minuto - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTVyRlVqSmk3TXdMaElTS1FrNnRwYVJRZG5xUWkzbUN2Sm4xSWtJYUZfalBlUTlHVFNUbEpnM2pzQjlGZF96MHliblYyR3VNdzdPTW9tNG1nX2dHZlVGWGdrQmRKM1pwbGZNTmVNX0swMFpMaGJFNVZ2NG9LOEhRUkU2X1BKQ2VCeEFveVNCV1dqODJEUEtXZXJxOThqVktaRjM1eFo4b1JsSGk4OWM2cjZ0Z0JxbnhjU2M4X0hnX3lBTWRq?oc=5",
       "categoria": "Fútbol argentino",
-      "fecha": "Sat, 21 Nov 2026 21:40:54 GMT"
+      "fecha": "Mon, 23 Nov 2026 01:40:35 GMT"
+    },
+    {
+      "titulo": "Instituto pegó de arranque y vence a Huracán buscando los cuartos del Clausura: seguilo en vivo - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVWxqMVUtRWhmZDhqU256b09mNm1keFpqeHFFajcwM0kyZTZGZERYNXFpNGdlSFd6ZGJIS2lObW5YVlFVNzRyWXlWQ2dwaUJQakpVQVpFR3JVQ2d1ZjhkRzdkM19jVVBHdnhmUGlFOG45VkZJRjd2cmxub0NYV0RQSjJISGJTd2tkcFREbl9MME1qVXY1VEtVaG4yQ3lHUDVNLVB0d1psTFJZWUlzdVM0Y05pbEZHVzdNd3hrYTlYZ3BabS1XLUMyOTdZdUtNdFk0M2l2Yl9xdGs3djDSAeABQVVfeXFMT3RyN3poNGFpOC1pWEQyeEF2ck1GYlo5d1hCaG9pS185UEFsY1RCcjVpaXdoR2RtbTBoY3VJT2h6MFoyYTFNbUJmcURMRHZqdmJFT3lLQnRGUWhIdUhnbWhRRFF4T1NPQ1Q5clJVVzVPbFltd0xnaFdTM2FLdEZtSklWY1BiZ1dMOWpVQi1Kcnp5M2tidndfUTl0SDd6REl6R0NRb1k5V0RIZ2J3U1VYcFdkZ1VHNmVydFBINWhNQVBuaHh4bE0yQU5zS2RveVhZT2FXeXF2cW1hS294OGYwa3A?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Mon, 23 Nov 2026 01:15:40 GMT"
+    },
+    {
+      "titulo": "Instituto vs. Huracán: TV y streaming para ver el partido del Torneo Clausura 2026 - La Nación",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWVBPcG5QZ2xkZlJMQ0xwWlFjZFZxZW5rSklHRTNEZUJBNWc4MFRVQ1lwTVBycjlPRmpXVUlkaGtDdTkzUmlQclpwWnZMM2c1OTlaYTVaRUlLbF93Mi04VWVsTktzWWoyV2g5RjFkM3lxZUtNakRzemhZQS1FQ0lFVVVSZVdGYmVpYnA5UkpzckE1OU13a3ZvcHNORV9GRFJOQUY0RWxWWVRnQ000RUFyTnJlSEt2azBDSml5azZidXNyUVgxU204d1lOX2EzWll5RjJ3?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Sun, 22 Nov 2026 23:09:00 GMT"
     },
     {
       "titulo": "Ver en vivo Rosario Central vs. Gimnasia de Mendoza por Fútbol Libre, Pelota Libre o Xuper TV es un riesgo: dónde hacerlo de manera legal - El Destape",
@@ -62,28 +50,34 @@
       "fecha": "Sun, 22 Nov 2026 15:33:35 GMT"
     },
     {
+      "titulo": "La llave del Clausura: Central se clasificó y será rival de Barracas - Olé",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEpWYWZlb09pQUU0RU8zU2dmWjhVZTZyYWg4cVg1dlMycVNkeWdET1dkRDVjUENKdndoRm9JMWhJd2hyYzVZcHhDSHhfZ24zZDdqdDVvUHJDY3dYR3I3ZW9VbDlaWW1WeWJHX3czYVMxUlN3NXJOVy1HUnhEQkpOTjh0WWNoSXBGZXpFT1NneXgySGZPbUHSAZsBQVVfeXFMTTMwdkYxZVpWM1M2OHJzdDBVdGRqX1ZrQ3FPd3hybHI3bXZJOWpsX3hXdkFMc2ZYSmNQd1BxeEs5T3NIUFNrRFplNU9XR044aE56YjhiTVpZWHNUOWs4UFFaNlEtaUQ4ZWtHQ1VGU2hRRzBxSGxOdEpwRUtyYk8tTUpYQ3FqVy1EbkdobVpLaTh2SlhMaFJkX1JtQVE?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Sun, 22 Nov 2026 23:11:12 GMT"
+    },
+    {
+      "titulo": "Rosario Central avanzó a cuartos de final tras vencer a Gimnasia de Mendoza por 3-1 - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZVdKUGp5V0VUNlZUUHE4Ti05cFFBY2tfazhXTm55YkpSNktKeUEwR0hDMTZINVJSbVpDUllkT0tSUjBnRXk4NFJjMnZ3YXA0T2dnd3FBbzRGX0hxQUZqYjNYQnJkNEV6eTZVTVNTWEJZTWlyT1NvNnVHdFZXc1paMmtPVWY5elRGOGNxLXI1V0xBNUV6WkFKR0luLV9SZFVCRVRyd2lUTkhoVWJDRHFfaFpZYVB5UGxtN3RLbXlWN19pXzRUWXdWcdIBzgFBVV95cUxNTlpJZnQtWDlNR0JWUm5XQndMRGptMURfTS1WYUthTjljU0hlei04UnlSUWlLWWpKUEJ1NnJjc0F0eWZER2JOYjZJQ2tqeDFrdzhRUEZ4RXJRemNYRmdBSjVHOWZFbmVjVTFUS3RVbUZiM1ZqNkFfRHM0bkxZdzFKd1BWX2V0QVRIRG5YUXR3S0wwUmpqMFp5S19NcTctZmZ1cHlNX2pwRHVONHE4YjZPS3ZJOU5wMDVScVBoM3FmQndWNWpSV1NOaGpScnVYQQ?oc=5",
+      "categoria": "Fútbol argentino",
+      "fecha": "Sun, 22 Nov 2026 21:33:14 GMT"
+    },
+    {
+      "titulo": "La agenda de la TV del lunes: Gimnasia y Newell’s juegan por los octavos del final del Clausura - La Nación",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMHVQS1RwQmlEQzlFTk1JbFZuQjlzT2x3S3hwYnRmM0ZscDdRaExQOExiSGlvdjk5Ul93d1pDc2lHemx6MUtWWFl5emtVMm83MERaLTBqdldUZ2ItdXplMWpwQmlub2xRcXU2R0I5YmxIZkJHVVZSQWF5azVKTkMxemZOOF9RTk9FWDNEa1hKYUV1RmlwbU5iWnFBSENKNHBDWWhLT3hsT0hqVmVEZ2xCNlRDZkJ2YlBWM3FhWndrNHhxeFlnT1lUbjhWV2M3VlYwdzFTSngtSWdPamRFZHZ2QXltekY?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Sun, 22 Nov 2026 23:30:00 GMT"
+    },
+    {
       "titulo": "Loyola, Gimnasia y El Pozo, los grandes campeones del Clausura - El Litoral",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRC1URjZDTWhZN2U0OEJnY0dpYWVwZF9oWWlKNEtuQWpJeXp4Yjk0SnNjTzNHVnEzMFpCMC1CN1lseWhGSWlIZGR4Q1dhZnNibGRVa1RqczFOcEtfRDBRbEY1aEU1dDhwelpTQTlMSXRhVVlrMDBnclB5TENXOGhvWjBoZ3RISHVWNjBOMFBoTHVVRV84WUJMOQ?oc=5",
       "categoria": "Gimnasia",
       "fecha": "Sun, 22 Nov 2026 18:38:12 GMT"
     },
     {
-      "titulo": "Gimnasia vs. Newell`s, EN VIVO: dónde ver por TV y ONLINE - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOelc2ZHZ3TndYSDRnM0xXdWMwVk53OFV0VWI0bm42aGxBVFRiSlkzNUN5UGRBZTZTMWNNT0twNTZDNlhOMUNZMEloV1JtQk5JM28zUUFGTFJ1VXlQTk92RzVZZ2dJd1JWbWxpczVyemJueVNqWVNacnM5RmlmY0xRbVFYQVhtZ1BKNXJyM0szdk8xd3BsbGM3WlVZV29MZFpjbDNzUE1ZOTdQZm1XOVhWYjZCUnhaSmhOTE1yOQ?oc=5",
-      "categoria": "Gimnasia",
-      "fecha": "Sun, 22 Nov 2026 20:00:04 GMT"
-    },
-    {
       "titulo": "Resultado de Rosario Central 3 - 1 Gimnasia y Esgrima (22/11) - 365Scores",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXZVeTFwZW9DaEI0SG9TdkNhR3pVbGlxR3ByXzEyQmJVb3dEdFpOdXQ0RHp2VVNaUmVOaGc4NUhQRy1RVVVBTE1weVI4a29uVmh2U3hxVU5oZ09BY1lyalhzQ2oyNWZwdEMwbG84eEl5Nk0xSlNWa0x5ZGxsc1hSblJvRncyMl9YaVNUaWgyLWhQMHZvR3ZiMFNWV1VpOUhSUnJBYmQ4QWVtVzdIb1E?oc=5",
       "categoria": "Gimnasia",
-      "fecha": "Sun, 22 Nov 2026 19:55:54 GMT"
-    },
-    {
-      "titulo": "Gimnasia La Plata vs. Newell's Old Boys, por el Torneo Clausura 2026: día, hora y cómo ver online - La Nación",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUFZkTUZKTjVOX2JUSF84YngtUDU1YS1jeVVnR2YyekdOMk8weU9ueE5FWExRRDYzaXNnaVhETnY2S0ZocndJVy02bVhSU3ZGWjMzdUZVWERzOWRBdDdHNk5uUjhlclpGVVFjS0NLUFR4bk9vQUZtTHFXTzcxVktEVjF6aHhuQTZ0cFoycDJpR2lRcG9oX0J2TGFRNHhyZE5Sblo5MThUbW9ra2dPLWt6QWFyT0xlUUd6RGdRYTZlSUZ2b1lSYTJIYVdTZFBOWDYyTkl0bWRQRXFBcGxiVE15QzRoQQ?oc=5",
-      "categoria": "Gimnasia",
-      "fecha": "Sun, 22 Nov 2026 05:01:00 GMT"
+      "fecha": "Sun, 22 Nov 2026 23:01:40 GMT"
     },
     {
       "titulo": "Ver online Fútbol Libre, Xuper TV o Roja Directa los partidos de 8vos de final del Torneo Clausura 2026 es ilegal: por qué buscarlo en Google es riesgoso - El Destape",
@@ -92,16 +86,22 @@
       "fecha": "Fri, 20 Nov 2026 22:39:55 GMT"
     },
     {
-      "titulo": "Las razones que llevaron a Atlético Tucumán a elegir a Pedro Troglio como nuevo DT - La Gaceta",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMnl0VUdNaktrNzlYeWxIMEJkS2VUT1JSaDhJeUdlR1BqLTVxZG1GbXJaNi1hTmNzamZ1ZlNtZ1pSRjZlQVN3cUNhSHdFakVMaWY5SmNTMWdVLWNsaUJ1WVZJdHppLWhsZmo2SFpoQnFfMmlncE9Od2FhZ05nVnFjVDJoaUhvOG82Qy1DeXlHRzVXc1o5SzRqdHBJaV8zbWZsWDhsckVWSzZyZnlqdGxVR3k3Y09UeENJQS03Tll6enrSAcYBQVVfeXFMTU11X1FvVldrZ1Z0VV9SaHVzU1NlSVk2RVlOQnZ3SDhDRVJKQVJHeEpPX093TVpYalhhN2pRMlVhcE1uZWctMlZwV0RGNGpWellPRFFIUzR0MExjbG1tVHZlb1lEeHJkLVpvU3RWaHE4dTlYaF91cWRNanhMT1B2LWVNYjRaZ1FXNmRzN1NoNWNRbHVYbGliQ29QVldfX3I4VmpqamhaNERDZzdlOHdsTHc4NG1nM0VzVzNfRVpqSnRKdEFzd0dB?oc=5",
-      "categoria": "Gimnasia",
-      "fecha": "Fri, 20 Nov 2026 17:55:48 GMT"
-    },
-    {
       "titulo": "Pronóstico CA Rosario Central Gimnasia Y Esgrima Mendoza - Liga Profesional Argentina 22/11/26 - SportyTrader",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZU4tdU5qdW5BZzZ0eUdKcVZPejR1SWxIa3ROcW9wVmZTTHQ3aVYwbXI0cklMRlZmd2YxbkVfb1ZGUVhWYWE3THJsMXZyRC12QUFteGRqMXR6VG5qRnA0SHEzTmFLdzJKdVcyZU5HMG5fU2JKY0Q4eVFNQmxXbkxnTHJDelhhQkJsYi0yNkk1QVBtN1laVDZVZU5n?oc=5",
       "categoria": "Gimnasia",
       "fecha": "Sun, 22 Nov 2026 11:00:00 GMT"
+    },
+    {
+      "titulo": "Gimnasia vs. Newell`s, EN VIVO: dónde ver por TV y ONLINE - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOelc2ZHZ3TndYSDRnM0xXdWMwVk53OFV0VWI0bm42aGxBVFRiSlkzNUN5UGRBZTZTMWNNT0twNTZDNlhOMUNZMEloV1JtQk5JM28zUUFGTFJ1VXlQTk92RzVZZ2dJd1JWbWxpczVyemJueVNqWVNacnM5RmlmY0xRbVFYQVhtZ1BKNXJyM0szdk8xd3BsbGM3WlVZV29MZFpjbDNzUE1ZOTdQZm1XOVhWYjZCUnhaSmhOTE1yOQ?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Sun, 22 Nov 2026 20:00:04 GMT"
+    },
+    {
+      "titulo": "Gimnasia La Plata vs. Newell's Old Boys, por el Torneo Clausura 2026: día, hora y cómo ver online - La Nación",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUFZkTUZKTjVOX2JUSF84YngtUDU1YS1jeVVnR2YyekdOMk8weU9ueE5FWExRRDYzaXNnaVhETnY2S0ZocndJVy02bVhSU3ZGWjMzdUZVWERzOWRBdDdHNk5uUjhlclpGVVFjS0NLUFR4bk9vQUZtTHFXTzcxVktEVjF6aHhuQTZ0cFoycDJpR2lRcG9oX0J2TGFRNHhyZE5Sblo5MThUbW9ra2dPLWt6QWFyT0xlUUd6RGdRYTZlSUZ2b1lSYTJIYVdTZFBOWDYyTkl0bWRQRXFBcGxiVE15QzRoQQ?oc=5",
+      "categoria": "Gimnasia",
+      "fecha": "Sun, 22 Nov 2026 05:01:00 GMT"
     },
     {
       "titulo": "¡Agenda Tripera! - Club de Gimnasia y Esgrima La Plata",
@@ -110,70 +110,22 @@
       "fecha": "Fri, 20 Nov 2026 20:07:49 GMT"
     },
     {
-      "titulo": "Contra las Diablas de local - Club de Gimnasia y Esgrima La Plata",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tZTYwY09pVkMxNXRBRFhxX0NkU3U1R0gyQnVFc05XWVZ1Nk9QZE9UYThCZC11QUU1NmpKZGRGRmduNExBWWlBd1NsTW12amk0elRGV3VTRDFtQ0hXOTN3Z3VUT0dhdEE?oc=5",
+      "titulo": "El Lobo ante Newell’s por los Octavos - Club de Gimnasia y Esgrima La Plata",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ENWMxWjZNNzlPQ2JBUUIyTlZxdmVDMmdzVlo1aXNtM1ZESmRzejFlX0U3bFM5MnlfbDFwMU9oeTFMNHFfRDNfTzl1YXdjZXNJY0F2VUtRUG9FV3phY1BDOTRRTWUxcjBGWkRHM3l1VzI0NnM?oc=5",
       "categoria": "Gimnasia",
-      "fecha": "Thu, 19 Nov 2026 16:53:50 GMT"
+      "fecha": "Sun, 22 Nov 2026 23:14:11 GMT"
     },
     {
-      "titulo": "Las Triperas cerraron el Clausura con un triunfo - Club de Gimnasia y Esgrima La Plata",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkpOc2twTjlsc2dfRFVJTVFZZXE2QzVVaW5aQXRqbzUzSUY1N2lVWWg2dEdVQk1kX2VqdnR5Wi1ma3dZY2RWSnViM3lENXloNGpCNEpibDU5bWpOU1YyZnpTSjZHSEtOaFpPVGtrOWFYTVBhTFo4VnpCM1hRaXZWRzFpOA?oc=5",
+      "titulo": "¡En la recta final del torneo, visitan a Ferro! - Club de Gimnasia y Esgrima La Plata",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PeG5BTlZLTFVYczV6dWZnZTUzTGlSa3FVRHFFdkJkdWMyTzA0UVhWWFpQa1F4dkROcEkwd1NxLVVfTHlXQzBTWk1FdHA1cDdpSXRCY3RWVEN6WlB1Tk5BaV9PZWN2NjZhV01VRC12eG81YzNsbU1BaFFaOU0tQQ?oc=5",
       "categoria": "Gimnasia",
-      "fecha": "Sun, 22 Nov 2026 00:38:03 GMT"
+      "fecha": "Sat, 21 Nov 2026 00:17:50 GMT"
     },
     {
-      "titulo": "River vs. Lanús, por el Torneo Clausura: a qué hora juegan, formaciones y dónde ver EN VIVO por TV - TyC Sports",
+      "titulo": "River sacó adelante un partido difícil ante Lanús y se metió en los cuartos de final del Torneo Clausura: reviví lo mejor - TyC Sports",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZzNTVkJGcUhvOFBhYVl0VkVGelBFLVpENTBnamtZYUN5cW8xVDJHeXNtME1CMFc5RTBGVXRUZG9oakhLNGxuc2dqbGlBUjV5dFJYSGtjbDBXbWtrLUhGSlhjOUxUMUpuVnI5TGEtRVVweEpsOE52Z0xGT1NnblBFUmhGdlpMOVFzeERTal9RWExmbF9MOUNvTGR3ZkxvMmp5UmtwQjBFemRkQXhXNlRzS1RERlJQRDdDUVVxMG5GelhUNlJQ?oc=5",
       "categoria": "River",
-      "fecha": "Sun, 22 Nov 2026 21:09:20 GMT"
-    },
-    {
-      "titulo": "Qué pasa con River si Boca gana la Copa Sudamericana 2026, ¿libera cupo en la Copa Libertadores 2027? - El Destape",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRndNSTFITjljdGtyTnotVTV4U04zLWhKWjctQVZMYmRCenhmRV9EUGgxZ2l1bmJ6Vjl5cW1NaEMtSGlKenA1VWVMLTBTaVZjTzVQX3RGa1FndmFjSmJEMnBTOWtCR1dfdFliYU9BQUlPN2Vidzk4MkRoYkZMNVdTczVoZE44dHpkNkNtclUweG5jeTQ5R1NrQXdPU0lMcEJSVHVZNU1zWHJSMTFYR3hWb0VENm10NU9yYjZMbzBRa0ZKMHZ4MkVyd1VCMWFzMldQaC1vSmxxUzZ1VXPSAe8BQVVfeXFMTXVnWGVwTHh4NDRPNmdXTzlIRmpZRUNWTVZ3SW1mZlZNbk1talllNFFha1dpR2x3X1NCWnFZY29BNTAxUTNfbXZTYWtzN1ViNHVORUYxTW9PVTBFQ1ZvVVBwSjRWR01GaHplMUtoX3VEMC1JUUtWRzhTRFpEMURFdkFLWU5KcjhqM21tT2tPSG41TVQ0a1plczV6T0lUY1BMQ0FMSjBXODdWLW93dDJiWGY4ZWhUSGJSWHdmblF2VnoyeXNiN3prMXU1U093V2x4dGs4TTR4R183Z1U0MG9ZSkszY3FRWG9yekFkR0VhNEk?oc=5",
-      "categoria": "River",
-      "fecha": "Sat, 21 Nov 2026 16:01:04 GMT"
-    },
-    {
-      "titulo": "Dónde ver River vs Lanús EN VIVO: canales y streaming de los octavos de final del Clausura 2026 - 365Scores",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNU1rR0psZlNHbGdoLThlWjdyZmhmTF8tbWdENDJ6aHR3bE1wUTlBVUY3T1RfSUhKYUhmaWMwSkdLODBWdW5FT3FlRUkzcXY2ZEsxV2hZczNZd3JRUXZJc0dkcVAzRDI1c2RxVHlNY2NteVZVMDVLSkFmTlFDd0w3UQ?oc=5",
-      "categoria": "River",
-      "fecha": "Sun, 22 Nov 2026 20:15:03 GMT"
-    },
-    {
-      "titulo": "River Plate vs. Lanús EN VIVO hoy: resultado, goles y minuto a minuto del Torneo Clausura 2026 - Canal26",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZlVxMWFOZ1d5ZExMTVEwWFktZGxEa29jODRxNXFIek1xc1RvQVNRQ1V3TEJDeHkwVl9WejB5R1ZER3Bid0NHbU8wSFAtVHJhNklUZGd3TXhoRFRvemwzWkVkbEdUeFZ5VG4tNFFtbGxmdjE0UUZlb09SSXVuUGpQU1JJVFlEb21GbFZURWNLd0M5Y1dhMnU4NE1VbDd2bXVmNWNra3FjVXc3VjJQbGNYUE5WMFYySVotM1hpN0ZqYzVxODJjeTdoSF95ajhZOGFPaFdfLTBuVnNiMTZBWWk4aVJxMi0?oc=5",
-      "categoria": "River",
-      "fecha": "Sun, 22 Nov 2026 21:00:47 GMT"
-    },
-    {
-      "titulo": "River recibe a Lanús por un lugar en los cuartos de final del Torneo Clausura - laGacetaOnline",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0ctNFkyQVJ0Qk5aX3c2N0dFMW1CUllBYkk0dk1HeDhxWG5TNGNhUzFmLXB5eEhYdlF3ZE1ELWFJMTN3cExoMk1ZS1EyYmdBYUxfUDg1MVNPSmo3bkhmeHEtQVAyZ29wQTRLbnB4bmtXMDlHbTJad0pXR0Y2M3JUQll4a2tzdzZxdHk1Ri1EZ0NaWUhOaHNmbm02OTE1ME9Tam0yc045WmFjT0FwM0NzVDBGYVgzeldw?oc=5",
-      "categoria": "River",
-      "fecha": "Sun, 22 Nov 2026 14:31:22 GMT"
-    },
-    {
-      "titulo": "Casi 100 años sin ganarle a Lanús: el historial que preocupa a River - ESPN Argentina",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXlhM1hXRTlQV19mTjZjNTFxWDR5Nmh4UTk2Q2RzWjRqenkwWW95OHA4Qk9kQld3OEZZaThqTkhYazcyc3V6NG5aNmt6d0JiMVRFQTB0RTNIbElSdmlCNC1qMUlWd1FHSHdTSFdoNFFIcFZpenVuMVdiTW50Vks3TVhaRlowRHZ5Qk93QnU1MGt5OGhiZWtZOUR6eVMwYmlhLXFwRTV5VjFsMmpobzM3ZmlsN2g?oc=5",
-      "categoria": "River",
-      "fecha": "Sun, 22 Nov 2026 13:00:00 GMT"
-    },
-    {
-      "titulo": "Por dónde pasan River vs. Lanús y qué canal lo transmite EN VIVO por TV e internet - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMG1CRmJwSGlrRk5WOHl3ZTBxNGJZQkNUVW9odmgxZ29ZYUtCbW9SdHFwRHU4eXpDV1NaTVh5RlAxd2J2ZjJaeHhLbnprN1A1dUxlUzduS0xTdWs0R2wycFF4bjlqTWNCQ3ZKa0J6R0NwbWNWaU1mUjBsOXhJbVBicVNTN1JKWHJ3T1J2X2kzRXZ5cFlpcmMzUWRIR2cxT3N5ZGljVndON3VhTzJsVDVlZ0lmTEJYak5LbXpZeG94eHJmbzBBWUxSN1I1RllkQQ?oc=5",
-      "categoria": "River",
-      "fecha": "Sun, 22 Nov 2026 20:12:27 GMT"
-    },
-    {
-      "titulo": "El gran momento de un ex River en La Liga de España: hizo un gol y dio una asistencia top - Olé",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRE9LWU1ZemtqZFlKY3c1U0tHZWtiUE5ZWG44Q0JwcXFMb3NHRGVINm9fc05OSGxlamhDZkY0alV2MWE5NUp6bUh1c3l3LXJ0UUJLaG9jdVBCRDZFQlJtd3ltM3FLQmI1ZTdIVWl5a3plMGVpbDNObEctOTRMZFVGaWw0THQ4MmpDWmRqVTNYWmNUajNGdjBkZ3RIMlJxTzZ4bUpUd2pmaU9wdmc5S1E?oc=5",
-      "categoria": "River",
-      "fecha": "Sat, 21 Nov 2026 16:29:19 GMT"
-    },
-    {
-      "titulo": "Ver en vivo River vs. Lanús por Fútbol Libre, Pelota Libre o Xuper TV es un riesgo: dónde hacerlo de manera legal - El Destape",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVXhxVldDZ2JRRGEza2VXUG1DMDhzX3lvSEZLM0xuT1Rodm9IWjNSVjNIcFkzVVhkRkhrVV94UlpORF9VbU9nanJ6OE04TDhpeGJnTGpBZmZSdHl2SklBQWtHcjFLdGV5dXpBMVFBVTBycXhVNFpJdjRXWjB1OG1pWDNVUXhtSU5CMGVLNEF6bXlKRjBBVWdvMEktVW9rbHM1TzNsWFoyV1RiSFNPSVBKaWtmMXU4YkZDNkVLVUVlX2ZTZ3pVMHF5MEJoMGNwRkxOLThsWTJZUjVoT3RNVTBhdWJrd3RzaFZ3dmFN0gH_AUFVX3lxTE1WMV9tbXRPUnh1WWFTQmcxVThVb2NHOVRIcFZjV3ZRcnpJSHdJbGhFMGNCb1JTbkpzc2N6S1UzRk0xenFyZU94R0lJemxTMlNzcVhad0xYY1dsbTNha2lBQ2RvSEhwX2tHZkhCODgydC15TldWYTA1bXNGVFk3RWJIUlZ2emtmSmlscklPdndEeXEtTVNDNGo2MGxWOUlzR0tBVUt1V0t1Xy14RDZIc2ZRcGtiYnNYbnptSlVvTTFQOTZ2NzJMQmpzUW5PUVdsV3c0M3BFVXA3VHJKeHAwUFpvb04yTWdGMHhPdWZldWtVSEhKM2x4cG9lUThCM2NNaw?oc=5",
-      "categoria": "River",
-      "fecha": "Sun, 22 Nov 2026 16:35:04 GMT"
+      "fecha": "Mon, 23 Nov 2026 00:18:27 GMT"
     },
     {
       "titulo": "Fue verdugo de River en la Libertadores 2024 y ahora deseó jugar en el club - TyC Sports",
@@ -182,16 +134,64 @@
       "fecha": "Sun, 22 Nov 2026 14:23:17 GMT"
     },
     {
-      "titulo": "La fuerte autocrítica de Eduardo Domínguez tras caer ante Boca en la Copa Sudamericana - Cadena 3 Argentina",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVTBoRFB1emtoYl96YXlZRnFib1BmU0U1VWpXa25zUmJDOUNxaHdrWnZCSUpnVndrWFg1MmJfbFBtcndTYS12Z0QzUDQtWjZ3ZURtbnZkcEk4aTlXTXdqR3VlaUY4UmhlVGVOME9wNi1VRHFHQV9NWDJUSW1NR0hpNlN0Y0FqV2dqU0Y2VWF3SzVlTkpHbzBRcnhndGVDX3c5ZFppbG1MYXVSOFl5WEJFZGdjN0p5YnUxbmk5RTFfWnRkaDB6RzI3RGw3VXjSAdIBQVVfeXFMTnU0WllfWVJyOFh1TldDQ1F4OXdWa1J0YU5GYmNUQ1ZJbXYwMzliTzQ3TjNzdmtyamFXc3dGeTVPZHRyQ2ZqV2RMTE5DZ1U3VkVzYVpZWFo1cndnMWRwSGZGckRKM0dtWGhOeFBJcUlBZzRjeEFodHpOMjlZVFZ6Ul9IalNqOTFwUFVmdzREVzRrUllFNnBsaEhlNXpEX0hvZFJYUXRpd19xZExZclZxdUowaF9RR0xmRjViTG1yYmdiU2ZXanB1MHFXRzJrS1NxREJn?oc=5",
-      "categoria": "Boca",
-      "fecha": "Sun, 22 Nov 2026 18:20:40 GMT"
+      "titulo": "Dónde ver River vs Lanús EN VIVO: canales y streaming de los octavos de final del Clausura 2026 - 365Scores",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNU1rR0psZlNHbGdoLThlWjdyZmhmTF8tbWdENDJ6aHR3bE1wUTlBVUY3T1RfSUhKYUhmaWMwSkdLODBWdW5FT3FlRUkzcXY2ZEsxV2hZczNZd3JRUXZJc0dkcVAzRDI1c2RxVHlNY2NteVZVMDVLSkFmTlFDd0w3UQ?oc=5",
+      "categoria": "River",
+      "fecha": "Sun, 22 Nov 2026 20:15:03 GMT"
     },
     {
-      "titulo": "Cuánto dinero ganó Boca por ser campeón de la Copa Sudamericana: los millones de dólares - El Destape",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb0RDaXEwZFNpS19pR2NzbENCOHpjN2ZsTlBsNk9UcmxCajJoNXl5b3g4Wk1zVTY1V3Nwc1ZWVy1KSTBRUDFEY0h1YldadFJrRVBsSC0zQmRCNEF2VmFfVUVZbjNQUUM5OUhENFc3YUNEeV9LenpySkt5eVBsWmM5WEEteGJQbWQ4d0UyampCblNkMGs0ajZ6SU1GVGtvN2taOTRtUUlVbVJxczhfS2FSRkg4Zl9CUXA2UjQxVnJFRDR4MkEzRHpvbFFJVGPSAeABQVVfeXFMTnBvYkdsYi01ZmtscFVuNlp3XzFpM2hpTTkyc3pXeDloZkxxUFEzS2VZUW5NbG5iXzhhQVJzSUlsREhZblZuUUJYWXBLblRtbUl0Q0hoeHJDeGUyN2ZscUxSMVhSZm54QkVYQnp1cWh4QTdBUHRTVi1jczVqaDktNzFNWGM2WTB5Mi1Mdkx0RUNWTkZDVjVPSXlTcmx3UExjQXNlWEdFX09nSjVLUWZQRk81T04tOGo2WXJtUUdsOGh2X1c1OWdQQ2tOekUzWndzb0NFNXdwZTRZTWVLMThLU2k?oc=5",
+      "titulo": "Victoria de River Plate lo lleva a Cuartos de Final - dsports",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXlrZGxSd3R2UzJsX252NEFoX1dPNjdlOG1FUURBTTQ4eTE5amFWQjVNMzJia3ZEb2xRSXVScWtsN0l0Umh5WGdzb3ZqNjMxQVNaV2xod040NFNDbmNxQVp5VHd1N3U3cXBGRmZVc0d0MVpHamRZM0syX3dQQ1M1clBNUXlsY2RNcFZvRjNWZmdJUkdvNU1DS0JuZWpnX0FCRHdONmhrSXhndFnSAbABQVVfeXFMUFJwVmhpdXNLRFFEUXU0VDROZEJBMHN1QnZNN1NfdDREQnMwcmdCb2lXSjlVNlVZTG5JM0VIWndhTFJERzZ0azkzV2JCeUV6LU14Vk1GMFhxTTUzbThQNWpxYjREU3lldVFySnB2TFNnR0h0dVhnaDBCd0JVbG50bUdwV3FvajIzNk1mZUo0RGVKcW5zSDlZUjB5MkFxaGNiQWdTUWx6Ty1CcHpzME96T1Y?oc=5",
+      "categoria": "River",
+      "fecha": "Mon, 23 Nov 2026 00:03:08 GMT"
+    },
+    {
+      "titulo": "River Plate 3-1 Lanús (22 de Nov., 2026) Estadísticas del equipo - ESPN Argentina",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHlZZEhESUQ3WVZTSDhySExGOTVUdFdpRUlJTFlxZHpMOGYyLS1PUnRhVkFVMTBKMnFmMFhXb1h5dXB3aXh2NGYtN3FJS3hKVUk1a0dwNko4S0FCQ2EzR21TTkZDNkpQN2xnUUtrUkJ3SFd3bXdMLXE0LWZZZkcxNEdUUFFFZmV1Z1E?oc=5",
+      "categoria": "River",
+      "fecha": "Sun, 22 Nov 2026 21:56:33 GMT"
+    },
+    {
+      "titulo": "River mostró carácter para vencer a Lanús y clasificarse a los cuartos de final - DeporTV",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZHVKdmF2ZG80UWdXWC0xZnViVFdfTEpxcm1obU0tWlhOd0dyd1B4ZmdKTmdlRk1ZVTVOX3Jzci1TZUswSVBOd0RHMWJQQ091Qndva3hpejVvRHFYRVlyN0swcDJ5NDNETVp0Y1VqdVVqd2JYREJiLUdTOXJ3dGFlQXV1ZmprdHBYaVAtWU9FQ081UzN0dnZSYWdIbkVjMW5mb19KTU4za1o?oc=5",
+      "categoria": "River",
+      "fecha": "Sun, 22 Nov 2026 23:58:00 GMT"
+    },
+    {
+      "titulo": "River vs. Lanús, EN VIVO por la Liga Profesional de Fútbol 2024 - El Destape",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjhVaXRwa1Z5UnQ1VVBuZFFFSXNfQk5BRHRHMk1ONnFKU0t5WWpub1ZiMHlIdzlKRElXUnhKOWJ4OC1wM1JreGkwYktxc01QUEJ4d2VfUTB3LTJQem5KZ1BYMXpDOUk1V2daVmxjcEE0SnVGRmlKeHZSaGVZRDRrQ2lxUkxPbzBOM2VPRHVHdzdpaGhod01kQ0Z5UVlhUFIyek5tZWljdTZpOXJsa05vU0FQb19nSkxHYXpQbGFvNNIBvwFBVV95cUxOQjhVaXRwa1Z5UnQ1VVBuZFFFSXNfQk5BRHRHMk1ONnFKU0t5WWpub1ZiMHlIdzlKRElXUnhKOWJ4OC1wM1JreGkwYktxc01QUEJ4d2VfUTB3LTJQem5KZ1BYMXpDOUk1V2daVmxjcEE0SnVGRmlKeHZSaGVZRDRrQ2lxUkxPbzBOM2VPRHVHdzdpaGhod01kQ0Z5UVlhUFIyek5tZWljdTZpOXJsa05vU0FQb19nSkxHYXpQbGFvNA?oc=5",
+      "categoria": "River",
+      "fecha": "Mon, 23 Nov 2026 01:39:38 GMT"
+    },
+    {
+      "titulo": "River Plate vs. Lanús (22 de Nov., 2026) Estadísticas del equipo - ESPN Deportes",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNajVEZHhhTmt0Sl9pMS1OVDhrZmdRRmltY0RkWldKNllfYUE0SWRvMGhwa2h4Wm9Va2MxRVExTGRlejkxRjVxd1V2NGlyV1NtZThTOTNuNjk2RWx5MDd6WHVQMW9JWndaWjNzanRuQUFnX2ZvUVhmZU54enJJMVR5cGhNdXJSbXNmTlE0bkR3dU9BUQ?oc=5",
+      "categoria": "River",
+      "fecha": "Sun, 22 Nov 2026 22:02:05 GMT"
+    },
+    {
+      "titulo": "Ver EN VIVO River Plate vs. Lanús: dónde seguir por TV y ONLINE en streaming - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUUpKbHdsSWRyOTE2aUMyNnduSEFkb3Q5Ui12el9qWnZLTnJtdjNXRlNBMDUxWVBfNDdNWVMtZG9JN0ozSkNsQW5TZXd5OWJrSHdURmtsSVFKa01kc0NnZVRRbmJWbHBNdEVXRm5kY24xdC1NODNWaU5yTnRfTDh4NUVoVjFSVFJqU3pYZTBmMW5uNzBwWU9EWGhhbEdqUlVvVXFjejdWTWlfdTd0U1hJNVVVelNTT2lzU1dzYi1B?oc=5",
+      "categoria": "River",
+      "fecha": "Sun, 22 Nov 2026 21:00:02 GMT"
+    },
+    {
+      "titulo": "Los mejores videos del River-Lanús: el gol salvador de Andrada y el doblete de Almada - Olé",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHZ3UXVaanhPMVk0QTBoZjlMa1Flc3dpVGJkaGpobDJ3V2NsbDJUR2VyT1MwSjBSS1BXVmlNRTJMU05PSEZlVS1MaWxVSEJqb0x4OWFjdElRcG0yREJLQVVIakVjNk4yeHFzVDlHYWNtb0xGMjc0MVF3NjZIQjhMTWNjTjVicmg5U2hJWUkwSnZwQkVUX2tUZXBsUUdDYi1xYTRVZk54ZTRIQVHSAbABQVVfeXFMUENnUjlLY0YtczJkT29XZ1N6ZTM2NHc4UHVvMWJXTHlYa3A1Vkh0bkdMdEFrY1FvWUdrdFFqOFgycDlad1hxLWlFX0luYUpjZDVFT0wwQ1UycXc4bWRpMlI5RjZoT2V0MVV4NDVNOHg2akxUM3R1eWlYa1ZzZWxUS2tjY3NBZHo0c2ViM0JUWG1helJqS2RwSXlqWDJwUUFSMFA4ZktRTHRpazZMckpXSkQ?oc=5",
+      "categoria": "River",
+      "fecha": "Sun, 22 Nov 2026 23:55:47 GMT"
+    },
+    {
+      "titulo": "Así quedaron los cruces de los playoffs del Torneo Clausura 2026 tras el triunfo de River - El Destape",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQVpWMUUxakk2WmN1VDFyRHUyeEszZHZ5MUVmNWtHYlYtY3FjY3d6b2JHSFZkNTlBWGVpRjdWa05JUFllazdFTUpWYWxXTG4tNGtzU1Q2cU5hSVRmdkxzNWI0OFhPdjJEVTI4UFliWk1rSTFBa1JDdUJPMUhLODlUakpqWDJ6aTlBdEJ4SUhWZGFIUHRGNktDeEYtUUhWUnNCVXFuYW16N1BiN3FmelluVVdtcHhMSFBwZnU3V3V4VGZRSGPSAdcBQVVfeXFMTVY4bk5NN0FZbTNxOVBZeS1Ud0puVFRGTWZCYnI1a21lUzF5N2pEd3NQdm44emktYVRCZHBoQ3ZFYkFFRzZpUldzQWhheU9ibG03SF9fMmFnUXpSVXpxOGg5RjRVR1k4c29VajJBaUctTEd6TElUV2NJN0xlQTZZQlNrQ09hOEFqeDJVczN3VGxVRkJJUjBCN2wzdmIySnlSQlNYVFNtQXJBeVFiTFpxUlR5czZ1VXpMQjQwVWdSd253Tm94SldtWG5nbHFYblQ5d0ZXZThOVVU?oc=5",
       "categoria": "Boca",
-      "fecha": "Sun, 22 Nov 2026 17:04:16 GMT"
+      "fecha": "Mon, 23 Nov 2026 00:09:26 GMT"
+    },
+    {
+      "titulo": "Los 19 títulos internacionales que festeja Boca Juniors, sin contar los de Nacional - Montevideo Portal",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUdGT3p4bGhaNGRrbVJUajhROC1zS0xNNUROMkpsMkF2N0VUTTJWeEdLUk9MTlN0a25MdDcxVnVZUGNjZDh2WXN5T1pLcHY5YWdQVjdlSUVVNk91Y0FqLTN3MXdya2xEVmlCMDMxZGppaXp1QkR5S0ZvMnRpeWNuQTZfNlJLTndLTFRnSFdzRjN4R0hqaVpCVjE1ZU15OE5RWTdHTWtJbDlHY2pMc0VWeExSazRzNXUzaTVBYldtWVJFRFBha3FfYWpB0gHuAUFVX3lxTFBmSmptNDEwY2JnTHVwY1pzU0dheV9YeEI3M3VzNXBVeFVnODZ6TFJYNW5sYnNJYUpsWkhGUkRXLVd5TXdGeExGQ1UwMFhvNmZRTTRGVUhmUllqdDVtR0RWQ2ZsQ1BITTItdXl1YXJaMHo5THJ3Ukk0c1pwb19jc1RzTXdRX3pNMlVlQVhkZUVQY29iNlFEYkZrVXpmN0NnN3RWVmhCb1RHQ0tKMXhuWnRrck9iMTVIcVJmTTBHVEUwRk9iUGExNHJCOEdWeUdMSFpmTDFpWm51YllwM0VnT3hURDh0TnVIR2JrZWtPTEE?oc=5",
+      "categoria": "Boca",
+      "fecha": "Sun, 22 Nov 2026 21:10:00 GMT"
     },
     {
       "titulo": "Boca campeón de la Copa Sudamericana: cómo quedó el ranking de títulos en el fútbol argentino - La Nación",
@@ -200,10 +200,10 @@
       "fecha": "Sun, 22 Nov 2026 01:03:00 GMT"
     },
     {
-      "titulo": "La otra final entre Argentina y Brasil que Boca Juniors le ganó a Atlético Mineiro en la Copa Sudamericana - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbmZ0UjJ3bzdJaTI3SFpvQzRsdkxvWENDNzZJWWpVNExoeTdUS1ltQVpPU0NldHdiaFRZcWctZ0JSWElCanlDQTZmUU5kZUhpX1NZVEEyNHVhREVYUk9uVlhpUzZYWm1tdFdrd0pUWTZaZGpYNU1BemR5WUFHM21xalFmdzhBUGFjcVpDMm40cUZJZmdVdHhiNkQ2aVhJcDREMlpRbHJVLWZCWmRJeTRkTThZWXJBZVR0bC1RLU4wZ1FuNjFrLVJfQnlDNkJjY09jdE01SjZpVGluMlRQV0Rqdldsa0ltUdIBgAJBVV95cUxNZnE4TmUwN0pnRTlpd1BqWnQ2ZVlGNmZjcnVNUWVoUTNOdVAtNE5acEhFTjNhcXNlQldHV0d1bHJyTzFyWGhIMnY1TkRhV3pVbWJlQlFOam5hM2ktdk9ZekdhSTJBd0ZmTVcyaWRWNFdGSkZwVXlQRUo5TG0wbjhON09iOGZxTk0zM01wclZDY1YzSm9JSmZSSVhiZlk1ZHF4TjVKR195R1VtVXZQOWVaeWRkUEFBWDhWbDFBSGYyXzhIMDNwLXVkVlgxQjJyOHBORE1OY1hGYXNhaExkdWdsaTV6dHlHTmF4MVpJckxGRExRT2Nka3hhRG1tRVlVcmp0?oc=5",
+      "titulo": "Boca superó a Independiente y Milan: cómo quedó en el ranking mundial de títulos internacionales - Cadena 3 Argentina",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakdQMmhTRVdNWnU3ZDFlQS10WmduZ2JtYlYxT1JDQ0xWa1phcGdCNVc0WUtwWHB3dFdUWjBIUVFEdWtnZlhqNXg1Q3NVQjc2SzFDQTYyTWhIR2R5ZnRFX1ludVFaNC14Mzd1NkVqeWowNnBOVmRta3JqM25GWXlDUFJtNWV6bThwRmxobTFub3NDNWdMNDM4ekNLS2F4cnNVZHhicE91VzR2UkdZVnQxQ0VRTGV4U0ZDR2lHTVVKdlZ0ZS1sdVZpQmdLSnBqY3RpQlVrd2tWYljSAd4BQVVfeXFMTUljZW93VU1nTjBidDRBTlVmZjkzUkl3RHFQaDI5a09pN2JrLWRIOFUzSVhSYjlwWVBBNDY4dFUwOUQ0QmZIb1QwajU2Z1Ntaks2Y3pzQTU5b2ZxamlndjFXRUpSYXVHWWlsckxndC0xRHlUTjlOSDh4WW9qZ29kVzlHcnVERktNaWl0aXd5ZnNEZ3Q0N0c5bW9yLTV1T2pjS0pVUnVMQm9GMUUteGo2U0U5cXA3RlotMnF2Y3h0NldWNXUyc3ZXd0xyVDZtVVRla0ZxVEpKTmlzX3NVaS1R?oc=5",
       "categoria": "Boca",
-      "fecha": "Sun, 22 Nov 2026 00:46:00 GMT"
+      "fecha": "Sun, 22 Nov 2026 01:01:02 GMT"
     },
     {
       "titulo": "Cuándo vuelve Boca a la Argentina tras ser campeón de la Copa Sudamericana y cómo sigue su agenda - DeporTV",
@@ -212,22 +212,10 @@
       "fecha": "Sun, 22 Nov 2026 05:11:00 GMT"
     },
     {
-      "titulo": "Boca y su historia con Chile: 9 futbolistas que dejaron huella en el Xeneize - ESPN Argentina",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOEoxU3hXSkN2RXFQUF85aWRDSDVGalh3eURKN0dnR05DRFBsVm91R3JLX0lqWDltbTBYX2dhNFcyTE9DMy00WVlVdmh4RkNHTXhDQ3Z2OEZKTzhHeG1FRWpLcGtZSFltLVNhbk1IVWFRbEhvb21aSVRYZDh0eERLcUZ4aXFPMjF3R1ZRLTZoSWVtMmNIRTdaY2JKcDlSU1hYdVdZb3BqdGlldEZPSDJiNFA2SUxEb1k?oc=5",
-      "categoria": "Boca",
-      "fecha": "Sun, 22 Nov 2026 16:13:00 GMT"
-    },
-    {
       "titulo": "Sebastián Villa y Álvaro Montero ganaron la Copa Sudamericana y Boca Juniors ganó esta fortuna - Bolavip",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVRodHk1MkNUZlR5QmxTUkhES28xcjFoMzB3VlF0dU02SWtERnRBbDhvajVtbzc4cU5yWEpTVV9kY09QVlJkdElyeVhXbjdGYW5lZVUzYmVFY2pWMXpXSHZoQ2pMZDQyNEhMNVVtQ1I2SkptbWs5T3E3RHhCOWRsZUN3cHNvTnV3NWhabUNBYWFxYl8xcG15UUZGM2lselpvM1hsYzg4dU5TU3ZxbWxjZ0pVQ0Zibk5SVVVWb25jOU9NSTBjU2lmejdR0gHPAUFVX3lxTE9mbDZUd1V1b1NQLUljRlJRMWY2bjdLT2ktdGhGR2pWbUJINXRsYWJ6SzdHMi02U1BDcGs0aUQ1V2lwdDZReWpjdm1oOWRlcHkxOVBqQTdkRVQ2dnNoWHBMcHRtaEwzUkk2ZTNzNWhrMDV6a04zSnNreEJtZzBFQ0F5VTV4bEZXc29kMlNCbUlIamZEdHRmVUtuTWVQbldVcmsyT2tocnd6Q1VDS3ZRTURTR0tYLTV6WUlmZUVKM1lmN3p4NXZURThVb2hqX2ZQSQ?oc=5",
       "categoria": "Boca",
       "fecha": "Sun, 22 Nov 2026 12:56:38 GMT"
-    },
-    {
-      "titulo": "SOMRA superó a Boca Juniors y es campeón del Torneo Femenino de Fútbol Playa - www.afa.com.ar",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWY4VHZyUlhMYTVOdFV2eTRDOWxCeWpaZ3ctSnktbnMyZ1otYnFqS0Z0YkpXUDFqMFFyLTE3TDVxNjN1bzlNZ1NIcUxWWWxiX1ZETU5xMm1xTF9DWnNPMzFROGpRSHRDekgzTnQtT3lqRE1sU2ZfR0JVUzFsdVdSRUlidEpkUy1iUk5aV1VKOVc4NXRSaTh5dHktTlZsNHdTMkZyVWlwT3ZNbE9J?oc=5",
-      "categoria": "Boca",
-      "fecha": "Fri, 20 Nov 2026 08:00:00 GMT"
     },
     {
       "titulo": "Miles de aficionados de Boca Juniors celebran la tercera Copa Sudamericana en Obelisco - MARCA",
@@ -236,10 +224,28 @@
       "fecha": "Sun, 22 Nov 2026 11:04:27 GMT"
     },
     {
+      "titulo": "Boca lidera: los clubes con más títulos desde que Riquelme es dirigente - Planeta Boca Juniors",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXlkMkE3c0FJdzZxb3F0TC1Bd3B5MEdhT1h3aVBaUVBRU1I2NE9FWmw1Zkp2VUhwR21jV1l6VWU0SG5NVXR1SWo4bENVRW9FeElmTnlBZm9PR05nUlNEWlJ6WlJVS3N1cG5fTi1rMHZkSV9TMHRjbnpPZlhjRll4MFhsT0FlTl92Q0lXNHBieTRhaHJWRVdqbTZFVFdJWFFqX3E1UjFRTThSN29SNEE3b1VNYk5iUQ?oc=5",
+      "categoria": "Boca",
+      "fecha": "Sun, 22 Nov 2026 16:46:12 GMT"
+    },
+    {
       "titulo": "Agenda deportiva del sábado 21 de noviembre: horarios y canales para ver fútbol, básquet y rugby en vivo - El Liberal",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcloybVpYNEFoN3BmcDNqNTA0QXl1UjhPd20tMk9FbWI5akQ3MXNpakFTbzVKOWl6VlhtRW1iNjRhX0JZQmZucUEtVUkxRTE1UkMxVU85aFdBUm51VUFZVkNWUzVLa0hHei04N214V1RfU1ZmX3o0U3ZuaGp4bDBtMjJDSHFfZFVqaG5rbFRGX0Y3eDlzcDVCeC11VzlCcE5RaEVwR3k3NFZnV3EwUXF4UXdYMjFSMVB0Sjg0alZINWNKX3J6Q21nNlAyR2JEaW5VUzY2cHlIdHV0azVPblYzM281U3YyQdIB7wFBVV95cUxOakI3NVVaNTQ5ZjVfSGtQRWZfSVZ1Ync3WUNTeC1ZSm9Fdk92OVctSTQwNEc1QXZ5eVJXSmxZNjRBUzFSN1VRc1FtV1oxLTVmMG9PV3NPbXZ5dTFOSmU1eHRJamtEM3dxeE5JX0VPQk9FV2tUZ2U0cm4xWHBWOHhLRlNENzJpUk9GYV9HUEJrMm1IRUdjVS1aNWdzMzJObFIwZWU2dTZBUnZVVGwwZnpDaFRMbkxMdE1QQkQ3QThzMjlDaUJQOTNocldwTk5YcTNNNFdIVFlkWGlHbDJlZjlVVjR0LUxQMzlIQXJzVTNJQQ?oc=5",
       "categoria": "Boca",
       "fecha": "Sat, 21 Nov 2026 09:52:00 GMT"
+    },
+    {
+      "titulo": "Boca Juniors conquista la Sudamericana y Paredes se desmaya en plena entrevista - SPORT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS19xMl9VYmEwVmZ0MF9xUzdiQU5zLTRyWWFCNmp2U21qaTBqMURCdUMtMWZYVXU4bDBjS19SNUhWaWVaZHVtV2pIY3B5bEwydnBnR2VhaDJmclVCUmJybTNEZm5JNENYQVZPRjNNT2wwWm1WTmNEM0dTcE9TTWdEZjhjZlBCWURxSWNpT2JHcEQzTVpkRzZIVVR1T093TjBPdWQ2U0Y3NmNBYkHSAasBQVVfeXFMTldvNlgyLXRhSzA0UGl4TjVhSE5HckVNakNoTktuc2RFak9yVHRBNWVjdXVxOTR2RURwWDM0WHgzc0xtb1hjVmVZSy15YmZUNF9SS001ZmNVbm9CWE1LVmRwZEE3bzh6eEE5dC1KWU14WXlyaTN0VVNETGtGZDFZcXNsZXV1c3hpM0c3XzhmQTRxWXZxZWpxdHVENmU2WWQyODRrU0FqTnNtOGpJ?oc=5",
+      "categoria": "Boca",
+      "fecha": "Sun, 22 Nov 2026 08:27:20 GMT"
+    },
+    {
+      "titulo": "Lionel Scaloni pedaleó 110 kilómetros en la Patagonia, terminó tercero en su categoría y clasificó al Mundial 2027 - TN",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWDNybnZwcUFFU0d4WU9aLU1OdGVxWWU2MHRrUHhXWWNSaG9iNldlNjgzQ1IzZnBncmR6cWRxcjZkTVJmai1McnYtQ3BIejdBOGFuMThCUTRpeVROWkNOU1ViRjB2c3hDeUZWN0JFc1F4cWQzNjdxOGhiRGVHVFF3TzFadWlxQUhsQjgtN2RPdDRaNFJOdVF5ZjBBcDJVUXdVUGtJLU0tSkw4LUZiekdOdUF1cE5QTUJ3SW9Rck82T2tCaWFoZXlPUFoteGRWZ3VXVlkwNnBvXy13eWhka2laWG1ObklpUmPSAfsBQVVfeXFMUC1QYjVET0tKczVHTlFINDhuY0ZxeGZRdHRqd2RBR1lPdmk1Y3N5MEtnRDFEdHo3MkU3YzFudk0xNUxfdTVSdC15XzgxczNZY3VxT0JiSUdzbXJ1NldEVEJCY0o4SmVjLXo2R2tjcl8yMGZ2ZXdkNHYydngtNlRqQ24tVE9SUGJydlFNRXN2VVZZMm93cWxEdElyRTU3U2llajF1ckI5NDB5VWpQeXNzcGhZMHVWSEZJaXhJdmhiaUotemtybmFub0ZzNFUxODdhSkhzYWEzNF9GZkZsbmFJMy1NMHNBeHhLZzNfVEFEV1E5TWdnbC02Uy0zRzA?oc=5",
+      "categoria": "Selección Argentina",
+      "fecha": "Sun, 22 Nov 2026 20:56:09 GMT"
     },
     {
       "titulo": "La Selección Argentina Sub-17 sufrió en el final, pero venció a Mozambique y se acomodó en el grupo: reviví lo mejor - TyC Sports",
@@ -254,52 +260,46 @@
       "fecha": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
-      "titulo": "La Selección argentina Sub-17 le ganó 2-1 a Mozambique y consiguió su primer triunfo | 22 de noviembre de 2026 - Hoy Día Córdoba",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOby0wck0tSEZDVzk1NWgyWWsxZmEzY250M0E4SHdkOHBway1fRjRfZ091OElZN2tPcG9ReWRJS1o5YTZ1WTBWSmdkWGlsYTVEblZaNHRBdVNSQjdUcWE4TlJ5ZURBZk5NYWlERmpOQkVLWGhHSUtSWVppTUJDSi1HTmYza3BFWUo5N1dMOGlfdnZmcVprWUlNSTVzZTZUWFB2WjRoWjdsRXZfRkxYckYxNlBKMExyUVA5Zlk5UUdkS0fSAcYBQVVfeXFMUHMxeXZ2aWx6NGxQNDc2NzJvaF9YTFNucGpyb2VjUVZ5MGI2bURRNmNvQ0FEOXR4SE95dkRfcnBRR0d0YzdpVEZYekhLcC1vbm5QZHluWE5mamp2LUxUbnRRZmJIemEtd3pWQjVTcTAzdkxaUTZPcFJuWHhYVm1xMWhtTWFQMFgzY2hvczhpcDF4c3VoUlhBQnVJT2ExYWtjRDBFWjNDYThINWRQSGhyZ1pLLUp5anFJaEFiRkdoUHNkeDJsalJB?oc=5",
+      "titulo": "Por qué la Selección Argentina reinventa nuestra identidad: el acontecimiento político que puede sacudir la anestesia nacional - El Destape",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTHV5Q1c5U0FDNHltQ24xZ3dLclZGaEhXc0stYXhKMjl2UzBNanNZM0hRN3dFaVFGNi1oQWhUVmJkSy1kM1Z0cElvNlZVb2pHa1RNc29MVTZUemR0allnX0MwWHFGSURhWGFlMS1vcEs3ZjBVYWVJT2MzM2dXT2ZzaFFla0FSY2o5ZVRwZFZIcENVeXdpeS1IRGVhcjluZUdacW1zNUtYU0hkY3poQk9lZVVnWVlZTlVGcjdGQVZwUTBsNjE0M1RsUllSRUFxcHNJbG9SVFhsNFF3dktBVldFdi14X1FmM2N4ckR2NU81RGdpdjczMXdzZtIBjAJBVV95cUxPWGs0dU1mU2tfcmxGbHZidHNEU3hHZGF6SFN2UFlOWW9VdGg1dVZLdHZYaTB4T2Z3RGNFYUV3RVlPWjBpS05nVEl2MVNIeVNDY1B0SDdiUXFpZ1hiRWVoT284VEg3dFROREtMVHc5ZVRtbU9mcG9ETUNiV2N6LVVlWVFENlhoSXVfaXhIeVdfOTdoRjhhR3QxejNqTDR0eVZycTBacDBNV1NEUXdsSldzelZ6X2plZ2FUYXB0aHpRSU9rRnR0bHl1eHpyQ25pVFRBcW1QRXYtYTNId09NbXNJZWtPeHJIRFE2aXlmSU93ZUNocVhJZ3RZUENEbWYzdjk2OUdyaktzOUU0NTlq?oc=5",
       "categoria": "Selección Argentina",
-      "fecha": "Sun, 22 Nov 2026 18:21:06 GMT"
+      "fecha": "Sat, 21 Nov 2026 11:38:40 GMT"
     },
     {
-      "titulo": "Argentina le ganó 2-1 a Mozambique en su segunda presentación del Mundial Sub 17: qué necesita para avanzar de ronda - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONHIwN2dDN2ZFVDE3MEZJcy15NDdaUll4dnN0MEpZQ1BiMEo5OHNqdlhlY0loMW9tRTdlcXVjN0RUSDFERENRbFZwS1lQcjdhbEtlb2doSk53SWhibVh6WXVEQkJWeEhoMHNsN0lEbGJDRGxmVnRRdHh4UHRycHVkcGxrTUZWS25OcU5yeldid3VITVB1LXJ2OEMyUlRBSWttV2x4YlZWUVprTWp4MURmT1g1MU1iWGxBeDlWVllqVG5KOXFERlJZb2t4RmJCRlZL0gHrAUFVX3lxTE1sNkYtekl1NEViNzN2eUJWMlZjYTdlTzFGMEpUR0szX1dUdE1KaU5uSENXNEVLNmY2dF9QQmNzZDE2cDBFSU5UUG5zcTVwUXNGR0pFQmlXekViR1ZUMU5vY0pKRFRJVWktalhGZXVrT2poVGNWWW5yeTRNbXZpblR5cGt2bmI3X1pPMVZHdGFfZXJkRU1GQktQSVU3Z2xqdUNhbV9EQmlyUm5IZUVoQXZ1LUZWdTFEWmFZbHExVVVXOWliX0Jmb256Nk9VNEZ3aEw2QzJHa0NLYmx3VXppS2NCb0JxMGxQNFgxY00?oc=5",
+      "titulo": "Fue campeón con la Selección, siguió su carrera en el ascenso y terminó trabajando como mecánico - Doble Amarilla",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRWFIdEVzazBMWlFCOVZTOGoyd0hxYWc3dHJORW5BR2J3QjItVXdxVWEyQlZ6SllHMUpxSk5yRWE5aFBzV0F2TDRKVjY1ZXFFazFwZzEyY1BhcU5oSFFYazZRV0d4X1FueWd0VjlGMFdieUVZTUtJN09tSFZmMm82Y0wxaVpvMU5NRDdtdVhDR2xERmlBY1l4RWtqYlFsYWdZYkwzU1JjRW1LZElGOGNHM043OC00X29nNGg1Rmw3eC1scXFpLVlCeExEM09xOHVPUUlkQ3c1R09JU05heGlFZUY2SUtUM0R5VzM3cENfeDRtN2tkX0lfOEFFZlBHLXotRFd1c2l30gGUAkFVX3lxTE5jck10SkppODY5bG0yVE5oUklac3RDTWNtMnZJdVI1al9sTV8wT0NvTWF4bDcwc1o0Zm45Mk5rUGlvTGRNYU8yZ2otLTdDTVRia1dBR3o1MTNVMUxHVjJWbWVxV2ZDcnFNS1pxQU1DRWVvWFVwZzhXRVZvQkpqOGZWRDc2TGtxZ3Uwak5SMEtuc2pZMlQyMDNISEZYMGlNZk9OT2FxcURpQ3FDSkZUa09Zd3VrNHpkVjNlemZjd0M5Z0xRS1NEVVBDc3NQMVItSy1ZcGhjcGdxM1ptMnpfREQ3empjbUJrM3h0V2plVGRmZWpYcGFXNHNVRXB6dmpjRWsxRjhlb2NwNENNcl95ckhSd1Qtdg?oc=5",
       "categoria": "Selección Argentina",
-      "fecha": "Sun, 22 Nov 2026 18:26:28 GMT"
+      "fecha": "Sat, 21 Nov 2026 19:58:17 GMT"
     },
     {
-      "titulo": "Lionel Scaloni pedaleó 110 kilómetros en la Patagonia, terminó tercero en su categoría y clasificó al Mundial 2027 - TN",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWDNybnZwcUFFU0d4WU9aLU1OdGVxWWU2MHRrUHhXWWNSaG9iNldlNjgzQ1IzZnBncmR6cWRxcjZkTVJmai1McnYtQ3BIejdBOGFuMThCUTRpeVROWkNOU1ViRjB2c3hDeUZWN0JFc1F4cWQzNjdxOGhiRGVHVFF3TzFadWlxQUhsQjgtN2RPdDRaNFJOdVF5ZjBBcDJVUXdVUGtJLU0tSkw4LUZiekdOdUF1cE5QTUJ3SW9Rck82T2tCaWFoZXlPUFoteGRWZ3VXVlkwNnBvXy13eWhka2laWG1ObklpUmPSAfsBQVVfeXFMUC1QYjVET0tKczVHTlFINDhuY0ZxeGZRdHRqd2RBR1lPdmk1Y3N5MEtnRDFEdHo3MkU3YzFudk0xNUxfdTVSdC15XzgxczNZY3VxT0JiSUdzbXJ1NldEVEJCY0o4SmVjLXo2R2tjcl8yMGZ2ZXdkNHYydngtNlRqQ24tVE9SUGJydlFNRXN2VVZZMm93cWxEdElyRTU3U2llajF1ckI5NDB5VWpQeXNzcGhZMHVWSEZJaXhJdmhiaUotemtybmFub0ZzNFUxODdhSkhzYWEzNF9GZkZsbmFJMy1NMHNBeHhLZzNfVEFEV1E5TWdnbC02Uy0zRzA?oc=5",
+      "titulo": "Leandro Paredes, polémico jugador de la selección argentina, se desploma en plena entrevista - 20 Minutos",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVTF1eHd3amNpTjlvczM3aDdhYXZWamk0MjZ3RkZpeVY0MGRwTnY3eHlPNDVTaVdNZjhOakdkc21iOURHcXhVdVJuQVlXVDNzbklZRVdQLW1JZ29SZ0k4YXdnbjVEdjhLdmZUWUJxeVFtdkNPV1pyNFhQQTEwMk1kVmtGY3Bfa180X2xyQjh2S2x1aHZQVmc4VmVHTkJkZVpuWnc0Y1hfU2VaUVV1aW9SU0syRURGTXp2ekxMUGt4MkRuV3FoYUJQZURJdDJERVNCTTlr?oc=5",
       "categoria": "Selección Argentina",
-      "fecha": "Sun, 22 Nov 2026 20:56:09 GMT"
+      "fecha": "Sun, 22 Nov 2026 09:02:36 GMT"
     },
     {
-      "titulo": "Los antecedentes de la Selección Argentina en Córdoba - ESPN Argentina",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOFkxRjRFRUVwd1kxSUd3aThOMEp6WDZ3UjBpeVpiMnhTQklYcGgwQXU4bTFhQU1ROUJVQ094bFM1TUdtbWxQa19DeTdUUU1FR3daaW1QMUl5d2gtbEhYUEItdHBNVnNVZ0s2Y1p4VmxNVWRkdEZOX180WEdYQVB0TUpkQVhMaTlQanV2SW02YXFYcWRncjhuWU1rYndmZURkb3F1ZjY4MVYxWTVUSmhr?oc=5",
+      "titulo": "Eliminó a Inglaterra con Argentina, fue tapa de El Gráfico, dejó el fútbol por el fin del mundo y ahora forma arqueros - El Gráfico",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxORkktMkN4Z1FScHhkUHNLYzBwQVdYSTVaSlZSRlNPVW5KRnlBTFk2NDRPRDZTaE5kdGg2ZVFwRzVnZ29fNk9lUjI4WTFEcE9JbFM4eFpKSzJHaW1JN1pfLVZ0YVozRDRyci0xLVpCZGhiSDRsemZBTlVydHVWb3FMbTFUYy1rN2VXUDl2UWxrNjZWTXBmaU0tWlZsQ3hPNWk1WmtkdUNzUXQzUTdWTWpQWUV4QUZtazVsVWZSTWdtN3FxemlZczMwTlJjZHRjRjRQRUJFTkp6d1lYM0NxenlxY1VlQkRVbGRqc0paVDM1dURBVS1qSG1YSTdUZ2pveHpFcGI2LVZBT3BON2JvRFpn?oc=5",
       "categoria": "Selección Argentina",
-      "fecha": "Tue, 17 Nov 2026 08:00:00 GMT"
+      "fecha": "Fri, 20 Nov 2026 15:41:05 GMT"
     },
     {
-      "titulo": "Ver EN VIVO Selección Argentina Sub 17 vs. Mozambique: dónde seguirlo por TV y ONLINE - TyC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaFAzQkV5XzFPQ1JjSnJ3QnpCYlFqM3RJc2FkZ3kySW5tbU80Qm9IMUFtcjNpUlVxdE9ucE94Z3M3SloxZWk4dXJvOEF5NjZ6bUFLQmdqcngzaEVhakZ6X3hOZThjTmUzaEZYWkI5clQxZ3VILXJ4d3NLR2M5Mjg1Sk9oLUZhRTdMZEpLcU5weGxlTk1SNGlZX1U4Z0xudjlfWE1TUDMzQ0hrU1ZDMWs2RHBRNGZsaENUaU5yaVJUWDdqcFhpb3l1S016QzRqREpx?oc=5",
+      "titulo": "Un ayudante de Scaloni reveló quiénes son las promesas que siguen y están en el radar de la Selección argentina - Diario UNO",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeVNpVlRjVV9vWHNwSG44NUhDazRKWGJsNGppdk9uXy1hM2JjdkxPYUtsVU01TXBhMUFNdmdCYnY4b3ZZdkk3Y1h2eVVrY0dWaUhXYU1jZXFEVmFyelJWelhmTkVUZWxZWjVhQWtMckVuYWRjcERfT05OTXhEak13VVBoUnVFQWlyV1NZQVJ5NzJGNE5FY2FZZkZmQmR1VGdERWlMaHNDRXI4QVgtVmRCM3MyNGR1M2FKRjVOWUtkOHNWeXlNNGdsRWxXUVcyLVlqbU9tLTJuSmVMaXg0dDNoendjdlBFeVFzTXpJ0gHwAUFVX3lxTE5qbXh3Skx5OUpTdC1uY2FrSEFoTG1TZ3JuRlVEMHVTLW1FNTdhSEFWRXBaM3FTTmtHNkNuVG5LRkl4cFRkbUJXTjNzSFctWUtHak1ZZGpBR1NDTWExVnd5TElnVVdVR3FJbG1RckRDanR5WmYzM0hBN3o3N01wYjZxcHJLOTgtekpYZ0p2aHlrYjhRU2lFYUlzSUFXR0hpdkp2XzFQOW81aF8zU1NpV2ZQLXdzSlgtR1YzeHI4THNtSVVPNEVmNDZMWC02MEVpMmRPdFU0Snp5ZTdhTXdnS1hXLThIREFMTGpwQUFYNmVsWg?oc=5",
       "categoria": "Selección Argentina",
-      "fecha": "Sun, 22 Nov 2026 15:15:36 GMT"
+      "fecha": "Fri, 20 Nov 2026 12:45:25 GMT"
     },
     {
-      "titulo": "La Selección Argentina femenina anunció la lista de convocadas para los amistosos ante Alemania y Uruguay - DeporTV",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORzNnN2hCRmlobWwzN294b2pPRFp2RzA5dndYWGRzaTBvWUxSSnFzNGZndlJvSW5Mc3lhbDNlODJtTlhJUUU4TnFBZ29zZll3UlBqQTBBTTRybkd6dVV0V0VlYzY0TllwN0diQzF5cU1kWUFNbmFIcFlXUWZfQjNNdWdzUFF0TTN3b1laaTlzS3lZSlRjRlg1d1FvTlVlbFc1bFpsSGJBWHpaNXBtRUkybm5QYng5UkhRLTdWNg?oc=5",
+      "titulo": "Argentina vuelve a la carga con el madridista Carlos Díez e inquieta a la RFEF - Diario AS",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOVBreW51eTZXSHJGUHBBU2VqNjlpeThoQ0VMMkJadlpFNlZ4SUg4SkZjeGh3Y0NzTlJmLUJjS3hIQmp3UVR3eHh6b2dtNHdsMjBOcURqSmdXQzdtUWI1YVhabUp4NjNyTjB4dElBRkl6dU8wb1JYdGpSNHV4N0RueXpWaDFuZkNWdkxPS2Y2TkdSQUlmSFF5Z011T1RhdWJFSEJvZVNnbTNFRHZFdko0MldydGJVVjF4aklTMF9B0gHSAUFVX3lxTE9SNllEUTRacmI4MWhkbFRzTFVPVlZKTVNuVC1yTm0zYUFxYlZWeVJkMWk2a2lKOGI5ZDI3WHFsdUI5QzVfdVJmLVRqYUI5aVZ4ZE5RVl92VFlxdURtVThpeEh3RVF1OE1jYXpxRzV5UHotT09UbDVTUW5JRThkQ2JjTG5tcmVqY2lWSkRHdlMzcXpJc09uWEZqOWw1VlZ0U3kzY1FlYUdNSlRZQjV5SkFXY093OG9TbVgyRWg3bE4xc2xyYW9Lek05aU5qQTJFNkxWdw?oc=5",
       "categoria": "Selección Argentina",
-      "fecha": "Thu, 19 Nov 2026 12:15:00 GMT"
+      "fecha": "Fri, 20 Nov 2026 08:41:19 GMT"
     },
     {
-      "titulo": "Selección Argentina: los jugadores con más presencias en la historia - ESPN Argentina",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWHFfRjNwRG9SRnpEclg0dTFwWFJ1YTFfTVVJTzN0QjYyTkpuS2QxMkduQXZnaWZpbEJKWmpNb2FTVFNHYXhmVUhsM3BpeWMtV1pSZ19ieFV3SncwTVJtdTlrQWdUdEd6dUs2WHhKRm00MG5HWktYb0wxYnd6MFI3LU94X2FRYkc4YjhIY1dLYXNncTc1TmpNb1Badnd3WmRiREJRdTNWTjF3aHNVX09xU0J5MkJFWndjbjRnY3F3?oc=5",
+      "titulo": "El pariente argentino de Xabi Alonso que fue campeón con Boca y la Selección Argentina - TyC Sports",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ2xSSXJpVHdzSExjeFNIWXZqa1VvWXMzUXBfQWhMTGVNUkd3U0NDRUxYbWd3ZVNEQmoxazlfY2xqVW0xeTF3cnhpUEJOcUd3WEdLS3FEME5taURLN2dxR0FWS0NPSUh3YnI2dGo2ZEJkcXJrRVRYZ3JMMFg5aGRCNlFuWVkzdjQ3ckFaXzRhQUFqdUZ5MU9SS1NzSGlyZWJQdks4UEJNYXhUSUd5TmpTU3NHZmVFbVI2VG8zSjN3SVllQW9BTWNFbkJLd09xZmY0TWRGdm1KcFFuT2NNT3FxZlkyV0RIR2pydHZpcDRsUzdYbGFUV3B6VXd3?oc=5",
       "categoria": "Selección Argentina",
-      "fecha": "Tue, 17 Nov 2026 08:00:00 GMT"
-    },
-    {
-      "titulo": "Argentina vs. Mozambique, por el Mundial Sub 17: seguilo en vivo - El Gráfico",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXN4WEp1emtJa0ozcmhHYXNzV1JsckJlYmtHMjZZQXd1aDF4Tmw1UVgzUk5Ha1NjSEFFVGVKQ1Q1TmpodUZtTklyTmtsTmM1U1NZaDFjQjB1SmRwMUQyOU9LOVdEX1dCRGdDSm9rUkhGVDB3azNPVExLanNfY3I5YldIRFJaeDF2WmhqRlJPTnlhTHc3eVZOY0pYT1pfSG90YzJQMElZRWlBbUhyVVdFZFBIQzk4ckF6NFVFYTB3?oc=5",
-      "categoria": "Selección Argentina",
-      "fecha": "Sun, 22 Nov 2026 15:37:00 GMT"
+      "fecha": "Sun, 22 Nov 2026 10:19:12 GMT"
     }
   ]
 }
